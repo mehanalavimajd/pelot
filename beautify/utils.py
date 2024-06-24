@@ -33,7 +33,11 @@ def floorNumber(s):
         else: break
         # bro use switch
     return s2
-        
+       
+def boolHandler(a):
+    if a == False:
+        return 0
+    return 1
 def padDictList(dict_list, padel):
         lmax = 0
         for lname in dict_list.keys():
