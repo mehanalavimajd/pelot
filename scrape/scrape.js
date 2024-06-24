@@ -111,7 +111,7 @@ for (let i = 1500; i < 2000; i++) {
             }
             fs.appendFile(
               "data_raw.csv",
-              `${token},${meter},${district},${buildYear},${rooms},${price},${elevator},${space},${parking},${floor}\n`,
+              `${meter},${district},${buildYear},${rooms},${price},${elevator},${space},${parking},${floor}\n`,
               (e) => {
                 if (e) console.log(e);
                 console.log(token);
