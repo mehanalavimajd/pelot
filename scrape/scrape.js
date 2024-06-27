@@ -2,22 +2,24 @@ var axios = require("axios");
 var axiosRetry = require("axios-retry").default;
 var fs = require("fs");
 
-let arr=[]
-async function d(k){
-  await arr.push(k)
+let arr = [];
+async function d(k) {
+  await arr.push(k);
 }
+let n=0
 axiosRetry(axios, {
-  retries: 50, // number of retries
+  retries: 3, // number of retries
   retryDelay: (retryCount) => {
-    return (retryCount) * 2000; // time interval between retries
+    return n * 10000; // time interval between retries
   },
   retryCondition: (error) => {
     // if retry condition is not specified, by default idempotent requests are retried
+    n++;
     return true;
   },
 });
 
-for (let i = 1500; i < 2000; i++) {
+for (let i = 1; i < 100; i++) {
   axios
     .post(
       "https://api.divar.ir/v8/web-search/1/apartment-sell",
@@ -34,13 +36,12 @@ for (let i = 1500; i < 2000; i++) {
     .then((response) => {
       let data = response.data;
       let tokens = data["server_action_log"]["tokens_info"];
-      for (let index = 0; index < tokens.length; index++) 
-       {
-        let t=tokens[index]
+      for (let index = 0; index < tokens.length; index++) {
+        let t = tokens[index];
         let token = t["token"];
-        if(arr.includes(token)){
-          console.log("block"+token);
-          continue
+        if (arr.includes(token)) {
+          console.log("block" + token);
+          continue;
         }
         axios.default
           .get("https://api.divar.ir/v8/posts-v2/web/" + token)
@@ -109,18 +110,22 @@ for (let i = 1500; i < 2000; i++) {
               }
               if (group[2]["title"].includes("ندارد")) parking = false;
             }
-            fs.appendFile(
-              "data_raw.csv",
-              `${meter},${district},${buildYear},${rooms},${price},${elevator},${space},${parking},${floor}\n`,
-              (e) => {
-                if (e) console.log(e);
-                console.log(token);
-                d(token).then(()=>{console.log(token)})
-              }
-            );
-
+            if (arr.includes(token)) {
+              console.log("block" + token);
+            } else {
+              fs.appendFile(
+                "data_raw.csv",
+                `${meter},${district},${buildYear},${rooms},${price},${elevator},${space},${parking},${floor}\n`,
+                (e) => {
+                  if (e) console.log(e);
+                  console.log(token);
+                  d(token).then(() => {
+                    console.log(token);
+                  });
+                }
+              );
+            }
           });
-      };
-    })
-    
+      }
+    });
 }
