@@ -1,0 +1,62 @@
+meter,district,buildYear,rooms,price,elevator,space,parking,floor
+۸۶,west-tehranpars,۱۳۸۸,۲,۷٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۳ از ۷
+۴۹,taslihat,۱۳۸۶,۱,۳٬۴۵۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۳ از ۴
+۱۳۶,poonak,۱۳۹۶,۳,۱۶٬۹۸۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۵
+۶۱,yakhchi-abad,۱۳۹۱,۲,۳٬۳۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۴ از ۴
+۹۲,poonak,۱۴۰۲,۲,۱۶٬۱۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵ از ۵
+۸۰,tehran-zanjan,۱۳۹۶,۲,۴٬۴۴۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۴
+۸۰,andisheh,۱۳۹۵,۲,۳٬۳۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴
+۴۰,sarsabil,۱۳۷۵,۱,۲٬۰۹۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۱ از ۳
+۶۱,sarsabil,۱۴۰۱,۲,۵٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۴
+۵۲,sarsabil,۱۳۷۹,۱,۲٬۵۵۰٬۰۰۰٬۰۰۰ تومان,false,false,true,همکف از ۴
+۱۲۰,marzdaran,۱۳۹۳,۳,۱۷٬۴۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۶
+۱۳۶,poonak,۱۳۹۶,۳,۱۶٬۹۸۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۵
+۶۵,zahir-abad,۱۳۸۵,۲,۲٬۴۵۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۲ از ۴
+۱۵۰,chitgar,۱۴۰۳,۳,۲٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱۲ از ۱۸
+۶۱,sarsabil,۱۴۰۱,۲,۵٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۴
+۸۸,pasdaran,۱۳۹۰,۲,۱۴٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۵
+۶۵,chitgar,۱۴۰۳,۱,۴۴۵٬۰۰۰٬۰۰۰ تومان,true,true,true,۱۱ از ۱۵
+۳۵,imamzadeh-hasan,۱۳۹۴,۱,۱٬۹۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۲ از ۳
+۱۴۶,yousef-abad,۱۴۰۲,۳,۲۵٬۵۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۵
+۱۰۲,jordan,۱۳۹۳,۲,۱۵٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۵
+۱۰۸,darvazeh-shemiran,۱۳۸۵,۲,۹٬۲۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۵
+۱۰۲,jordan,۱۳۹۳,۲,۱۵٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۵
+۸۹,eram,۱۳۹۲,۲,۱۰٬۱۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۵
+۹۰,fallah,۱۴۰۲,۲,۴٬۹۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۵
+۵۵,qiamdash,۱۳۹۱,۱,۱٬۴۵۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۲ از ۳
+۱۲۸,heravi,۱۴۰۳,۳,۱۹٬۸۴۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵
+۴۷,haftchenar,۱۳۹۰,۱,۲٬۵۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۲ از ۴
+۱۰۵,sazman-ab,۱۳۸۰,۳,۹٬۲۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۱ از ۴
+۱۰۸,west-tehranpars,۱۳۹۲,۲,۱۰٬۸۷۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۵
+۱۲۶,tehranvila,۱۳۹۷,۳,۱۳٬۶۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۵
+۱۰۶,haft-hoz,۱۳۷۷,۲,۱۱٬۰۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۱ از ۴
+۶۳,south-narmak,۱۳۹۰,۲,۴٬۸۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۳ از ۴
+۷۶,afsariyeh,۱۳۹۸,۲,۴٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲
+۴۲,jeyhoun,۱۳۸۳,۱,۲٬۳۸۰٬۰۰۰٬۰۰۰ تومان,false,false,false,۱
+۶۵,dr-hoshyar,۱۳۸۵,۲,۴٬۳۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۴ از ۴
+۱۴۷,poonak,۱۳۹۴,۳,۱۸٬۹۸۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱
+۴۶,soleymani,۱۳۸۳,۱,۲٬۳۵۰٬۰۰۰٬۰۰۰ تومان,false,false,false,۲
+۵۹,azari,۱۳۸۳,۱,۲٬۲۳۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۴ از ۵
+۶۶,majidiyeh,۱۴۰۲,۲,۵٬۵۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳
+۹۶,shahr-e-ziba,۱۳۸۳,۲,۶٬۸۵۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۲ از ۴
+۴۵,shahrak-e-vilashahr,۱۳۹۸,۱,۳٬۵۷۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۳
+۱۷۵,chitgar-lake,۱۴۰۳,۳,۲۷٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۳
+۱۱۰,qeytariyeh,۱۴۰۳,۲,۲۸٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲
+۱۰۰,mobarak-abad-e-beheshti,۱۴۰۳,۲,۲٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵
+۶۸,sattarkhan,۱۳۸۵,۱,۶٬۷۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۲ از ۴
+۳۳,beryanak,۱۴۰۰,۱,۲٬۳۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۳
+۷۵,sazamn-barnameh,۱۳۸۹,۲,۶٬۲۵۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۳ از ۳
+۱۷۸,south-janat-abad,۱۴۰۲,۳,۲۵٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۵
+۱۵۰,darrous,۱۳۸۶,۳,۲۶٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۵
+۲۱۵,elahiyeh,۱۳۹۲,۳,۴۱٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۶ از ۶
+۸۳,poonak,۱۳۹۴,۲,۸٬۹۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۵
+۱۲۰,south-mehrabad,۱۴۰۳,۲,۸٬۲۸۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۱
+۵۱,andisheh,۱۳۹۵,۱,۲٬۷۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱
+۴۳,bolursazi,۱۳۹۱,۱,۲٬۵۵۰٬۰۰۰٬۰۰۰ تومان,false,true,true,همکف از ۴
+۳۶,sabalan,۱۳۹۶,۱,۲٬۶۲۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۲ از ۴
+۱۲۰,north-shahran,۱۳۸۶,۲,۱۱٬۳۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۵
+۱۲۰,chitgar,۱۴۰۳,۳,۴٬۳۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱۲ از ۱۴
+۹۴,kuhak,۱۳۹۶,۲,۷٬۸۳۶٬۰۰۰٬۰۰۰ تومان,true,true,true,۱۷
+۹۰,central-janat-abad,۱۳۹۲,۲,۹٬۷۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۵
+۹۲,chitgar,۱۴۰۳,۲,۱٬۹۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۸
+۱۲۵,tehransar,۱۴۰۳,۳,۱۱٬۲۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳
