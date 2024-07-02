@@ -1,7 +1,7 @@
 var axios = require("axios");
 var axiosRetry = require("axios-retry").default;
 var fs = require("fs");
-
+let districts=['qalamestan', 'chitgar-lake', 'tehransar', 'azad-shahr', 'sattarkhan', 'gisha', 'khani-abad-no', 'south-janat-abad', 'jamalzadeh', 'bagh-feyz', 'firoozabadi', 'pirouzi', 'shams-abad', 'poonak', 'fallah', 'west-tehranpars', 'qeytariyeh', 'north-sohrevardi', 'vanak', 'sarsabil', 'chitgar', 'gomrok', 'mobarak-abad-e-beheshti', 'marzdaran', 'shahrak-naft-district5', 'shamshiri', 'ostad-moein', 'sharara', 'niavaran', 'sheykh-al-raeis', 'hor-square', 'azarbaijan', 'shahr-e-ziba', 'shadman', 'aseman', 'atabak', 'khavaran', 'kooy-e-ferdos', 'yousef-abad', 'andisheh', 'narmak', 'doolab', 'ajoodanieh', 'shahid-navab-safavi', 'velenjak', 'north-janat-abad', 'jeyhoun', 'aref', 'shiva', 'ekhtiyariyeh', 'tehran-gorgan', 'south-deylaman', 'dr-hoshyar', 'heravi', 'saadat-abad', 'abshar-tehran', 'amiriyeh', 'tehran-zanjan', 'qoba', 'north-shahran', 'darvazeh-shemiran', 'vahidiyeh', 'shokoofeh', 'pasdaran', 'tehran-kerman', 'niroo-havayi', 'nazi-abad', 'south-mehrabad', 'zafaraniyeh', 'amir-bahador', 'azari', 'west-shahrak-e-golestan', 'hakimiyeh', 'sadeghiyeh', 'tehran-lashkar', 'behjat-abad', 'east-shareq', 'heshamatiyeh', 'tarasht', 'south-shahran', 'kamraniyeh', 'darya', 'saeed-abad', 'javadiyeh', 'shirazi', 'bahar', 'parastar', 'mirdamad', 'darrous', 'amir-abad', 'nosrat', 'haftchenar', 'shahrak-e-takhti', 'east-tehranpars', 'sorkhe-hesar', 'khaje-nezam-molk', 'farmaniyeh', 'aghdasieh', 'shahrak-e-vali-e-asr', 'sarsabz', 'abouzar', 'tehran-jolfa', 'beryanak', 'moshiriyeh', 'jey', 'central-janat-abad', 'eslam-abad', 'hesar-booali', 'sazamn-barnameh', 'tehran-hosein-abad', 'soleymani', 'ekbatan', 'salamat', 'shahrak-e-gharb', 'amaniyeh', 'south-narmak', 'evin', 'kooye-e-hefdahom-e-shahrivar', 'tolid-daroo', 'ozgol', 'baqerkhan', 'molavi', 'tayeb', 'mina', 'majid-abad', 'bagh-khazaneh', 'bolursazi', 'elahiyeh', 'mahmoodiyeh', 'aminhozour', 'zafar', 'nezam-abad', 'shabiri', 'tehran-police', 'shahrak-e-parvaz', 'dolat-abad', 'dabestan', 'dolatkhah', 'imamzadeh-hasan', 'aboozar', 'javadiyeh-tehran-pars', 'khalij-e-fars', 'shahrak-e-mahalati', 'jordan', 'shahin', 'jomhouri', 'eshrat-abad', 'yaftabad', 'eskandari', 'emamzade-ghasem', 'hekmat', 'javanmard-e-ghasab', 'shemiran-no', 'shahrak-e-jandarmeri', 'taslihat', 'north-karegar', 'darabad', 'kan', 'nemat-abad', 'afsariyeh', 'moniriyeh', 'valiasr', 'shahrak-e-kianshahr', 'tehran-no', 'minabi', 'shahrak-e-taleghani', 'araj', 'sanglaj', 'saheb-al-zaman', 'sheykh-hadi', 'hashem-abad', 'dezashib', 'ahang', 'fadak', 'charsad-dastgah', 'masoudieh', 'tehranvila', 'gholhak', 'elm-o-sanat', 'qezel-qaleh', 'behdasht', 'vardavard', 'sabalan', 'qasemabad', 'yakhchi-abad', 'aramaneh', 'south-ali-abad', 'zargandeh', 'seyed-khandan', 'dehkade-olympic', 'motahari', 'sizdah-aban', 'imam-sajjad', 'jalili', 'baharan', 'sohanak', 'darakeh', 'sazman-ab', 'shahrak-naft', 'hashemi', 'tohid', 'shaharak-e-shariyati', 'almahdi', 'hasan-abad-shomali', 'tavanir', 'kuy-faraz', 'karevan', 'eram', 'abbas-abad', 'enqelab', 'niloufar', 'golchin', 'zahir-abad', 'qiamdash', 'haft-hoz', 'majidiyeh', 'shahrak-e-vilashahr', 'kuhak']
 let arr = [];
 async function d(k) {
   await arr.push(k);
@@ -19,19 +19,11 @@ axiosRetry(axios, {
   },
 });
 
-for (let i = 1; i < 100; i++) {
+for (let i = 0; i < 218; i++) {
   axios
-    .post(
-      "https://api.divar.ir/v8/web-search/1/apartment-sell",
-      JSON.stringify({
-        page: i,
-        json_schema: {
-          category: {
-            value: "apartment-sell",
-          },
-        },
-        "last-post-date": Math.floor(Date.now() * 1000),
-      })
+    .get(
+      "https://api.divar.ir/v8/web-search/tehran/buy-apartment/"+districts[i],
+
     )
     .then((response) => {
       let data = response.data;

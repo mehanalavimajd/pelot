@@ -1,4 +1,4 @@
-from utils import persianNumber,floorNumber
+from beautify.utils import persianNumber,floorNumber
 def dataClassifier(result):
     district=result['webengage']['district']
     meter=persianNumber(result['sections'][-1]['widgets'][0]['data']['items'][0]['value'])
