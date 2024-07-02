@@ -1,10 +1,18 @@
 import requests
 import json
 import time,math
-from utils import padDictList
 from data import dataClassifier
 import pandas as pd
 
+def padDictList(dict_list, padel):
+        lmax = 0
+        for lname in dict_list.keys():
+            lmax = max(lmax, len(dict_list[lname]))
+        for lname in dict_list.keys():
+            ll = len(dict_list[lname])
+            if  ll < lmax:
+                dict_list[lname] += [padel] * (lmax - ll)
+        return dict_list
 Data = {
     'district':[],
     'meter':[],
@@ -61,4 +69,4 @@ for j in range(1,30):
     Data = padDictList(Data, None) # making same length if anything is missed
 
     df=pd.DataFrame(Data) 
-    df.to_csv("data.csv", sep=',', index=False)
+    df.to_csv("data۲.csv", sep=',', index=False)

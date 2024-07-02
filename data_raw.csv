@@ -1,62 +1,2149 @@
 meter,district,buildYear,rooms,price,elevator,space,parking,floor
-۸۶,west-tehranpars,۱۳۸۸,۲,۷٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۳ از ۷
-۴۹,taslihat,۱۳۸۶,۱,۳٬۴۵۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۳ از ۴
-۱۳۶,poonak,۱۳۹۶,۳,۱۶٬۹۸۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۵
-۶۱,yakhchi-abad,۱۳۹۱,۲,۳٬۳۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۴ از ۴
-۹۲,poonak,۱۴۰۲,۲,۱۶٬۱۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵ از ۵
-۸۰,tehran-zanjan,۱۳۹۶,۲,۴٬۴۴۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۴
-۸۰,andisheh,۱۳۹۵,۲,۳٬۳۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴
-۴۰,sarsabil,۱۳۷۵,۱,۲٬۰۹۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۱ از ۳
-۶۱,sarsabil,۱۴۰۱,۲,۵٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۴
-۵۲,sarsabil,۱۳۷۹,۱,۲٬۵۵۰٬۰۰۰٬۰۰۰ تومان,false,false,true,همکف از ۴
-۱۲۰,marzdaran,۱۳۹۳,۳,۱۷٬۴۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۶
-۱۳۶,poonak,۱۳۹۶,۳,۱۶٬۹۸۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۵
-۶۵,zahir-abad,۱۳۸۵,۲,۲٬۴۵۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۲ از ۴
-۱۵۰,chitgar,۱۴۰۳,۳,۲٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱۲ از ۱۸
-۶۱,sarsabil,۱۴۰۱,۲,۵٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۴
-۸۸,pasdaran,۱۳۹۰,۲,۱۴٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۵
-۶۵,chitgar,۱۴۰۳,۱,۴۴۵٬۰۰۰٬۰۰۰ تومان,true,true,true,۱۱ از ۱۵
-۳۵,imamzadeh-hasan,۱۳۹۴,۱,۱٬۹۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۲ از ۳
-۱۴۶,yousef-abad,۱۴۰۲,۳,۲۵٬۵۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۵
-۱۰۲,jordan,۱۳۹۳,۲,۱۵٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۵
-۱۰۸,darvazeh-shemiran,۱۳۸۵,۲,۹٬۲۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۵
-۱۰۲,jordan,۱۳۹۳,۲,۱۵٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۵
-۸۹,eram,۱۳۹۲,۲,۱۰٬۱۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۵
-۹۰,fallah,۱۴۰۲,۲,۴٬۹۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۵
-۵۵,qiamdash,۱۳۹۱,۱,۱٬۴۵۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۲ از ۳
-۱۲۸,heravi,۱۴۰۳,۳,۱۹٬۸۴۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵
-۴۷,haftchenar,۱۳۹۰,۱,۲٬۵۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۲ از ۴
-۱۰۵,sazman-ab,۱۳۸۰,۳,۹٬۲۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۱ از ۴
-۱۰۸,west-tehranpars,۱۳۹۲,۲,۱۰٬۸۷۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۵
-۱۲۶,tehranvila,۱۳۹۷,۳,۱۳٬۶۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۵
-۱۰۶,haft-hoz,۱۳۷۷,۲,۱۱٬۰۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۱ از ۴
-۶۳,south-narmak,۱۳۹۰,۲,۴٬۸۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۳ از ۴
-۷۶,afsariyeh,۱۳۹۸,۲,۴٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲
-۴۲,jeyhoun,۱۳۸۳,۱,۲٬۳۸۰٬۰۰۰٬۰۰۰ تومان,false,false,false,۱
-۶۵,dr-hoshyar,۱۳۸۵,۲,۴٬۳۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۴ از ۴
-۱۴۷,poonak,۱۳۹۴,۳,۱۸٬۹۸۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱
-۴۶,soleymani,۱۳۸۳,۱,۲٬۳۵۰٬۰۰۰٬۰۰۰ تومان,false,false,false,۲
+۶۰,jamalzadeh,۱۳۸۳,۲,۴٬۵۲۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۱ از ۴
+۶۵,jamalzadeh,۱۳۷۲,۱,۳٬۸۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۱ از ۴
+۸۸,jamalzadeh,۱۳۷۲,۲,۴٬۴۵۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۲ از ۴
+۵۲,jamalzadeh,۱۳۷۸,۱,۳٬۲۰۰٬۰۰۰٬۰۰۰ تومان,false,false,false,۲ از ۴
+۶۴,jamalzadeh,۱۳۸۰,۱,۶٬۰۰۰٬۰۰۰٬۰۰۰ تومان,false,true,false,۱ از ۴
+۸۵,jamalzadeh,۱۳۸۲,۲,۷٬۰۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۳ از ۳
+۹۰,jamalzadeh,۱۳۷۱,۲,۴٬۶۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۱ از ۲
+۹۰,jamalzadeh,۱۳۹۷,۲,۷٬۸۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳
+۱۰۰,jamalzadeh,۱۴۰۲,۲,۷٬۷۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۴
+۶۵,jamalzadeh,۱۴۰۳,۲,۶٬۷۰۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۴
+۵۰,jamalzadeh,۱۳۸۰,۱,۳٬۱۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۴ از ۴
+۱۱۸,jamalzadeh,قبل از ۱۳۷۰,۲,۱۰٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۳
+۷۱,jamalzadeh,۱۳۸۴,۲,۵٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۵
+۱۱۰,jamalzadeh,۱۳۷۵,۲,۸٬۰۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,همکف از ۴
+۷۱,jamalzadeh,۱۳۹۹,۲,۶٬۷۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۶
+۱۳۳,jamalzadeh,۱۴۰۲,۳,۱۶٬۶۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳
+۷۶,jamalzadeh,۱۳۸۵,۲,۶٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۴
+۶۳,jamalzadeh,۱۳۸۵,۲,۴٬۲۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۲ از ۴
+۷۸,jamalzadeh,۱۳۷۸,۲,۵٬۰۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۳ از ۴
+۴۵,jamalzadeh,۱۳۸۱,۱,۳٬۳۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,همکف از ۴
+۶۹,jamalzadeh,۱۳۸۵,۲,۴٬۲۰۰٬۰۰۰٬۰۰۰ تومان,false,false,false,۴ از ۴
+۱۰۹,gisha,۱۳۹۶,۲,۱۵٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱
+۱۵۰,gisha,۱۴۰۱,۳,۳۶٬۷۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۵
+۹۰,gisha,۱۳۹۵,۲,۱۴٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۵
+۱۹۵,gisha,۱۴۰۳,۳,۳۶٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵ از ۵
+۹۶,gisha,۱۳۹۵,۳,۱۷٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴
+۷۴,jamalzadeh,۱۳۸۲,۲,۵٬۰۰۰٬۰۰۰٬۰۰۰ تومان,false,false,false,۲ از ۴
+۱۰۲,gisha,قبل از ۱۳۷۰,۲,۱۰٬۱۰۰٬۰۰۰٬۰۰۰ تومان,false,true,false,۱
+۱۱۶,gisha,۱۳۸۵,۳,۱۳٬۹۲۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵ از ۵
+۱۰۰,chitgar-lake,۱۴۰۲,۲,۲٬۶۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱۵ از ۲۲
+۱۱۱,chitgar-lake,۱۴۰۲,۲,۳٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱۳ از ۳۰
+۱۰۰,chitgar-lake,۱۴۰۳,۲,۱٬۹۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۶
+۲۵۰,chitgar-lake,۱۴۰۳,۴,۶٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱۸ از ۲۲
+۱۵۰,chitgar-lake,۱۴۰۳,۳,۲٬۰۲۵٬۰۰۰٬۰۰۰ تومان,true,true,true,۱۰ از ۱۰
+۱۰۰,chitgar-lake,۱۴۰۱,۲,۴٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲۵ از ۳۰
+۸۰,chitgar-lake,۱۴۰۳,۲,۱٬۲۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵ از ۱۳
+۱۴۰,chitgar-lake,۱۴۰۲,۳,۲٬۲۴۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱۲ از ۱۸
+۶۰,chitgar-lake,۱۴۰۳,۲,۲٬۷۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲۵ از بیشتر از ۳۰
+۷۵,chitgar-lake,۱۴۰۳,۲,۱٬۸۷۵٬۰۰۰٬۰۰۰ تومان,true,true,true,۱۰
+۸۴,chitgar-lake,۱۳۸۸,۲,۷٬۱۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱
+۱۲۰,chitgar-lake,۱۴۰۳,۳,۱٬۶۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۹ از ۱۵
+۳۰,chitgar-lake,۱۴۰۳,۱,۵۷۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱۰
+۹۲,qalamestan,۱۴۰۳,۲,۵٬۷۹۶٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۷
+۴۰,qalamestan,۱۳۹۰,۱,۲٬۲۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۱
+۸۴,qalamestan,۱۳۸۸,۲,۴٬۶۲۰٬۰۰۰٬۰۰۰ تومان,false,true,true,همکف
+۸۸,qalamestan,۱۳۹۸,۲,۵٬۷۰۰٬۰۰۰٬۰۰۰ تومان,true,false,false,۵ از ۵
+۵۹,qalamestan,۱۳۸۲,۲,۳٬۴۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۳ از ۳
+۶۹,qalamestan,۱۳۹۶,۱,۴٬۶۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱
+۷۵,qalamestan,۱۳۸۰,۲,۴٬۰۵۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۳
+۶۵,qalamestan,۱۳۸۵,۱,۴٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵ از ۵
+۵۰,qalamestan,۱۳۸۸,۱,۲٬۴۵۰٬۰۰۰٬۰۰۰ تومان,false,false,true,همکف
+۵۴,qalamestan,۱۳۹۳,۲,۳٬۰۵۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۴
+۷۳,qalamestan,۱۴۰۳,۲,۴٬۷۴۵٬۰۰۰٬۰۰۰ تومان,true,true,true,۳
+۵۲,qalamestan,۱۳۸۴,۱,۳٬۳۵۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۱
+۵۲,qalamestan,۱۳۸۱,۱,۲٬۵۵۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۳
+۸۸,qalamestan,۱۳۹۸,۲,۶٬۲۰۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۱
+۶۰,tehransar,۱۳۹۷,۲,۳٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۳
+۴۶,tehransar,۱۳۹۶,۱,۲٬۴۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۳
+۷۶,tehransar,۱۳۹۲,۲,۲٬۹۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۴
+۱۶۰,tehransar,۱۴۰۳,۳,۱۳٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۶ از ۱۲
+۱۲۸,tehransar,۱۴۰۳,۳,۱۱٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱۰ از ۱۲
+۱۷۴,tehransar,۱۴۰۳,۳,۱۴٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱۰
+۴۷,qalamestan,۱۴۰۱,۱,۳٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۱
+۴۵,tehransar,۱۳۹۹,۱,۱٬۳۸۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳
+۶۴,tehransar,۱۳۹۳,۱,۵٬۴۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۴
+۷۰,bagh-feyz,۱۳۹۵,۲,۷٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۵
+۲۳۵,tehransar,۱۴۰۳,۳,۲۱٬۱۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱۳ از ۱۳
+۱۰۰,bagh-feyz,۱۳۸۲,۲,۷٬۹۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۳ از ۴
+۹۰,bagh-feyz,۱۴۰۳,۲,۱۴٬۳۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۴
+۴۶,bagh-feyz,۱۴۰۱,۱,۶٬۲۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۷
+۷۰,bagh-feyz,۱۳۸۹,۲,۶٬۲۸۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۱
+۱۳۲,bagh-feyz,۱۴۰۳,۳,۲۳٬۷۶۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۴
+۱۰۳,bagh-feyz,۱۳۸۶,۲,۸٬۸۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۵
+۸۵,bagh-feyz,۱۳۸۱,۲,۶٬۹۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۵
+۶۵,bagh-feyz,۱۳۸۵,۱,۵٬۴۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۲ از ۴
+۱۰۰,bagh-feyz,۱۳۹۳,۲,۱۱٬۲۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲
+۵۵,bagh-feyz,۱۳۸۶,۲,۵٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴
+۹۸,bagh-feyz,۱۳۹۰,۲,۱۰٬۲۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱
+۱۳۵,firoozabadi,۱۴۰۱,۳,۱۰٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۵
+۶۳,firoozabadi,۱۴۰۱,۱,۴٬۱۵۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۱
+۷۴,firoozabadi,۱۴۰۲,۲,۵٬۴۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۵
+۴۳,firoozabadi,۱۳۹۰,۱,۲٬۱۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۲
+۴۸,firoozabadi,۱۳۹۴,۱,۳٬۴۰۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۲
+۱۳۵,firoozabadi,۱۴۰۲,۳,۹٬۱۸۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۵
+۱۱۸,firoozabadi,۱۴۰۳,۳,۸٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱
+۹۰,firoozabadi,۱۳۹۴,۲,۴٬۵۵۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۳
+۹۰,firoozabadi,۱۴۰۳,۲,۷٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۵
+۴۵,firoozabadi,۱۳۸۴,۱,۲٬۳۰۰٬۰۰۰٬۰۰۰ تومان,false,false,false,۱
+۱۰۰,firoozabadi,۱۴۰۲,۲,۷٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۳ از ۵
+۸۵,firoozabadi,۱۳۸۲,۲,۳٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۴
+۱۳۵,firoozabadi,۱۴۰۲,۳,۱۰٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۱
+۸۲,firoozabadi,۱۳۹۰,۲,۴٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۴ از ۴
+۱۲۸,firoozabadi,۱۴۰۳,۲,۸٬۷۰۴٬۰۰۰٬۰۰۰ تومان,true,true,false,۱ از ۵
+۸۷,firoozabadi,۱۳۹۵,۲,۷٬۲۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۴
+۱۲۵,firoozabadi,۱۴۰۳,۲,۸٬۸۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱
+۹۶,firoozabadi,۱۴۰۳,۲,۷٬۲۰۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۵
+۴۷,firoozabadi,۱۳۸۸,۱,۲٬۲۰۰٬۰۰۰٬۰۰۰ تومان,false,false,false,۱ از ۳
+۱۰۰,firoozabadi,۱۴۰۳,۲,۷٬۲۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۴
+۱۳۵,firoozabadi,۱۴۰۱,۳,۱۰٬۸۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳
+۹۰,shams-abad,۱۴۰۳,۲,۱۰٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۵
+۱۰۰,shams-abad,۱۳۸۵,۲,۸٬۸۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵
+۱۵۰,shams-abad,۱۴۰۳,۳,۱۸٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۵
+۱۳۷,shams-abad,۱۴۰۱,۳,۱۴٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳
+۶۰,shams-abad,۱۳۹۳,۱,۶٬۲۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴
+۹۸,shams-abad,۱۴۰۲,۲,۱۰٬۷۸۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵
+۱۲۵,shams-abad,۱۳۹۹,۳,۱۷٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱
+۱۰۰,shams-abad,۱۳۸۹,۲,۹٬۶۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۵
+۱۰۶,shams-abad,۱۳۹۵,۲,۱۳٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳
+۹۲,shams-abad,۱۳۸۸,۲,۱۰٬۸۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۵
+۱۲۸,shams-abad,۱۴۰۲,۳,۱۶٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۵
+۸۰,khani-abad-no,۱۴۰۳,۲,۵٬۸۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۶
+۸۳,khani-abad-no,۱۳۸۴,۱,۱۰٬۶۰۰٬۰۰۰٬۰۰۰ تومان,false,false,false,۳
+۱۰۵,khani-abad-no,۱۴۰۳,۲,۴۵۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۳
+۶۵,shams-abad,۱۳۸۵,۲,۶٬۸۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۵
+۷۷,khani-abad-no,۱۳۹۴,۲,۵٬۳۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱
+۱۴۴,khani-abad-no,۱۴۰۰,۳,۹٬۳۶۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۶
+۶۸,khani-abad-no,۱۳۹۴,۱,۳٬۶۰۰٬۰۰۰٬۰۰۰ تومان,false,false,false,۱ از ۳
+۶۶,khani-abad-no,۱۴۰۳,۲,۴٬۷۵۲٬۰۰۰٬۰۰۰ تومان,true,true,false,۴
+۴۲,khani-abad-no,۱۳۸۲,۱,۲٬۲۸۰٬۰۰۰٬۰۰۰ تومان,false,false,true,همکف از ۴
+۹۵,khani-abad-no,۱۴۰۳,۲,۷٬۱۵۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۱ از ۶
+۶۵,khani-abad-no,۱۳۹۷,۲,۴٬۱۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱
+۶۶,khani-abad-no,۱۳۹۵,۲,۴٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۴ از ۴
+۷۸,khani-abad-no,۱۳۸۹,۲,۳٬۷۰۰٬۰۰۰٬۰۰۰ تومان,false,false,false,۳ از ۴
+۱۲۵,khani-abad-no,۱۴۰۳,۲,۹٬۲۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳
+۷۹,khani-abad-no,۱۳۸۵,۲,۳٬۶۰۰٬۰۰۰٬۰۰۰ تومان,false,false,false,۳ از ۴
+۹۲,khani-abad-no,۱۳۹۴,۲,۵٬۴۲۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۵
+۹۳,khani-abad-no,۱۳۹۹,۲,۶٬۱۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۷
+۹۳,khani-abad-no,۱۳۹۶,۲,۵٬۸۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۷
+۱۱۴,khani-abad-no,۱۴۰۲,۲,۷٬۸۶۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۳ از ۶
+۱۲۶,vanak,۱۳۹۷,۳,۲۰٬۷۹۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۵
+۱۸۰,vanak,۱۳۷۲,۳,۲۳٬۴۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۵
+۶۸,vanak,۱۳۹۷,۱,۱۰٬۸۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴
+۳۲۰,vanak,۱۴۰۳,۴,۱۱۱٬۱۱۱٬۱۱۱٬۱۱۱ تومان,true,true,true,۵ از ۵
+۴۴,khani-abad-no,۱۳۸۰,۱,۲٬۴۷۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۲ از ۴
+۶۸,vanak,۱۴۰۱,۱,۱۱٬۸۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴
+۷۳,vanak,۱۳۸۲,۱,۸٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۲
+۱۱۰,vanak,۱۴۰۰,۲,۲۰٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲
+۱۸۵,vanak,۱۳۸۴,۳,۲۴٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱
+۱۰۰,vanak,۱۳۸۶,۲,۱۱٬۹۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۵
+۱۴۰,vanak,۱۳۸۸,۳,۱۹٬۶۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۵
+۱۰۰,vanak,۱۳۸۵,۲,۱۲٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۴
+۱۷۵,vanak,قبل از ۱۳۷۰,۳,۲۱٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۵
+۸۶,vanak,۱۳۸۵,۲,۱۱٬۰۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۱ از ۵
+۲۰۰,vanak,۱۴۰۳,۳,۵۰٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳
+۲۱۵,marzdaran,۱۴۰۲,۳,۴۹٬۰۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳
+۱۰۰,marzdaran,۱۴۰۰,۲,۱۱٬۸۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱
+۹۷,marzdaran,۱۳۸۸,۳,۱۰٬۲۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۶
+۶۰,marzdaran,۱۳۸۸,۱,۸٬۷۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۵
+۷۴,marzdaran,۱۳۹۵,۲,۱۱٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۵
+۸۵,marzdaran,۱۳۹۳,۲,۱۰٬۷۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۵
+۹۰,marzdaran,۱۳۹۶,۲,۱۳٬۱۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵
+۸۰,marzdaran,۱۳۹۱,۲,۱۱٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۵
+۲۰۰,marzdaran,۱۴۰۳,۳,۳۵٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴
+۱۰۶,marzdaran,۱۴۰۳,۲,۱۸٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۵
+۸۰,marzdaran,۱۳۸۵,۲,۸٬۶۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۵
+۱۱۵,marzdaran,۱۴۰۱,۳,۱۴٬۳۷۵٬۰۰۰٬۰۰۰ تومان,true,true,true,۵ از ۵
+۶۳,gomrok,۱۳۷۵,۱,۲٬۸۰۰٬۰۰۰٬۰۰۰ تومان,false,false,false,۱ از ۳
+۱۰۳,marzdaran,۱۳۹۵,۲,۱۳٬۱۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۵
+۱۲۲,gomrok,۱۴۰۳,۳,۷٬۳۲۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۵
+۱۰۸,marzdaran,۱۳۸۸,۲,۱۶٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۵
+۸۵,gomrok,۱۴۰۳,۲,۴٬۹۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲
+۶۸,gomrok,۱۳۹۵,۲,۳٬۸۰۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۴ از ۴
+۵۷,gomrok,۱۳۸۹,۱,۳٬۲۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۴
+۶۶,gomrok,۱۳۹۳,۱,۳٬۱۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴
+۸۵,marzdaran,۱۳۸۵,۲,۹٬۸۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۵
+۳۶,gomrok,۱۳۹۳,۱,۲٬۱۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۲ از ۳
+۵۴,gomrok,۱۳۸۹,۱,۲٬۴۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۲
+۵۰,gomrok,۱۳۹۲,۱,۲٬۵۰۰٬۰۰۰٬۰۰۰ تومان,false,true,false,۳ از ۳
+۴۹,gomrok,۱۳۸۰,۱,۲٬۲۹۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۱ از ۳
+۵۰,gomrok,۱۳۸۸,۱,۲٬۲۵۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۲ از ۴
+۵۷,gomrok,۱۳۹۲,۱,۲٬۶۰۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۲ از ۴
+۱۰۲,gomrok,۱۴۰۲,۲,۶٬۲۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۴
+۴۵,gomrok,۱۳۹۲,۱,۲٬۵۵۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۲ از ۴
+۵۰,gomrok,۱۳۹۹,۱,۲٬۹۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۴
+۵۴,gomrok,۱۳۹۴,۲,۲٬۹۰۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۲
+۵۰,gomrok,۱۳۸۱,۱,۱٬۸۵۰٬۰۰۰٬۰۰۰ تومان,false,false,false,۴ از ۴
+۵۰,gomrok,۱۳۸۶,۱,۲٬۰۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۱
+۵۵,shamshiri,۱۳۹۰,۱,۳٬۲۰۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۱ از ۴
+۷۳,shamshiri,۱۳۹۱,۲,۴٬۶۰۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۱ از ۴
+۴۴,shamshiri,۱۳۹۷,۱,۲٬۶۵۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۲ از ۴
+۴۲,shamshiri,۱۳۹۲,۱,۲٬۸۵۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۲ از ۴
+۴۷,shamshiri,۱۳۸۰,۱,۲٬۳۵۰٬۰۰۰٬۰۰۰ تومان,false,false,false,۱
+۱۰۳,shamshiri,۱۳۹۱,۲,۶٬۹۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۴
+۶۰,shamshiri,۱۳۹۰,۲,۳٬۴۰۰٬۰۰۰٬۰۰۰ تومان,false,false,false,۱ از ۴
+۴۴,shamshiri,۱۳۹۴,۱,۲٬۵۸۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۲ از ۴
+۵۶,shamshiri,۱۳۸۳,۱,۲٬۵۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۳
+۳۹,shamshiri,۱۳۹۷,۱,۲٬۸۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۴
+۶۵,shamshiri,۱۳۹۷,۲,۳٬۱۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۲ از ۴
+۷۰,shamshiri,۱۳۹۳,۱,۴٬۲۰۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۱ از ۴
+۴۰,shamshiri,۱۳۷۱,۲,۲٬۷۶۰٬۰۰۰٬۰۰۰ تومان,false,true,true,همکف از ۲
+۶۴,shamshiri,۱۳۹۵,۲,۴٬۲۰۰٬۰۰۰٬۰۰۰ تومان,true,false,false,۴ از ۵
+۱۲۴,shamshiri,۱۴۰۰,۲,۸٬۳۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۵
+۶۲,shamshiri,۱۳۹۵,۱,۳٬۹۰۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۳ از ۸
+۹۰,shamshiri,۱۳۷۲,۲,۳٬۸۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۱ از ۲
+۱۲۵,shamshiri,۱۴۰۲,۲,۶٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۵
+۱۰۰,shamshiri,۱۳۹۵,۲,۶٬۶۵۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۱ از ۵
+۶۰,shahrak-naft-district5,۱۴۰۲,۱,۸٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۷
+۱۵۰,shahrak-naft-district5,۱۴۰۲,۳,۲۲٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۵
+۹۵,shahrak-naft-district5,۱۳۹۲,۲,۱۱٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۵
+۱۰۰,shahrak-naft-district5,۱۴۰۰,۲,۱۲٬۹۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵ از ۶
+۷۲,shahrak-naft-district5,۱۳۸۳,۲,۷٬۹۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۵
+۹۲,shahrak-naft-district5,۱۳۸۸,۲,۱۰٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲
+۱۱۰,shahrak-naft-district5,۱۳۸۷,۲,۱۱٬۹۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۶ از ۱۱
+۶۳,shahrak-naft-district5,۱۳۹۹,۱,۷٬۶۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲
+۷۲,shahrak-naft-district5,۱۳۸۶,۲,۶٬۸۷۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۴
+۸۳,shahrak-naft-district5,۱۳۸۶,۲,۹٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۶ از ۸
+۷۹,shahrak-naft-district5,۱۳۸۸,۲,۸٬۸۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۵
+۷۰,shahrak-naft-district5,۱۳۸۹,۲,۷٬۷۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۵
+۷۹,shahrak-naft-district5,۱۳۸۷,۲,۷٬۴۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۷
+۹۵,shahrak-naft-district5,۱۳۹۳,۲,۱۱٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۵
+۵۰,shahrak-naft-district5,۱۳۹۷,۱,۷٬۹۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵ از ۵
+۷۰,shahrak-naft-district5,۱۳۸۹,۱,۶٬۱۵۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۳
+۱۰۰,shahrak-naft-district5,۱۳۸۹,۲,۱۱٬۳۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۵
+۱۰۵,shahrak-naft-district5,۱۳۹۰,۲,۱۲٬۹۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۵
+۸۰,shahrak-naft-district5,۱۴۰۲,۲,۱٬۹۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲
+۱۵۵,niavaran,۱۳۷۷,۲,۲۵٬۰۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۲ از ۵
+۱۰۰,niavaran,۱۳۹۷,۲,۱۳٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵ از ۵
+۲۷۵,niavaran,۱۳۹۵,۴,۷۵٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۷
+۸۶,shahrak-naft-district5,۱۴۰۲,۲,۱۲٬۷۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۶ از ۶
+۲۸۰,niavaran,۱۳۹۰,۴,۵۰٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵ از ۵
+۱۰۰,niavaran,۱۳۹۴,۲,۱۴٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۵
+۱۷۰,niavaran,۱۳۸۵,۳,۲۷٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۵
+۱۳۰,niavaran,۱۳۹۵,۲,۳۰٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۵
+۲۶۰,niavaran,۱۳۸۴,۴,۴۵٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲
+۱۲۱,niavaran,۱۳۷۹,۲,۱۵٬۶۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۱ از ۲
+۱۲۲,niavaran,۱۴۰۳,۳,۲۶٬۴۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴
+۲۶۵,niavaran,۱۳۹۹,۳,۶۰٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲
+۹۵,niavaran,۱۳۹۳,۱,۱۶٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,همکف
+۱۲۵,niavaran,۱۳۹۲,۲,۲۳٬۹۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵ از ۸
+۱۷۰,niavaran,۱۳۹۸,۳,۳۵٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۵
+۲۷۵,niavaran,۱۴۰۰,۳,۶۵٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۶ از ۹
+۲۴۵,niavaran,۱۳۸۷,۳,۳۲٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۸
+۱۵۰,aseman,۱۳۹۷,۳,۲۵٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳
+۱۰۸,aseman,۱۳۸۲,۲,۱۴٬۱۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۵
+۱۸۰,niavaran,۱۳۹۰,۳,۲۸٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱
+۷۳,aseman,۱۳۸۲,۱,۸٬۵۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۱ از ۴
+۷۶,aseman,۱۳۸۶,۲,۱۰٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۵
+۷۶,aseman,۱۳۸۳,۲,۱۱٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۵
+۱۱۳,aseman,۱۳۸۹,۳,۱۵٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳
+۱۱۸,aseman,۱۴۰۳,۲,۲۰٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱
+۹۶,aseman,۱۳۸۳,۲,۱۵٬۰۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۱ از ۵
+۸۱,aseman,۱۳۸۳,۲,۱۱٬۰۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۲ از ۴
+۶۲,aseman,۱۳۸۷,۱,۸٬۲۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,همکف از ۴
+۱۱۰,aseman,۱۳۸۵,۳,۱۵٬۲۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۵
+۸۱,aseman,۱۳۸۵,۲,۱۱٬۰۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۲
+۱۴۰,aseman,۱۴۰۲,۲,۲۵٬۹۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۶ از ۷
+۱۳۴,aseman,۱۳۹۵,۳,۲۱٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲
+۱۰۵,aseman,۱۳۸۵,۲,۱۴٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲
+۶۵,aseman,۱۳۸۲,۲,۹٬۳۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۴ از ۴
+۱۳۵,aseman,۱۳۹۶,۳,۱۹٬۹۸۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۱۰
+۱۰۵,atabak,۱۴۰۳,۲,۴۵۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۳
+۸۷,atabak,۱۴۰۳,۲,۴٬۳۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۴
+۶۳,atabak,۱۳۹۷,۱,۲٬۸۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۴
+۷۷,atabak,۱۴۰۲,۲,۳٬۳۰۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۴ از ۵
+۸۵,atabak,۱۴۰۳,۲,۳٬۹۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵
+۸۶,atabak,۱۴۰۲,۲,۳٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۳
+۹۰,atabak,۱۴۰۳,۲,۳٬۶۵۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۳
+۹۰,atabak,۱۴۰۳,۲,۳٬۶۵۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۳ از ۵
+۶۰,atabak,۱۴۰۲,۱,۲٬۷۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۵
+۷۷,atabak,۱۳۹۷,۲,۳٬۸۰۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۵ از ۶
+۶۸,atabak,۱۳۹۸,۱,۳٬۱۵۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۲ از ۵
+۱۱۴,atabak,۱۴۰۰,۲,۵٬۲۰۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۵ از ۵
+۵۶,atabak,۱۳۸۵,۱,۲٬۲۰۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۳ از ۵
+۶۵,atabak,۱۳۸۰,۲,۲٬۳۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۳ از ۳
+۵۴,khavaran,۱۳۹۵,۱,۲٬۹۰۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۱ از ۵
+۱۰۵,khavaran,۱۴۰۲,۲,۴۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲
+۳۸,khavaran,۱۳۸۲,۱,۲٬۳۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۳ از ۴
+۳۷,khavaran,۱۳۸۸,۱,۲٬۳۵۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۳ از ۴
+۷۸,khavaran,۱۳۸۰,۲,۴٬۴۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,همکف از ۵
+۷۴,khavaran,۱۳۷۸,۲,۲٬۹۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۳ از ۵
+۵۸,khavaran,۱۳۸۷,۱,۳٬۵۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۳ از ۳
+۴۳,khavaran,۱۳۹۲,۱,۲٬۲۷۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۱
+۵۰,khavaran,۱۳۸۷,۱,۱٬۹۱۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۱ از ۳
+۱۱۰,khavaran,۱۳۹۳,۲,۳٬۶۳۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱
+۶۱,khavaran,۱۳۸۱,۱,۲٬۶۳۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۳ از ۳
+۳۸,khavaran,۱۴۰۲,۱,۲٬۴۰۰٬۰۰۰٬۰۰۰ تومان,true,false,false,۳ از ۴
+۴۳,khavaran,۱۳۹۴,۱,۲٬۵۸۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۳ از ۴
+۸۶,khavaran,۱۴۰۳,۲,۳٬۷۳۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۴
+۸۲,yousef-abad,۱۳۸۶,۲,۱۰٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۵
+۱۷۵,yousef-abad,۱۳۸۵,۳,۲۶٬۲۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵ از ۵
+۱۴۲,yousef-abad,۱۳۹۶,۳,۱۸٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲
+۹۵,yousef-abad,۱۳۹۵,۲,۱۴٬۶۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۵
+۶۰,yousef-abad,۱۳۸۴,۲,۶٬۰۵۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۳
+۱۳۲,yousef-abad,۱۴۰۲,۳,۲۷٬۲۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۵
+۱۴۵,yousef-abad,۱۴۰۳,۳,۲۶٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴
+۹۵,yousef-abad,۱۳۹۶,۲,۱۴٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵
+۱۳۰,yousef-abad,۱۴۰۱,۳,۲۱٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۶ از ۶
+۱۵۰,yousef-abad,۱۳۸۵,۳,۱۹٬۳۵۵٬۰۰۰٬۰۰۰ تومان,true,true,true,۶
+۱۲۳,yousef-abad,۱۴۰۳,۲,۲۰٬۹۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۵
+۱۷۰,yousef-abad,۱۳۸۶,۱,۲۲٬۱۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱
+۱۱۸,yousef-abad,۱۳۹۳,۳,۱۹٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۵
+۱۱۰,yousef-abad,۱۴۰۳,۲,۱۸٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۵
+۷۰,yousef-abad,۱۳۸۰,۱,۸٬۸۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳
+۱۳۰,yousef-abad,۱۳۷۹,۳,۱۹٬۸۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳
+۱۹۰,yousef-abad,۱۴۰۳,۳,۴۱٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵
+۱۲۵,yousef-abad,۱۳۸۸,۳,۱۶٬۲۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵ از ۵
+۹۵,yousef-abad,۱۳۹۶,۲,۱۴٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵ از ۵
+۱۰۸,yousef-abad,۱۴۰۳,۲,۱۹٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۵
+۱۴۰,yousef-abad,۱۳۹۲,۳,۲۱٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴
+۵۸,andisheh,۱۳۸۰,۱,۵٬۳۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۶
+۶۰,andisheh,۱۳۹۹,۲,۱٬۴۳۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳
+۸۲,andisheh,۱۳۹۷,۲,۳٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۶ از ۶
+۵۵,andisheh,۱۴۰۰,۱,۱٬۳۸۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲
+۶۳,andisheh,۱۳۹۷,۲,۱٬۶۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۱ از ۳
+۹۶,andisheh,۱۳۹۸,۲,۹٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵ از ۶
+۶۵,andisheh,۱۳۹۹,۲,۱٬۶۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۳
+۶۲,andisheh,۱۳۸۱,۲,۲٬۴۸۰٬۰۰۰٬۰۰۰ تومان,false,true,true,همکف از ۳
+۴۴,andisheh,۱۳۹۵,۱,۲٬۲۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۱
+۶۰,andisheh,۱۴۰۱,۲,۲٬۲۱۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۳
+۵۲,andisheh,۱۳۹۵,۱,۱٬۶۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۴
+۲۱۴,velenjak,۱۳۹۰,۳,۳۷٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱
+۵۰,andisheh,۱۳۸۹,۱,۲٬۹۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۳ از ۳
+۱۳۲,velenjak,۱۴۰۳,۲,۳۵٬۶۴۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۵
+۲۲۰,velenjak,۱۳۹۹,۳,۸۱٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴
+۲۹۰,velenjak,۱۳۹۵,۳,۹۸٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴
+۲۷۰,velenjak,۱۴۰۱,۴,۱۳۵٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۶
+۱۴۰,velenjak,۱۳۸۵,۳,۳۴٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵
+۶۰,ostad-moein,۱۳۹۷,۲,۲٬۹۵۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۲ از ۳
+۱۰۲,ostad-moein,۱۴۰۳,۲,۶٬۲۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۵
+۶۰,ostad-moein,۱۴۰۲,۱,۴٬۷۹۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۵
+۱۰۶,ostad-moein,۱۳۹۸,۲,۸٬۶۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵ از ۵
+۶۴,ostad-moein,۱۳۹۶,۲,۴٬۵۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵ از ۵
+۱۱۰,ostad-moein,۱۴۰۳,۲,۸٬۸۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۵
+۴۸,ostad-moein,۱۳۹۰,۱,۴٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱
+۸۱,ostad-moein,۱۳۹۲,۲,۴٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۴
+۴۴,ostad-moein,۱۳۹۷,۱,۱٬۷۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲
+۸۳,ostad-moein,۱۴۰۳,۲,۶٬۶۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۵
+۴۳,ostad-moein,۱۴۰۲,۱,۳٬۴۰۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۵ از ۵
+۸۸,ostad-moein,۱۴۰۱,۲,۵٬۶۵۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۴ از ۵
+۹۰,ostad-moein,۱۴۰۲,۲,۷٬۲۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۵
+۱۰۶,ostad-moein,۱۳۹۵,۲,۸٬۴۹۷٬۰۰۰٬۰۰۰ تومان,true,true,true,۵ از ۵
+۶۵,ostad-moein,۱۴۰۱,۲,۵٬۹۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵ از ۵
+۸۰,ostad-moein,۱۳۹۸,۲,۵٬۴۰۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۱ از ۵
+۶۲,ostad-moein,۱۴۰۲,۱,۴٬۴۹۹٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۵
+۵۳,ostad-moein,۱۳۹۸,۱,۳٬۵۵۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۳ از ۵
+۵۵,ostad-moein,۱۴۰۳,۱,۴٬۲۰۰٬۰۰۰٬۰۰۰ تومان,true,false,false,۱ از ۵
+۸۰,ostad-moein,۱۴۰۳,۲,۶٬۶۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۵
+۵۰,ostad-moein,۱۳۹۴,۱,۳٬۴۹۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۳ از ۵
+۵۲,tehran-gorgan,۱۴۰۱,۱,۴٬۳۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱
+۴۳,tehran-gorgan,۱۴۰۱,۱,۳٬۸۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۳
+۴۰,tehran-gorgan,۱۳۸۵,۱,۲٬۸۳۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۴
+۸۳,tehran-gorgan,۱۴۰۳,۲,۵٬۷۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱
+۷۲,tehran-gorgan,۱۳۸۳,۲,۵٬۱۸۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۱ از ۴
+۴۶,tehran-gorgan,۱۳۸۵,۱,۲٬۵۷۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۱
+۵۹,tehran-gorgan,۱۳۷۶,۱,۳٬۱۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۳ از ۳
+۶۵,tehran-gorgan,۱۴۰۳,۱,۴٬۷۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۵
+۴۵,tehran-gorgan,۱۳۹۳,۱,۳٬۳۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲
+۸۳,tehran-gorgan,۱۳۹۷,۲,۶٬۹۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲
+۵۵,tehran-gorgan,۱۳۷۴,۱,۳٬۸۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,همکف از ۲
+۴۵,tehran-gorgan,۱۳۹۴,۱,۳٬۳۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲
+۹۳,tehran-gorgan,۱۴۰۳,۲,۶٬۹۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۴
+۵۳,tehran-gorgan,۱۳۸۹,۱,۳٬۹۵۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۳ از ۴
+۵۱,tehran-gorgan,۱۳۹۰,۱,۳٬۷۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۴
+۴۸,tehran-gorgan,۱۳۸۴,۱,۲٬۹۵۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۲ از ۴
+۴۵,tehran-gorgan,۱۳۸۵,۱,۳٬۳۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۲ از ۴
+۵۰,tehran-gorgan,۱۳۸۵,۱,۳٬۱۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۱
+۸۱,tehran-gorgan,۱۴۰۳,۲,۶٬۸۸۵٬۰۰۰٬۰۰۰ تومان,true,true,false,۳ از ۴
+۵۸,tehran-gorgan,۱۴۰۳,۱,۴٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۲ از ۴
+۶۸,shiva,۱۴۰۳,۲,۵٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,false,false,۱ از ۶
+۱۱۰,tehran-gorgan,۱۳۹۳,۲,۸٬۱۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۵
+۴۰,shiva,۱۳۹۶,۱,۲٬۸۸۰٬۰۰۰٬۰۰۰ تومان,true,false,false,۲ از ۴
+۶۹,shiva,۱۳۸۵,۱,۳٬۵۸۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۵
+۶۵,shiva,۱۳۹۰,۲,۳٬۴۲۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۱ از ۴
+۴۰,shiva,۱۳۹۰,۱,۲٬۷۵۰٬۰۰۰٬۰۰۰ تومان,true,false,false,۲ از ۴
+۶۴,shiva,۱۳۹۴,۲,۳٬۳۰۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۴ از ۴
+۵۷,shiva,۱۳۹۶,۱,۳٬۹۰۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۳ از ۶
+۴۵,shiva,۱۳۹۴,۱,۲٬۳۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۲
+۵۵,shiva,۱۳۷۶,۱,۲٬۷۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,زیرهمکف
+۴۷,shiva,۱۳۸۳,۱,۳٬۱۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۱ از ۴
+۷۰,shiva,۱۴۰۲,۲,۴٬۷۷۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۲ از ۴
+۳۲,shiva,۱۳۹۲,۱,۲٬۰۰۰٬۰۰۰٬۰۰۰ تومان,false,false,false,۳ از ۴
+۵۰,shiva,۱۳۸۳,۱,۳٬۰۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۲
+۴۵,shiva,۱۳۸۳,۱,۲٬۴۷۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۲ از ۳
+۸۶,dr-hoshyar,۱۴۰۲,۲,۸٬۷۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۵
+۹۰,dr-hoshyar,۱۴۰۲,۲,۷٬۴۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۵
+۱۶۰,heravi,۱۳۸۵,۳,۲۱٬۶۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۴
+۱۶۵,heravi,۱۳۹۲,۳,۱۸٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳
+۱۰۲,heravi,۱۳۹۳,۲,۱۶٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۵
+۱۸۰,heravi,۱۴۰۲,۳,۲۳٬۴۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۱۱
+۱۱۵,heravi,۱۴۰۳,۲,۱۵٬۲۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲
+۷۰,heravi,۱۳۹۳,۲,۱۱٬۲۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۵
+۸۴,heravi,۱۳۷۸,۲,۸٬۴۵۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۳ از ۴
+۱۱۵,heravi,۱۴۰۲,۲,۱۴٬۹۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱۰ از ۱۱
+۱۷۸,heravi,۱۴۰۲,۳,۲۳٬۱۴۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۱۱
+۷۰,heravi,۱۴۰۰,۱,۹٬۸۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,همکف
+۴۴,dr-hoshyar,۱۴۰۲,۱,۳٬۶۰۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۱ از ۵
+۱۶۰,heravi,۱۴۰۲,۳,۲۲٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۵
+۲۰۷,heravi,۱۴۰۳,۳,۳۷٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳
+۱۳۳,heravi,۱۳۸۸,۳,۱۸٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳
+۱۸۶,heravi,۱۴۰۲,۳,۲۴٬۱۸۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۹ از ۱۱
+۱۲۲,heravi,۱۳۹۴,۳,۱۹٬۷۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۵
+۶۸,amiriyeh,۱۳۸۴,۲,۳٬۷۵۰٬۰۰۰٬۰۰۰ تومان,false,true,true,همکف از ۴
+۶۳,amiriyeh,۱۳۸۹,۱,۴٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲
+۱۲۰,heravi,۱۳۸۹,۲,۱۶٬۸۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۵
+۵۶,amiriyeh,۱۳۸۲,۲,۳٬۱۰۰٬۰۰۰٬۰۰۰ تومان,false,false,false,۲
+۵۵,amiriyeh,۱۳۸۰,۱,۱٬۹۰۰٬۰۰۰٬۰۰۰ تومان,false,false,false,زیرهمکف از ۴
+۴۳,amiriyeh,۱۳۹۳,۱,۲٬۶۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۴
+۱۳۷,amiriyeh,۱۳۹۵,۳,۱۱٬۹۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۵
+۵۰,amiriyeh,۱۳۹۶,۱,۲٬۳۰۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۲ از ۴
+۱۲۰,amiriyeh,۱۴۰۲,۲,۷٬۴۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۶
+۸۰,amiriyeh,۱۳۹۵,۲,۵٬۱۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴
+۶۶,amiriyeh,۱۳۸۹,۲,۴٬۲۰۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۳ از ۴
+۸۳,amiriyeh,۱۴۰۲,۲,۶٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵
+۳۸,amiriyeh,۱۳۸۰,۱,۱٬۹۸۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۴ از ۴
+۶۰,amiriyeh,۱۳۹۵,۱,۳٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۵ از ۵
+۴۴,amiriyeh,۱۳۸۲,۱,۲٬۷۵۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۱ از ۳
+۶۲,amiriyeh,۱۳۸۹,۱,۲٬۷۹۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۲ از ۴
+۴۷,amiriyeh,۱۳۸۲,۱,۲٬۶۰۰٬۰۰۰٬۰۰۰ تومان,false,false,false,۲
+۵۷,amiriyeh,۱۳۸۳,۱,۲٬۸۴۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۱
+۵۰,amiriyeh,۱۳۸۳,۱,۲٬۸۵۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۴ از ۴
+۵۰,amiriyeh,۱۳۹۳,۱,۱٬۵۲۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۱ از ۴
+۶۲,amiriyeh,۱۳۸۶,۲,۳٬۱۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۴
+۸۰,tehran-zanjan,۱۳۹۳,۲,۴٬۴۳۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۴
+۶۰,tehran-zanjan,۱۳۸۸,۱,۳٬۸۵۰٬۰۰۰٬۰۰۰ تومان,false,true,false,۱ از ۴
+۶۳,tehran-zanjan,۱۴۰۳,۲,۶٬۳۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۴
+۶۰,tehran-zanjan,۱۳۸۵,۲,۴٬۵۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۱ از ۴
+۵۵,tehran-zanjan,۱۳۸۷,۲,۲٬۷۵۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۴ از ۴
+۷۵,amiriyeh,۱۳۸۹,۲,۳٬۸۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۴
+۵۸,tehran-zanjan,۱۳۹۱,۱,۴٬۴۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۴
+۶۲,tehran-zanjan,۱۴۰۳,۲,۶٬۶۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۴
+۴۶,tehran-zanjan,۱۳۸۵,۱,۳٬۴۵۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۱ از ۳
+۵۲,tehran-zanjan,۱۳۹۳,۲,۴٬۲۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۴
+۸۰,tehran-zanjan,۱۳۹۱,۲,۴٬۳۰۰٬۰۰۰٬۰۰۰ تومان,false,true,false,۴
+۱۲۶,tehran-zanjan,۱۳۹۰,۲,۵٬۹۰۰٬۰۰۰٬۰۰۰ تومان,true,false,true,همکف از ۶
+۱۰۰,tehran-zanjan,۱۴۰۲,۲,۷٬۸۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۴
+۶۸,tehran-zanjan,۱۴۰۰,۲,۵٬۳۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴
+۴۴,tehran-zanjan,۱۳۸۳,۱,۳٬۱۷۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۱ از ۳
+۴۶,tehran-zanjan,۱۳۸۳,۱,۳٬۲۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۱ از ۴
+۶۳,tehran-zanjan,۱۳۹۲,۲,۴٬۹۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۱ از ۴
+۶۱,tehran-zanjan,۱۳۹۷,۱,۳٬۹۰۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۳ از ۴
+۸۵,tehran-zanjan,۱۳۹۰,۲,۳٬۸۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۴ از ۴
+۲۸۰,tehran-zanjan,۱۳۸۳,+۴,۱۷٬۲۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۱ از ۴
+۱۸۰,qoba,۱۳۷۸,۳,۲۱٬۱۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۵
+۱۰۰,qoba,۱۳۹۹,۲,۱۵٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵ از ۵
+۹۵,qoba,۱۴۰۲,۲,۱۸٬۹۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۵
+۱۱۵,qoba,۱۳۸۷,۲,۱۶٬۴۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴
+۱۳۸,qoba,۱۳۸۵,۳,۱۴٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۶
+۳۶,tehran-zanjan,۱۳۸۱,۱,۲٬۵۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۲ از ۳
+۸۵,qoba,۱۳۹۱,۲,۱۲٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۵
+۸۵,qoba,۱۳۹۵,۲,۱۴٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۱۸
+۱۸۰,qoba,۱۳۸۵,۳,۲۳٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲
+۱۷۵,qoba,۱۳۹۵,۳,۲۹٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵ از ۵
+۸۵,qoba,۱۳۹۲,۲,۱۴٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱
+۹۳,qoba,۱۳۹۸,۲,۱۵٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳
+۱۱۵,qoba,۱۳۹۱,۲,۱۸٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۵
+۱۴۵,qoba,۱۳۸۵,۳,۱۷٬۹۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲
+۱۶۰,qoba,۱۳۹۵,۳,۲۷٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴
+۸۰,qoba,۱۳۸۵,۲,۱۰٬۶۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳
+۸۰,qoba,۱۳۸۱,۲,۱۰٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۵
+۹۸,qoba,۱۴۰۳,۲,۲۶٬۴۶۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۵
+۱۴۵,north-shahran,۱۳۸۵,۳,۱۳٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵ از ۵
+۱۱۵,north-shahran,۱۳۹۷,۲,۱۰٬۸۷۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵ از ۵
+۱۲۰,north-shahran,۱۴۰۲,۳,۱۳٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵ از ۵
+۶۴,north-shahran,۱۳۹۲,۱,۲٬۸۸۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲
+۱۰۰,qoba,۱۳۹۸,۲,۱۵٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵
+۲۴۵,north-shahran,۱۳۸۶,۳,۲۷٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۹
+۱۷۰,north-shahran,۱۳۸۵,۳,۱۵٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵ از ۵
+۶۵,north-shahran,۱۳۹۰,۱,۶٬۳۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۵
+۱۰۰,north-shahran,۱۳۹۰,۲,۹٬۱۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۵
+۱۱۲,north-shahran,۱۳۹۷,۲,۱۰٬۸۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵ از ۶
+۱۳۵,north-shahran,۱۴۰۰,۲,۱۶٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱
+۱۲۳,north-shahran,۱۴۰۳,۳,۱۴٬۴۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳
+۲۱۰,north-shahran,۱۴۰۰,۳,۲۹٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵ از ۵
+۶۰,north-shahran,۱۳۸۴,۱,۴٬۹۵۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۲
+۵۸,north-shahran,۱۳۹۸,۱,۶٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۶
+۱۴۲,north-shahran,۱۳۸۹,۳,۱۱٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۷ از ۹
+۷۴,vahidiyeh,۱۳۹۸,۲,۵٬۲۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۴
+۵۵,vahidiyeh,۱۳۹۱,۱,۳٬۷۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۱ از ۴
+۵۸,vahidiyeh,۱۳۹۹,۱,۳٬۹۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۵
+۴۹,vahidiyeh,۱۳۸۴,۱,۲٬۹۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۲ از ۴
+۹۸,vahidiyeh,قبل از ۱۳۷۰,۲,۵٬۰۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۴ از ۴
+۶۵,vahidiyeh,۱۳۹۴,۲,۳٬۹۵۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۱ از ۴
+۵۱,vahidiyeh,۱۳۸۹,۱,۳٬۴۸۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵ از ۵
+۳۵,vahidiyeh,۱۳۹۵,۱,۲٬۳۰۰٬۰۰۰٬۰۰۰ تومان,false,false,false,۲ از ۴
+۶۰,vahidiyeh,۱۳۹۳,۲,۳٬۶۰۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۴ از ۴
+۵۹,vahidiyeh,۱۳۸۸,۱,۳٬۲۹۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۲
+۴۶,vahidiyeh,۱۳۸۳,۱,۲٬۸۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۱
+۵۰,vahidiyeh,۱۳۹۲,۱,۳٬۴۹۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۲ از ۴
+۶۰,vahidiyeh,۱۳۹۰,۱,۳٬۱۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۳ از ۸
+۵۰,vahidiyeh,۱۳۸۰,۱,۲٬۸۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۲ از ۴
+۶۵,darvazeh-shemiran,۱۳۸۱,۲,۳٬۵۷۵٬۰۰۰٬۰۰۰ تومان,false,false,true,۴ از ۴
+۴۲,vahidiyeh,۱۳۹۱,۱,۲٬۹۵۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۳
+۷۰,darvazeh-shemiran,۱۳۸۱,۲,۵٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۵
+۷۰,darvazeh-shemiran,۱۳۸۶,۲,۵٬۵۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۱ از ۴
+۱۰۲,darvazeh-shemiran,۱۳۹۶,۲,۹٬۷۰۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۵ از ۵
+۹۵,darvazeh-shemiran,۱۳۷۹,۲,۶٬۹۵۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۳ از ۴
+۱۰۸,darvazeh-shemiran,۱۴۰۱,۲,۱۲٬۲۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۵
+۴۹,darvazeh-shemiran,۱۳۸۵,۱,۳٬۱۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۲ از ۴
+۴۸,darvazeh-shemiran,۱۳۷۶,۱,۲٬۴۸۰٬۰۰۰٬۰۰۰ تومان,true,false,true,همکف از ۶
+۱۲۷,darvazeh-shemiran,۱۴۰۲,۳,۱۴٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۵
+۴۷,darvazeh-shemiran,۱۳۹۰,۱,۲٬۸۲۰٬۰۰۰٬۰۰۰ تومان,false,true,false,۳ از ۲
+۱۰۹,darvazeh-shemiran,۱۳۸۰,۲,۵٬۷۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۲ از ۳
+۱۱۰,darvazeh-shemiran,۱۳۸۰,۲,۵٬۵۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۳ از ۴
+۱۲۶,darvazeh-shemiran,۱۴۰۳,۲,۱۲٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵ از ۵
+۴۹,darvazeh-shemiran,۱۳۸۱,۱,۳٬۴۵۰٬۰۰۰٬۰۰۰ تومان,false,true,true,همکف از ۴
+۶۵,darvazeh-shemiran,۱۳۸۹,۲,۴٬۸۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,همکف از ۴
+۵۵,darvazeh-shemiran,۱۳۸۸,۱,۳٬۵۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۱ از ۴
+۷۰,darvazeh-shemiran,۱۳۷۸,۲,۴٬۲۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۲ از ۴
+۶۲,darvazeh-shemiran,۱۴۰۰,۱,۵٬۳۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۵
+۱۰۰,darvazeh-shemiran,۱۳۷۵,۲,۵٬۰۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,زیرهمکف از ۳
+۵۵,aref,۱۳۹۰,۱,۳٬۲۱۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۱ از ۴
+۵۱,aref,۱۳۹۷,۱,۳٬۰۵۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۲ از ۴
+۴۰,aref,۱۳۹۰,۱,۲٬۷۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۲ از ۴
+۶۵,aref,۱۴۰۳,۱,۴٬۶۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۴
+۸۰,aref,۱۳۹۴,۲,۵٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵ از ۵
+۵۱,aref,۱۳۸۰,۱,۲٬۷۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۱ از ۴
+۵۰,aref,۱۳۹۰,۱,۲٬۹۰۰٬۰۰۰٬۰۰۰ تومان,false,false,false,۳ از ۴
+۴۷,aref,۱۳۸۶,۱,۲٬۶۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,همکف از ۴
+۵۲,aref,۱۳۸۸,۱,۳٬۴۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,همکف از ۴
+۴۲,aref,۱۳۹۰,۱,۲٬۵۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۳ از ۴
+۵۱,aref,۱۳۸۶,۱,۳٬۰۵۰٬۰۰۰٬۰۰۰ تومان,false,true,true,همکف از ۴
+۱۱۳,aref,قبل از ۱۳۷۰,۱,۱۱٬۰۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۳ از ۳
+۵۳,aref,۱۴۰۳,۱,۳٬۱۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۴
+۵۰,aref,۱۳۹۶,۱,۳٬۰۵۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۱ از ۴
+۷۲,aref,۱۳۸۱,۲,۴٬۰۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۱ از ۴
+۵۰,aref,۱۳۸۶,۱,۳٬۲۵۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۲ از ۴
+۴۷,aref,۱۳۸۶,۱,۲٬۶۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۱ از ۴
+۵۰,aref,۱۳۹۸,۱,۳٬۸۵۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۳ از ۴
+۶۱,aref,۱۳۹۳,۲,۳٬۲۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۳ از ۴
+۶۵,tehran-kerman,۱۳۹۲,۱,۶٬۰۹۸٬۰۰۰٬۰۰۰ تومان,true,false,true,۵ از ۵
+۴۰,tehran-kerman,۱۳۹۴,۱,۳٬۴۹۹٬۰۰۰٬۰۰۰ تومان,false,true,true,۳ از ۴
+۵۰,tehran-kerman,۱۳۹۵,۱,۴٬۰۵۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۲ از ۴
+۵۶,tehran-kerman,۱۳۹۰,۱,۴٬۷۰۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۲ از ۵
+۶۱,tehran-kerman,۱۳۸۲,۱,۳٬۹۵۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۴
+۴۳,tehran-kerman,۱۳۹۸,۱,۴٬۳۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۴
+۶۵,tehran-kerman,۱۳۸۸,۱,۶٬۲۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴
+۱۰۱,tehran-kerman,۱۳۸۷,۲,۹٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴
+۴۵,tehran-kerman,۱۳۸۶,۱,۴٬۳۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵ از ۵
+۸۵,tehran-kerman,۱۴۰۲,۲,۷٬۲۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۵
+۷۵,tehran-kerman,۱۳۹۱,۲,۵٬۷۰۰٬۰۰۰٬۰۰۰ تومان,false,true,false,۲ از ۴
+۱۱۸,tehran-kerman,۱۴۰۲,۲,۱۲٬۴۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۵
+۵۳,shokoofeh,۱۳۹۰,۱,۴٬۱۶۰٬۰۰۰٬۰۰۰ تومان,true,false,false,۳ از ۴
+۶۳,shokoofeh,۱۳۸۵,۲,۴٬۰۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۱ از ۴
+۵۰,tehran-kerman,۱۳۸۵,۱,۴٬۱۵۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۴
+۵۴,shokoofeh,۱۳۸۹,۱,۳٬۰۰۰٬۰۰۰٬۰۰۰ تومان,false,false,false,۲ از ۳
+۸۱,shokoofeh,۱۳۹۷,۲,۸٬۱۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۵
+۸۶,shokoofeh,۱۴۰۳,۲,۶٬۹۰۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۵ از ۵
+۵۰,shokoofeh,۱۳۸۴,۱,۲٬۸۸۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۲ از ۳
+۷۶,shokoofeh,۱۳۸۵,۲,۴٬۹۸۷٬۴۵۶٬۳۲۱ تومان,true,true,false,۵ از ۵
+۵۲,shokoofeh,۱۳۸۲,۱,۲٬۷۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۴
+۶۰,shokoofeh,۱۳۹۸,۲,۴٬۸۰۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۴
+۷۲,shokoofeh,۱۴۰۳,۲,۶٬۳۶۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۴
+۵۴,shokoofeh,۱۳۷۷,۱,۲٬۵۳۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۴ از ۴
+۷۵,shokoofeh,۱۳۹۰,۱,۵٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۴
+۱۴۰,shokoofeh,۱۴۰۳,۳,۱۶٬۸۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵
+۶۰,shokoofeh,۱۳۸۵,۱,۳٬۳۷۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۴
+۱۰۰,niroo-havayi,۱۳۹۳,۲,۱۰٬۲۹۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۵
+۷۵,niroo-havayi,۱۳۸۰,۲,۴٬۴۵۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۴ از ۴
+۵۲,niroo-havayi,۱۳۸۵,۱,۴٬۱۶۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۴ از ۵
+۷۰,niroo-havayi,۱۳۸۱,۱,۵٬۶۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۳ از ۴
+۸۹,niroo-havayi,۱۴۰۳,۲,۲٬۳۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۷
+۱۰۰,niroo-havayi,۱۳۹۴,۲,۸٬۶۳۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲
+۱۸۵,niroo-havayi,۱۳۸۴,۳,۱۷٬۹۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳
+۵۰,niroo-havayi,۱۳۹۹,۱,۵٬۱۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۴
+۷۰,niroo-havayi,۱۳۸۴,۲,۸٬۰۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۱ از ۴
+۱۹۰,niroo-havayi,۱۳۸۹,۳,۲۲٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۵
+۸۷,niroo-havayi,۱۳۸۸,۲,۷٬۸۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵
+۷۷,niroo-havayi,۱۳۹۷,۲,۹٬۶۲۵٬۰۰۰٬۰۰۰ تومان,true,true,false,۳ از ۵
+۱۰۰,niroo-havayi,۱۳۸۲,۲,۹٬۱۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳
+۶۵,shokoofeh,۱۳۷۷,۲,۳٬۶۵۰٬۰۰۰٬۰۰۰ تومان,false,false,false,۱ از ۳
+۹۸,niroo-havayi,۱۳۸۵,۲,۸٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۵
+۵۶,niroo-havayi,۱۳۹۰,۱,۵٬۳۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۵
+۶۵,niroo-havayi,۱۳۸۳,۱,۵٬۰۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۱ از ۴
+۹۷,niroo-havayi,۱۳۸۲,۲,۶٬۵۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۴ از ۴
+۵۵,niroo-havayi,۱۳۸۵,۱,۳٬۶۰۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۴ از ۵
+۷۹,niroo-havayi,۱۳۹۷,۲,۸٬۲۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲
+۲۰۰,zafaraniyeh,۱۳۹۷,۳,۴۸٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۶
+۱۷۳,zafaraniyeh,۱۴۰۰,۳,۶۷٬۴۷۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵
+۱۸۰,zafaraniyeh,۱۳۹۳,۳,۴۸٬۶۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۵
+۱۶۵,zafaraniyeh,۱۳۹۷,۳,۵۲٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۱۰
+۱۴۰,zafaraniyeh,۱۳۹۵,۳,۳۶٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۵
+۱۷۰,zafaraniyeh,۱۳۸۹,۳,۳۷٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۶
+۱۸۶,zafaraniyeh,۱۳۹۴,۳,۴۷٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱
+۲۶۳,zafaraniyeh,۱۴۰۰,۳,۹۵٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۶
+۱۸۷,zafaraniyeh,۱۴۰۲,۳,۵۵٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۹
 ۵۹,azari,۱۳۸۳,۱,۲٬۲۳۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۴ از ۵
-۶۶,majidiyeh,۱۴۰۲,۲,۵٬۵۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳
-۹۶,shahr-e-ziba,۱۳۸۳,۲,۶٬۸۵۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۲ از ۴
-۴۵,shahrak-e-vilashahr,۱۳۹۸,۱,۳٬۵۷۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۳
-۱۷۵,chitgar-lake,۱۴۰۳,۳,۲۷٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۳
-۱۱۰,qeytariyeh,۱۴۰۳,۲,۲۸٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲
-۱۰۰,mobarak-abad-e-beheshti,۱۴۰۳,۲,۲٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵
-۶۸,sattarkhan,۱۳۸۵,۱,۶٬۷۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۲ از ۴
-۳۳,beryanak,۱۴۰۰,۱,۲٬۳۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۳
-۷۵,sazamn-barnameh,۱۳۸۹,۲,۶٬۲۵۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۳ از ۳
-۱۷۸,south-janat-abad,۱۴۰۲,۳,۲۵٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۵
-۱۵۰,darrous,۱۳۸۶,۳,۲۶٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۵
-۲۱۵,elahiyeh,۱۳۹۲,۳,۴۱٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۶ از ۶
-۸۳,poonak,۱۳۹۴,۲,۸٬۹۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۵
-۱۲۰,south-mehrabad,۱۴۰۳,۲,۸٬۲۸۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۱
-۵۱,andisheh,۱۳۹۵,۱,۲٬۷۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱
-۴۳,bolursazi,۱۳۹۱,۱,۲٬۵۵۰٬۰۰۰٬۰۰۰ تومان,false,true,true,همکف از ۴
-۳۶,sabalan,۱۳۹۶,۱,۲٬۶۲۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۲ از ۴
-۱۲۰,north-shahran,۱۳۸۶,۲,۱۱٬۳۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۵
-۱۲۰,chitgar,۱۴۰۳,۳,۴٬۳۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱۲ از ۱۴
-۹۴,kuhak,۱۳۹۶,۲,۷٬۸۳۶٬۰۰۰٬۰۰۰ تومان,true,true,true,۱۷
-۹۰,central-janat-abad,۱۳۹۲,۲,۹٬۷۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۵
-۹۲,chitgar,۱۴۰۳,۲,۱٬۹۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۸
-۱۲۵,tehransar,۱۴۰۳,۳,۱۱٬۲۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳
+۳۰,azari,۱۳۹۲,۱,۱٬۸۵۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۲
+۱۳۳,azari,۱۴۰۲,۳,۵٬۲۱۵٬۰۰۰٬۰۰۰ تومان,true,true,false,۲
+۱۲۰,azari,۱۳۹۵,۲,۵٬۶۴۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۵
+۱۰۰,azari,۱۴۰۲,۲,۵٬۳۰۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۲
+۱۴۸,azari,۱۴۰۳,۳,۷٬۶۸۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲
+۵۰,azari,۱۳۸۰,۲,۲٬۳۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,همکف
+۶۲,azari,۱۳۸۳,۲,۲٬۷۲۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۲
+۴۴,azari,۱۳۸۵,۱,۲٬۱۹۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۲
+۱۲۸,azari,۱۴۰۰,۲,۷٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱
+۴۱,azari,۱۳۸۵,۱,۲٬۱۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,همکف از ۴
+۴۴,azari,۱۳۷۹,۱,۲٬۱۰۰٬۰۰۰٬۰۰۰ تومان,false,false,false,۲ از ۲
+۳۳,azari,۱۳۸۰,۱,۱٬۶۵۰٬۰۰۰٬۰۰۰ تومان,false,false,true,همکف
+۴۲,azari,۱۳۹۰,۱,۲٬۳۵۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۱
+۷۸,azari,۱۳۹۴,۲,۴٬۳۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۵
+۱۱۰,hakimiyeh,۱۴۰۳,۲,۴۵۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۳
+۶۶,hakimiyeh,۱۴۰۱,۲,۴۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۷
+۱۱۰,hakimiyeh,۱۳۷۸,۲,۷٬۹۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۲ از ۳
+۸۳,hakimiyeh,۱۳۹۷,۲,۷٬۷۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱
+۶۶,hakimiyeh,۱۴۰۱,۲,۴۵۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۵
+۶۶,hakimiyeh,۱۴۰۰,۲,۴۵۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۴
+۶۶,hakimiyeh,۱۴۰۲,۲,۴۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴
+۱۰۷,hakimiyeh,۱۴۰۳,۲,۱۱٬۸۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۱۹
+۸۷,hakimiyeh,۱۳۹۶,۲,۸٬۳۰۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۳ از ۶
+۸۵,hakimiyeh,۱۳۹۸,۲,۷٬۲۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۷
+۱۲۷,hakimiyeh,۱۴۰۳,۳,۱۷٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴
+۱۴۰,hakimiyeh,۱۴۰۳,۳,۱۲٬۶۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۶
+۱۰۶,hakimiyeh,۱۳۹۶,۲,۹٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵ از ۵
+۱۲۰,hakimiyeh,۱۴۰۳,۳,۱۵٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۴
+۹۶,hakimiyeh,۱۳۹۷,۲,۸٬۲۶۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵ از ۶
+۱۲۵,hakimiyeh,۱۴۰۲,۳,۱۳٬۱۲۵٬۰۰۰٬۰۰۰ تومان,true,true,true,۵ از ۶
+۵۹,sadeghiyeh,۱۳۹۹,۱,۷٬۷۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴
+۶۲,sadeghiyeh,۱۳۹۹,۲,۳٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲
+۱۱۴,sadeghiyeh,۱۳۸۹,۳,۱۲٬۲۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۵
+۱۱۵,sadeghiyeh,۱۴۰۰,۲,توافقی,true,true,true,۴
+۱۱۷,sadeghiyeh,۱۳۹۵,۳,۱۴٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵ از ۵
+۷۱,sadeghiyeh,۱۳۸۳,۲,۶٬۸۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۲ از ۴
+۱۱۸,sadeghiyeh,۱۴۰۳,۳,۱۴٬۲۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۵
+۷۶,sadeghiyeh,۱۳۹۳,۲,۷٬۸۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۵
+۸۷,sadeghiyeh,۱۳۷۹,۲,۷٬۶۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,همکف از ۴
+۷۸,sadeghiyeh,۱۳۸۷,۲,۷٬۳۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳
+۶۹,sadeghiyeh,۱۳۷۷,۱,۵٬۹۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۱
+۱۱۰,sadeghiyeh,۱۳۸۰,۳,۷٬۹۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۳ از ۴
+۶۵,sadeghiyeh,۱۳۸۲,۱,۴٬۹۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۲ از ۴
+۷۰,sadeghiyeh,۱۳۸۰,۲,۶٬۹۹۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵ از ۷
+۶۳,sadeghiyeh,۱۳۸۵,۱,۵٬۹۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۵
+۱۵۰,behjat-abad,۱۳۷۳,۳,۱۵٬۰۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۳ از ۴
+۱۳۰,behjat-abad,قبل از ۱۳۷۰,۳,۱۰٬۷۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۲
+۷۰,behjat-abad,۱۴۰۳,۲,۱۰٬۸۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۵
+۹۰,behjat-abad,۱۴۰۳,۲,۱۴٬۴۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۵
+۲۴۰,behjat-abad,قبل از ۱۳۷۰,۳,۱۷٬۹۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۵
+۱۰۰,behjat-abad,۱۳۹۲,۲,۱۱٬۶۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵ از ۵
+۱۲۷,behjat-abad,۱۳۷۱,۳,۱۰٬۷۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۲
+۶۰,behjat-abad,۱۳۸۳,۱,۷٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۵
+۱۰۶,behjat-abad,قبل از ۱۳۷۰,۲,۱۱٬۷۶۶٬۰۰۰٬۰۰۰ تومان,true,true,true,۷ از ۱۰
+۷۰,behjat-abad,۱۴۰۳,۲,۱۰٬۸۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۵
+۱۱۰,behjat-abad,۱۳۷۹,۳,۸٬۵۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۳ از ۴
+۸۶,behjat-abad,۱۳۷۸,۲,۷٬۲۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۳
+۹۰,behjat-abad,۱۳۹۰,۲,۸٬۵۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۵
+۱۴۹,behjat-abad,۱۴۰۰,۳,۱۸٬۶۲۵٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۶
+۷۶,behjat-abad,۱۴۰۰,۱,۹٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵ از ۵
+۱۱۰,behjat-abad,۱۳۹۵,۳,۱۲٬۹۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۵
+۸۶,east-shareq,۱۴۰۲,۲,۶٬۱۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵ از ۵
+۶۲,east-shareq,۱۳۸۹,۲,۳٬۶۸۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۳
+۹۶,east-shareq,۱۴۰۰,۲,۶٬۳۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۶
+۵۲,east-shareq,۱۳۹۱,۱,۳٬۷۵۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۲
+۴۸,east-shareq,۱۳۹۵,۱,۳٬۰۵۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۴
+۶۳,east-shareq,۱۳۹۷,۱,۴٬۳۶۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۴
+۴۲,east-shareq,۱۳۸۲,۱,۲٬۵۲۰٬۰۰۰٬۰۰۰ تومان,false,false,false,۳ از ۳
+۵۸,east-shareq,۱۴۰۱,۱,۴٬۰۶۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۱
+۴۳,east-shareq,۱۳۹۹,۱,۳٬۶۰۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۵
+۵۱,behjat-abad,۱۳۷۵,۱,۴٬۷۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۳ از ۴
+۷۸,east-shareq,۱۴۰۱,۲,۵٬۵۴۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲
+۸۰,east-shareq,۱۴۰۲,۲,۵٬۴۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱
+۶۸,east-shareq,۱۳۹۷,۲,۵٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳
+۵۶,east-shareq,۱۳۹۵,۱,۳٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,false,false,۱ از ۵
+۹۲,east-shareq,۱۴۰۳,۲,۶٬۴۵۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۲
+۸۳,east-shareq,۱۴۰۳,۲,۵٬۸۹۳٬۰۰۰٬۰۰۰ تومان,true,false,true,۲ از ۴
+۳۹,tehran-lashkar,۱۳۹۴,۱,۳٬۰۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۱ از ۴
+۷۱,east-shareq,۱۳۷۳,۲,۲٬۸۵۰٬۰۰۰٬۰۰۰ تومان,false,false,true,زیرهمکف
+۱۱۰,pasdaran,۱۴۰۱,۲,۱۴٬۳۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۱۱
+۱۸۷,pasdaran,۱۴۰۳,۳,۲۳٬۲۸۹٬۰۰۰٬۰۰۰ تومان,true,true,true,۱۱ از ۱۱
+۲۳۰,pasdaran,۱۴۰۱,۳,۵۵٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۵
+۱۸۰,pasdaran,۱۳۹۶,۳,۳۴٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۵
+۲۱۰,pasdaran,۱۳۹۵,۳,۳۶٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۵
+۱۴۰,pasdaran,۱۳۸۵,۳,۲۳٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳
+۱۶۰,pasdaran,۱۴۰۰,۳,۳۱٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۵
+۹۰,pasdaran,۱۳۸۲,۲,۱۳٬۳۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۵
+۲۶۰,pasdaran,۱۴۰۳,۳,۶۶٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵ از ۵
+۱۲۲,pasdaran,۱۳۸۲,۳,۱۶٬۳۹۹٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۴
+۸۰,pasdaran,۱۳۹۵,۲,۱۱۱٬۱۱۱٬۱۱۱٬۱۱۱ تومان,true,true,true,۱
+۱۰۰,pasdaran,قبل از ۱۳۷۰,۲,۹٬۸۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۲ از ۳
+۲۷۰,pasdaran,۱۴۰۳,۳,۶۵٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۵
+۱۲۰,pasdaran,۱۳۹۷,۲,۲۴٬۳۶۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۵
+۱۲۰,pasdaran,۱۳۸۳,۲,۱۴٬۲۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵ از ۵
+۱۸۵,pasdaran,۱۳۸۸,۳,۳۳٬۳۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴
+۱۰۰,pasdaran,۱۴۰۱,۲,۸٬۸۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵ از ۸
+۹۸,pasdaran,۱۳۸۲,۲,۱۲٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۱
+۱۹۵,pasdaran,۱۴۰۳,۳,۴۸٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۵
+۱۰۵,south-shahran,۱۴۰۳,۲,۴۵۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۳
+۶۲,south-shahran,۱۳۸۶,۱,۵٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۵
+۱۰۲,south-shahran,۱۳۹۷,۲,۱۰٬۴۱۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴
+۱۶۸,pasdaran,۱۳۸۵,۳,۲۱٬۸۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۵
+۵۰,south-shahran,۱۳۸۵,۱,۵٬۱۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۵
+۱۲۵,south-shahran,۱۴۰۳,۲,۱۲٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۴
+۷۵,south-shahran,۱۳۸۷,۲,۷٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳
+۱۱۲,south-shahran,۱۳۹۲,۳,۱۱٬۹۸۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۵
+۸۸,south-shahran,۱۳۸۴,۲,۸٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۵
+۱۰۳,south-shahran,۱۳۹۹,۲,۱۲٬۲۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵ از ۵
+۵۶,south-shahran,۱۳۸۹,۱,۵٬۹۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۴
+۵۹,south-shahran,۱۳۹۳,۱,۷٬۲۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴
+۱۰۱,south-shahran,۱۳۹۶,۲,۱۰٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۵
+۷۵,south-shahran,۱۳۸۶,۲,۵٬۵۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۴ از ۴
+۸۳,south-shahran,۱۳۸۳,۲,۷٬۷۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۶
+۶۰,south-shahran,۱۴۰۱,۱,۷٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۶
+۶۸,south-shahran,۱۳۹۸,۱,۶٬۷۹۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۵
+۶۰,south-shahran,۱۳۸۶,۱,۶٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳
+۵۵,south-shahran,۱۳۸۷,۱,۵٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴
+۶۰,south-shahran,۱۳۸۶,۱,۴٬۸۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۴
+۵۰,south-shahran,۱۳۸۷,۱,۵٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲
+۱۷۸,kamraniyeh,۱۳۹۵,۳,۳۰٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵ از ۵
+۲۲۶,kamraniyeh,۱۳۸۸,۳,۴۲٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۶ از ۱۵
+۲۳۰,kamraniyeh,۱۳۸۸,۳,۳۷٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۵
+۲۴۸,kamraniyeh,۱۴۰۱,۳,۸۰٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۹
+۲۶۰,kamraniyeh,۱۴۰۰,۳,۶۵٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۸
+۲۱۰,kamraniyeh,۱۳۹۶,۳,۵۲٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۷
+۳۰۰,kamraniyeh,۱۳۸۸,۳,۶۰٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,همکف از ۶
+۳۰۰,kamraniyeh,۱۴۰۲,۳,۱۱۰٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱
+۱۵۴,kamraniyeh,۱۳۸۲,۳,۲۱٬۶۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۵
+۳۰۰,kamraniyeh,۱۳۸۵,۴,۱۱۱٬۱۱۱ تومان,true,true,true,۳
+۳۴۰,kamraniyeh,۱۴۰۲,۳,۱۸۵٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱۴
+۱۵۰,kamraniyeh,۱۳۹۵,۳,۳۳٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۵
+۱۰۰,kamraniyeh,۱۳۹۰,۲,۱۹٬۲۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۵
+۲۲۰,kamraniyeh,۱۳۹۹,۳,۶۰٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۵
+۲۳۰,kamraniyeh,۱۴۰۰,۳,۶۵٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۶
+۹۷,south-shahran,۱۳۹۷,۲,۹٬۸۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱۱ از ۱۱
+۲۴۰,kamraniyeh,۱۴۰۳,۳,۷۲٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲
+۱۳۵,saeed-abad,۱۴۰۲,۳,۴٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۶
+۹۵,saeed-abad,۱۳۹۷,۳,۳٬۰۸۷٬۰۰۰٬۰۰۰ تومان,true,true,false,۳ از ۶
+۸۵,saeed-abad,۱۴۰۰,۲,۳٬۰۶۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۲
+۹۵,saeed-abad,۱۴۰۰,۲,۲٬۷۵۵٬۰۰۰٬۰۰۰ تومان,true,true,true,۴
+۸۵,saeed-abad,۱۴۰۲,۲,۱٬۲۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۶
+۸۰,saeed-abad,۱۴۰۳,۲,۱٬۳۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵
+۹۰,saeed-abad,۱۴۰۰,۲,۲٬۲۰۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۲ از ۵
+۱۰۲,saeed-abad,۱۴۰۱,۲,۳٬۲۶۴٬۰۰۰٬۰۰۰ تومان,false,false,true,۳ از ۳
+۱۲۵,saeed-abad,۱۴۰۱,۲,۳٬۷۵۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۱ از ۶
+۹۵,saeed-abad,۱۴۰۲,۲,۳٬۲۳۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱
+۷۹,saeed-abad,۱۴۰۲,۲,۲٬۵۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۶
+۸۰,saeed-abad,۱۴۰۳,۲,۱٬۲۸۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵ از ۶
+۹۵,saeed-abad,۱۴۰۲,۲,۲٬۸۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴
+۱۳۵,saeed-abad,۱۴۰۲,۲,۴٬۷۲۵٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۶
+۸۵,saeed-abad,۱۴۰۲,۲,۲٬۹۷۵٬۰۰۰٬۰۰۰ تومان,true,true,true,۵ از ۵
+۸۱,saeed-abad,۱۴۰۲,۲,۱٬۶۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۶
+۱۵۵,darya,۱۳۸۸,۳,۲۰٬۲۵۸٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۵
+۱۳۰,darya,۱۴۰۳,۳,۲۶٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱۰ از ۱۰
+۱۵۵,darya,۱۴۰۱,۳,۳۹٬۸۸۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۶
+۱۰۱,darya,۱۳۸۶,۲,۱۶٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۷
+۱۵۵,darya,۱۳۸۷,۳,۲۰٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۵
+۱۱۱,darya,۱۳۸۵,۲,۱۷٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵ از ۵
+۹۸,darya,۱۳۸۵,۲,۱۳٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۵ از ۵
+۱۱۷,darya,۱۳۸۵,۲,۱۵٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۵
+۸۴,darya,۱۳۸۴,۲,۱۱٬۸۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۵
+۱۴۸,darya,۱۴۰۰,۳,۳۱٬۲۱۵٬۰۰۰٬۰۰۰ تومان,true,true,true,۳
+۴۴,javadiyeh,۱۳۹۵,۱,۲٬۳۰۰٬۰۰۰٬۰۰۰ تومان,true,false,false,۲ از ۵
+۶۰,javadiyeh,۱۳۹۵,۲,۳٬۲۴۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۴
+۸۰,javadiyeh,۱۳۸۹,۲,۳٬۵۶۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲
+۱۲۶,darya,۱۴۰۰,۳,۲۸٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۵
+۱۰۵,javadiyeh,۱۴۰۳,۲,۴۵۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۳
+۹۸,javadiyeh,۱۳۹۶,۲,۴٬۸۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۵
+۴۶,javadiyeh,۱۳۷۸,۱,۲٬۰۷۰٬۰۰۰٬۰۰۰ تومان,false,false,false,۱ از ۴
+۵۸,javadiyeh,۱۴۰۳,۱,۳٬۰۸۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵
+۵۰,javadiyeh,۱۳۹۶,۱,۱٬۸۰۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۲
+۵۰,javadiyeh,۱۳۹۶,۱,۲٬۲۰۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۲
+۷۸,javadiyeh,۱۴۰۳,۲,۳٬۸۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۵
+۷۲,javadiyeh,۱۳۹۵,۲,۳٬۷۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۴
+۶۲,javadiyeh,۱۳۹۲,۱,۳٬۰۷۵٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۴
+۷۰,javadiyeh,۱۳۹۷,۲,۴٬۱۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۴
+۹۶,bahar,۱۳۸۷,۲,۹٬۸۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲
+۱۲۰,bahar,۱۴۰۱,۲,۱۳٬۸۰۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۵ از ۶
+۹۲,bahar,۱۳۹۴,۲,۸٬۱۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۵
+۲۲۰,bahar,۱۳۷۱,۳,۱۷٬۴۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۱ از ۳
+۵۵,bahar,۱۳۹۵,۱,۶٬۵۹۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۳ از ۴
+۱۰۶,bahar,۱۴۰۳,۲,۱۳٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۵
+۱۰۶,bahar,۱۴۰۳,۲,۱۱٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵ از ۶
+۹۲,bahar,۱۳۸۶,۲,۸٬۳۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۴
+۶۷,bahar,۱۳۸۳,۲,۶٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۵
+۱۰۰,bahar,۱۳۸۷,۲,۸٬۸۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۴
+۵۳,bahar,۱۳۸۰,۱,۴٬۸۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۵
+۱۰۰,bahar,۱۳۹۱,۳,۸٬۲۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴
+۹۳,bahar,۱۳۹۲,۲,۸٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۴
+۵۴,bahar,۱۳۷۴,۱,۴٬۷۰۰٬۰۰۰٬۰۰۰ تومان,false,false,false,همکف از ۵
+۸۰,bahar,۱۳۸۴,۲,۶٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۶
+۷۰,bahar,۱۴۰۲,۲,۸٬۳۹۵٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۳
+۷۷,bahar,۱۳۹۱,۲,۶٬۶۰۰٬۰۰۰٬۰۰۰ تومان,false,false,false,۳
+۱۲۵,bahar,۱۴۰۱,۳,۱۶٬۲۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۵
+۹۵,bahar,۱۳۷۳,۲,۷٬۵۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,همکف از ۴
+۱۱۲,shirazi,۱۳۹۹,۲,۱۶٬۴۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴
+۴۲,shirazi,۱۳۸۷,بدون اتاق,۱۷٬۴۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱۴ از بیشتر از ۳۰
+۲۱۴,shirazi,۱۳۸۴,۳,۳۴٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۱۱
+۱۰۰,shirazi,۱۴۰۳,۳,۲۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱۱
+۱۷۰,shirazi,۱۳۸۸,۳,۲۴٬۶۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۶
+۱۷۵,shirazi,قبل از ۱۳۷۰,۳,۱۵٬۰۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۳ از ۳
+۶۱,shirazi,۱۳۷۸,۱,۷٬۸۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,همکف از ۵
+۱۵۰,mirdamad,۱۴۰۲,۳,۳۰٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۵
+۱۷۵,mirdamad,۱۴۰۳,۳,۴۲٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۵
+۱۴۴,mirdamad,۱۴۰۳,۳,۲۵٬۲۵۲٬۵۲۵٬۲۵۲ تومان,true,true,true,۴ از ۵
+۸۵,mirdamad,۱۳۸۷,۲,۱۱٬۹۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۵
+۱۲۰,mirdamad,۱۴۰۱,۲,۲۲٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۵
+۱۵۰,mirdamad,۱۳۸۹,۳,۲۲٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۵
+۱۴۸,mirdamad,۱۴۰۳,۳,۲۵٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۵
+۱۵۵,mirdamad,۱۳۹۷,۳,۲۷٬۱۲۵٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۵
+۱۰۰,mirdamad,۱۴۰۲,۲,۲۱٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳
+۱۱۰,mirdamad,۱۴۰۳,۲,۲۱٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲
+۹۰,mirdamad,۱۳۹۶,۲,۱۴٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳
+۱۱۰,mirdamad,۱۴۰۳,۲,۲۲٬۳۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳
+۹۰,mirdamad,۱۳۷۵,۲,۱۱٬۴۴۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۳ از ۳
+۱۴۵,mirdamad,۱۴۰۳,۳,۳۱٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱
+۱۵۲,mirdamad,۱۳۸۰,۳,۱۹٬۷۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۵
+۸۰,tarasht,۱۳۸۶,۲,۶٬۸۵۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۲
+۱۴۰,tarasht,۱۴۰۲,۳,۱۴٬۳۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۵
+۱۱۰,tarasht,۱۳۹۴,۳,۱۲٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱
+۸۲,tarasht,۱۴۰۳,۲,۶٬۹۹۷٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۴
+۱۹,tarasht,۱۳۷۸,بدون اتاق,۱٬۶۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,زیرهمکف از ۴
+۱۴۰,tarasht,۱۴۰۳,۳,۱۴٬۶۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۵
+۱۰۰,mirdamad,۱۴۰۱,۲,۲۱٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳
+۷۰,tarasht,۱۳۸۸,۲,۶٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۸
+۶۵,tarasht,۱۳۸۵,۱,۵٬۶۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۵
+۸۰,tarasht,۱۳۸۴,۲,۶٬۴۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴
+۱۱۲,tarasht,۱۴۰۲,۲,۱۲٬۶۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵
+۴۰۰,darrous,۱۳۸۶,۴,۶۴٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴
+۱۵۰,darrous,۱۳۹۳,۳,۲۶٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۴
+۶۸,tarasht,۱۴۰۱,۲,۷٬۱۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱
+۳۹۰,darrous,۱۴۰۲,۴,۱۱۴٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱۲
+۲۷۰,darrous,۱۳۸۲,۴,۴۵٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۵
+۱۰۶,darrous,۱۳۹۸,۲,۱۷٬۲۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۵
+۲۳۰,darrous,۱۴۰۳,۳,۸۰٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۱۰
+۱۵۰,darrous,۱۳۹۴,۳,۲۳٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۵
+۲۱۰,darrous,۱۳۹۹,۳,۳۸٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۹ از ۹
+۱۴۸,darrous,۱۳۹۴,۳,۲۵٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۵
+۳۰۰,darrous,۱۳۹۳,۴,۷۰٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۵
+۲۳۵,darrous,۱۴۰۳,۳,۷۵٬۲۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴
+۲۰۰,darrous,۱۳۹۰,۳,۳۳٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۵
+۲۸۰,darrous,۱۳۹۸,۴,۷۵٬۶۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳
+۳۰۰,darrous,۱۳۹۷,۴,۷۴٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۵
+۱۶۹,darrous,۱۳۸۸,۳,۳۱٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۵
+۹۴,darrous,۱۳۹۳,۲,۱۶٬۷۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۴
+۷۰,darrous,۱۴۰۰,۱,۱۴٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۵
+۲۰۰,darrous,۱۳۸۳,۳,۳۰٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵ از ۶
+۱۲۲,darrous,۱۴۰۳,۲,۳۴٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۵
+۱۰۵,darrous,۱۳۸۸,۲,۱۶٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵ از ۵
+۳۳۰,darrous,۱۴۰۲,۴,۸۱٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲
+۱۴۹,amir-abad,۱۴۰۳,۳,۲۴٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۶
+۲۰۵,darrous,۱۳۸۵,۳,۳۵٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴
+۱۳۱,amir-abad,۱۴۰۲,۲,۲۰٬۷۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۳
+۱۲۵,darrous,۱۴۰۰,۲,۲۳٬۱۱۰٬۰۰۱٬۰۰۰ تومان,true,true,true,۵ از ۵
+۱۱۵,amir-abad,۱۳۹۲,۲,۱۴٬۸۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۵
+۱۱۷,amir-abad,۱۳۹۵,۲,۱۶٬۸۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۵
+۹۶,amir-abad,۱۳۹۵,۲,۱۲٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۵
+۲۴۰,amir-abad,۱۴۰۲,۳,۳۷٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲
+۱۱۵,amir-abad,۱۴۰۳,۲,۱۳٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۴
+۸۰,amir-abad,۱۳۹۸,۲,۹٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲
+۸۲,amir-abad,۱۳۸۷,۲,۹٬۶۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱
+۱۷۵,amir-abad,۱۳۸۸,۳,۱۹٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۴
+۱۱۰,amir-abad,۱۴۰۳,۲,۱۸٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۲
+۱۸۲,amir-abad,۱۳۸۵,۲,۱۷٬۹۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳
+۵۰,haftchenar,۱۳۹۵,۱,۳٬۶۰۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۵ از ۵
+۴۴,haftchenar,۱۳۹۵,۱,۳٬۰۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۴
+۵۰,haftchenar,۱۳۹۱,۱,۲٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۴
+۵۹,haftchenar,۱۳۹۵,۱,۳٬۹۵۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۳ از ۴
+۵۰,haftchenar,۱۳۹۶,۱,۳٬۱۰۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۱ از ۵
+۵۰,haftchenar,۱۳۹۰,۱,۳٬۴۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۴
+۳۶,haftchenar,۱۳۸۷,۱,۲٬۴۵۰٬۰۰۰٬۰۰۰ تومان,false,true,false,۳
+۵۵,haftchenar,۱۳۹۷,۱,۳٬۱۰۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۲
+۱۲۸,haftchenar,۱۴۰۱,۲,۸٬۹۶۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵ از ۵
+۵۷,haftchenar,۱۳۹۰,۱,۳٬۴۰۰٬۰۰۰٬۰۰۰ تومان,false,true,false,۱
+۱۰۰,haftchenar,۱۴۰۰,۲,۶٬۲۲۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۵
+۴۰,haftchenar,۱۳۹۲,۱,۲٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۴
+۳۳,haftchenar,۱۳۸۳,۱,۲٬۱۹۰٬۰۰۰٬۰۰۰ تومان,false,false,false,۱ از ۴
+۶۰,haftchenar,۱۳۸۰,۱,۲٬۷۱۰٬۰۰۰٬۰۰۰ تومان,false,false,true,همکف از ۴
+۵۸,haftchenar,۱۳۸۹,۱,۳٬۸۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۱ از ۴
+۵۵,nosrat,۱۳۷۸,۱,۳٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,false,false,۳
+۷۰,nosrat,۱۴۰۳,۲,۹٬۱۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۵
+۱۱۰,nosrat,۱۴۰۳,۲,۱۲٬۶۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۵
+۹۶,nosrat,۱۳۷۱,۳,۸٬۳۰۰٬۰۰۰٬۰۰۰ تومان,false,false,false,۱ از ۴
+۶۳,nosrat,۱۳۹۵,۲,۵٬۸۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳
+۱۳۰,nosrat,۱۴۰۱,۳,۱۷٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۴
+۵۲۰,nosrat,۱۴۰۱,+۴,۶۵٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۴
+۹۱,nosrat,۱۴۰۱,۲,۹٬۴۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۶ از ۶
+۷۵,nosrat,۱۳۸۰,۲,۶٬۰۸۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۳ از ۳
+۱۹۳,nosrat,۱۳۷۱,۳,۱۶٬۰۰۰٬۰۰۰٬۰۰۰ تومان,false,false,false,۳ از ۳
+۵۵,nosrat,۱۳۸۱,۱,۳٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,false,false,۳ از ۵
+۱۰۸,nosrat,۱۴۰۳,۲,۱۱٬۵۵۶٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۵
+۶۳,nosrat,۱۳۸۲,۲,۶٬۹۳۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۵
+۵۰,nosrat,۱۳۸۲,۲,۴٬۴۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۳ از ۴
+۱۱۷,nosrat,۱۴۰۳,۳,۱۴٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۵
+۱۴۶,nosrat,۱۴۰۰,۳,۱۶٬۸۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۵
+۸۲,parastar,۱۳۹۴,۲,۶٬۷۰۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۴ از ۵
+۱۸۵,parastar,۱۴۰۳,۳,۱۷٬۷۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۵
+۱۳۰,parastar,۱۳۹۵,۲,۱۴٬۷۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۵
+۴۹,parastar,۱۳۸۲,۱,۳٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۲ از ۵
+۶۷,parastar,۱۴۰۰,۱,۶٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲
+۵۷,khaje-nezam-molk,۱۳۸۹,۱,۴٬۶۸۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۴
+۱۰۱,khaje-nezam-molk,۱۴۰۰,۲,۸٬۶۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲
+۴۵,khaje-nezam-molk,۱۳۹۳,۱,۳٬۵۹۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲
+۵۸,khaje-nezam-molk,۱۳۸۰,۱,۳٬۲۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۲ از ۴
+۶۰,khaje-nezam-molk,۱۳۸۳,۱,۳٬۷۵۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۲
+۵۶,khaje-nezam-molk,۱۴۰۱,۱,۴٬۴۰۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۵
+۹۴,khaje-nezam-molk,۱۳۹۹,۲,۷٬۱۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۶
+۵۲,khaje-nezam-molk,۱۳۸۴,۱,۳٬۹۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۱ از ۴
+۵۰,khaje-nezam-molk,۱۳۸۹,۱,۳٬۵۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۴
+۵۱,khaje-nezam-molk,۱۳۹۰,۱,۳٬۷۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳
+۶۰,khaje-nezam-molk,۱۳۸۱,۱,۳٬۰۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۳ از ۳
+۱۳۳,khaje-nezam-molk,۱۴۰۳,۳,۹٬۹۷۵٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۵
+۵۵,khaje-nezam-molk,۱۴۰۳,۱,۳٬۷۰۰٬۰۰۰٬۰۰۰ تومان,true,false,false,۱ از ۵
+۵۸,khaje-nezam-molk,۱۳۹۷,۱,۴٬۶۰۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۳ از ۵
+۶۴,khaje-nezam-molk,۱۳۷۶,۲,۳٬۸۵۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۶ از ۶
+۵۸,khaje-nezam-molk,۱۴۰۲,۲,۴٬۸۹۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۳ از ۵
+۴۰,khaje-nezam-molk,۱۳۸۲,۱,۲٬۳۸۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۳
+۴۴,beryanak,۱۳۸۴,۱,۲٬۳۷۰٬۰۰۰٬۰۰۰ تومان,false,false,true,همکف از ۳
+۵۰,beryanak,۱۳۸۶,۲,۲٬۷۴۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۲ از ۵
+۴۱,beryanak,۱۳۷۹,۱,۲٬۵۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,همکف از ۴
+۷۷,beryanak,۱۴۰۳,۲,۳٬۹۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۴
+۵۷,beryanak,۱۳۸۵,۱,۲٬۷۳۵٬۰۰۰٬۰۰۰ تومان,true,false,true,۴ از ۳
+۱۴۲,tehran-jolfa,۱۳۹۶,۳,۱۸٬۳۱۸٬۰۰۰٬۰۰۰ تومان,true,true,true,۵ از ۵
+۸۸,tehran-jolfa,۱۳۸۸,۲,۱۲٬۱۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲
+۸۵,tehran-jolfa,۱۳۸۴,۲,۷٬۸۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,همکف از ۵
+۷۰,tehran-jolfa,۱۴۰۱,۱,۱۱٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۵
+۱۲۵,tehran-jolfa,۱۴۰۲,۳,۱۵٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲
+۱۴۷,tehran-jolfa,۱۳۸۳,۳,۱۷٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۵
+۱۲۴,tehran-jolfa,۱۴۰۲,۳,۱۷٬۹۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۶
+۱۰۵,tehran-jolfa,۱۴۰۳,۲,۱۴٬۷۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۶
+۸۰,tehran-jolfa,۱۳۸۰,۲,۱۱٬۲۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱
+۱۰۰,tehran-jolfa,۱۳۷۹,۲,۹٬۹۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۲
+۱۴۷,tehran-jolfa,۱۳۹۶,۳,۱۹٬۲۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۵
+۶۰,tehran-jolfa,۱۳۸۵,۲,۵٬۷۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۱ از ۴
+۹۱,tehran-jolfa,۱۳۷۲,۲,۶٬۷۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۳ از ۳
+۹۴,tehran-jolfa,۱۳۸۶,۲,۱۲٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲
+۱۰۰,tehran-jolfa,۱۴۰۰,۲,۱۶٬۳۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۶ از ۶
+۱۷۰,tehran-jolfa,۱۳۸۲,۳,۱۹٬۴۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴
+۱۵۰,hesar-booali,۱۳۸۴,۲,۳۰٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۳
+۲۷۰,hesar-booali,۱۴۰۰,۴,۹۵٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵
+۱۸۵,hesar-booali,۱۴۰۳,۳,۴۵٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۵
+۱۲۲,hesar-booali,۱۳۹۰,۲,۲۱٬۷۸۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱
+۱۳۵,tehran-jolfa,۱۴۰۱,۳,۱۹٬۷۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۵
+۲۰۰,hesar-booali,۱۳۸۶,۳,۳۴٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۵
+۱۸۵,hesar-booali,۱۳۸۸,۳,۳۵٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۵
+۲۱۰,hesar-booali,۱۴۰۱,۳,۸۰٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۹
+۴۳۰,hesar-booali,۱۴۰۲,۴,۱۹۳٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۶ از ۱۰
+۱۴۹,hesar-booali,۱۴۰۰,۳,۲۴٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴
+۱۸۵,hesar-booali,۱۳۹۲,۳,۳۴٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۵
+۲۷۰۰۰۰,hesar-booali,۱۳۹۹,۳,۷۰٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱۳ از ۱۶
+۱۵۰,hesar-booali,۱۴۰۳,۳,۳۹٬۹۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۸ از ۱۰
+۳۳۰,hesar-booali,۱۳۸۶,۴,۵۸٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵ از ۶
+۳۱۰,hesar-booali,۱۳۹۶,۴,۶۷٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۸ از ۱۰
+۱۸۵,hesar-booali,۱۳۹۱,۳,۳۴٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۵
+۲۳۰,hesar-booali,۱۳۹۹,۲,۱۸٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۱۷
+۱۸۲,hesar-booali,۱۳۹۹,۳,۵۴٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۶
+۶۰,ekbatan,۱۳۷۲,۱,۸٬۴۰۰٬۰۰۰٬۰۰۰ تومان,true,false,false,۱
+۱۵۲,hesar-booali,۱۴۰۰,۲,۴۳٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۱۲
+۶۷,ekbatan,قبل از ۱۳۷۰,۱,۱۰٬۳۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵
+۴۸,ekbatan,۱۳۷۵,۱,۷٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,false,false,۶ از ۶
+۱۳۵,ekbatan,قبل از ۱۳۷۰,۳,۱۲٬۷۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۱۲
+۶۶,ekbatan,قبل از ۱۳۷۰,۱,۸٬۴۰۰٬۰۰۰٬۰۰۰ تومان,true,false,false,۷
+۶۵,ekbatan,قبل از ۱۳۷۰,۱,۹٬۶۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱
+۸۱,ekbatan,۱۳۹۷,۲,۷٬۵۲۵٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۵
+۷۲,ekbatan,۱۴۰۱,۲,۳٬۸۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲
+۱۳۷,ekbatan,۱۴۰۲,۳,۱۳٬۹۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۱۲
+۱۲۰,ekbatan,۱۳۹۹,۲,۱٬۱۱۱٬۱۱۱٬۱۱۱ تومان,true,true,true,۱ از ۵
+۶۸,ekbatan,۱۴۰۳,۱,۱۰٬۳۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱۱ از ۱۲
+۷۸,ekbatan,قبل از ۱۳۷۰,۲,۱۱٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,false,false,۶
+۱۴۱,ekbatan,۱۴۰۳,۳,۱۳٬۷۵۰٬۰۰۰٬۰۰۰ تومان,true,false,false,۲
+۴۸,salamat,۱۳۸۳,۱,۲٬۱۵۰٬۰۰۰٬۰۰۰ تومان,false,false,true,زیرهمکف از ۳
+۸۰,salamat,۱۳۹۲,۲,۴٬۸۰۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۱
+۶۴,ekbatan,۱۴۰۰,۱,۸٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,false,false,۷ از ۱۲
+۸۳,salamat,۱۳۹۵,۲,۴٬۶۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۴
+۵۹,salamat,۱۳۹۳,۱,۳٬۱۰۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۱ از ۴
+۷۱,salamat,۱۳۸۰,۲,۳٬۸۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۳ از ۴
+۶۵,salamat,۱۳۷۵,۱,۳٬۲۰۰٬۰۰۰٬۰۰۰ تومان,false,false,false,۱
+۵۰,salamat,۱۳۸۲,۱,۲٬۶۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۳
+۴۸,salamat,۱۳۸۲,۱,۲٬۰۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,زیرهمکف از ۴
+۴۸,salamat,۱۳۹۳,۱,۲٬۶۵۰٬۰۰۰٬۰۰۰ تومان,true,false,false,۳
+۹۶,salamat,۱۳۸۴,۳,۵٬۷۶۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۱
+۳۸,salamat,۱۳۸۳,۱,۲٬۳۰۰٬۰۰۰٬۰۰۰ تومان,false,false,false,همکف از ۳
+۴۸,salamat,۱۳۹۳,۱,۳٬۲۰۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۲ از ۴
+۸۰,salamat,۱۴۰۰,۲,۴٬۷۴۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳
+۴۳,soleymani,۱۳۸۰,۱,۱٬۱۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۱ از ۴
+۴۸,soleymani,۱۳۸۷,۱,۲٬۶۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۵
+۵۰,soleymani,۱۳۸۰,۱,۲٬۱۹۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۱
+۵۷,soleymani,۱۳۸۲,۱,۳٬۴۵۰٬۰۰۰٬۰۰۰ تومان,false,true,false,۱ از ۴
+۴۸,soleymani,۱۳۹۳,۱,۲٬۸۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۴
+۶۵,soleymani,۱۳۹۴,۲,۳٬۷۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵ از ۶
+۶۱,soleymani,۱۳۸۳,۱,۲٬۷۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,همکف از ۴
+۴۳,soleymani,۱۳۸۰,۱,۲٬۲۵۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۲ از ۴
+۴۴,soleymani,۱۳۹۳,۱,۲٬۱۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۱ از ۳
+۵۳,soleymani,۱۳۹۵,۱,۳٬۲۰۰٬۰۰۰٬۰۰۰ تومان,true,false,false,۱ از ۵
+۵۰,soleymani,۱۳۹۲,۱,۲٬۸۹۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۱ از ۴
+۱۰۰,soleymani,۱۳۹۹,۲,۵٬۲۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲
+۷۰,evin,۱۳۸۳,۱,۱۲٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳۰
+۵۸,soleymani,۱۳۸۷,۱,۲٬۶۵۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۳
+۷۲,evin,۱۳۸۷,۱,۵٬۲۵۰٬۰۰۰٬۰۰۰ تومان,false,false,true,همکف از ۳
+۱۲۵,evin,۱۳۹۸,۲,۱۱٬۸۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵
+۱۵۰,evin,۱۴۰۳,۳,۳۱٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۹
+۱۶۰,evin,۱۳۹۶,۳,۳۱٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۹
+۱۴۱,evin,۱۳۹۲,۳,۱۸٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۵
+۹۳۵۰۰,evin,۱۳۹۷,۲,۲۲٬۷۰۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۳
+۹۷,evin,۱۳۹۵,۲,۱۲٬۴۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۶
+۹۱,evin,۱۳۹۸,۲,۱۷٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۷
+۱۰۹,tolid-daroo,۱۴۰۲,۳,۷٬۷۲۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۳ از ۵
+۶۷,tolid-daroo,۱۳۸۷,۲,۳٬۰۵۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۱ از ۴
+۴۸,tolid-daroo,۱۳۸۲,۱,۲٬۰۵۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۳ از ۳
+۵۱,tolid-daroo,۱۳۹۴,۱,۲٬۶۷۸٬۰۰۰٬۰۰۰ تومان,true,false,false,۱ از ۴
+۴۸,tolid-daroo,۱۳۸۵,۱,۲٬۵۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۳ از ۳
+۵۵,tolid-daroo,۱۳۸۹,۱,۲٬۹۹۹٬۰۰۰٬۰۰۰ تومان,true,false,true,۱
+۵۷,tolid-daroo,۱۳۸۴,۱,۲٬۸۵۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۱ از ۵
+۵۸,tolid-daroo,۱۳۸۳,۲,۲٬۴۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۴ از ۴
+۵۹,tolid-daroo,۱۳۸۱,۱,۲٬۳۷۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۴ از ۴
+۹۷,tolid-daroo,۱۳۹۳,۲,۵٬۷۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۴
+۹۱,tolid-daroo,۱۳۹۵,۲,۶٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۴ از ۶
+۸۵,tolid-daroo,۱۳۹۵,۲,۵٬۸۰۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۴ از ۶
+۶۰,south-narmak,۱۳۹۲,۲,۴٬۰۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۴ از ۴
+۴۵,tolid-daroo,۱۳۸۴,۱,۲٬۳۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۲ از ۴
+۵۶,south-narmak,۱۳۸۹,۱,۵٬۵۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۲ از ۴
+۱۳۵,south-narmak,۱۴۰۲,۳,۱۴٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۵
+۹۷,south-narmak,۱۴۰۳,۲,۱۱٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳
+۸۸,south-narmak,۱۳۹۹,۲,۸٬۶۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۲۰
+۶۵,south-narmak,۱۳۸۰,۲,۴٬۸۵۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۳ از ۴
+۶۳,south-narmak,۱۳۹۰,۲,۴٬۸۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۳ از ۴
+۶۵,south-narmak,۱۳۹۶,۲,۵٬۹۰۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۳ از ۵
+۸۶,south-narmak,۱۳۸۸,۲,۷٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۵
+۶۰,south-narmak,۱۳۹۴,۲,۵٬۱۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۱ از ۴
+۶۴,south-narmak,۱۳۸۷,۱,۴٬۹۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۳ از ۴
+۷۲,south-narmak,۱۳۷۱,۳,۵٬۴۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۱ از ۴
+۶۲,south-narmak,۱۳۹۵,۱,۵٬۰۵۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۲ از ۴
+۶۵,south-narmak,۱۳۹۰,۲,۶٬۲۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۵
+۵۱,south-narmak,۱۳۹۷,۱,۴٬۹۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۴
+۸۵,south-narmak,۱۴۰۰,۲,۸٬۱۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۴
+۹۰,ozgol,۱۴۰۰,۲,۱۶٬۲۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۵
+۱۴۵,ozgol,۱۳۸۳,۳,۱۶٬۹۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳
+۲۲۶,ozgol,۱۳۸۸,۴,۲۵٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵ از ۵
+۵۷,south-narmak,۱۳۸۹,۲,۴٬۵۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۳ از ۴
+۶۵,ozgol,۱۳۸۵,۱,۸٬۷۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵ از ۵
+۸۲,ozgol,۱۴۰۰,۲,۱۷٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۹
+۶۸,ozgol,۱۳۸۸,۲,۱۰٬۲۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳
+۸۵,ozgol,۱۳۹۲,۲,۹٬۹۰۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۲
+۱۲۰,ozgol,۱۳۹۶,۲,۱۷٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴
+۹۶,ozgol,۱۳۸۵,۲,۱۳٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱۲ از ۱۸
+۱۲۰,ozgol,۱۳۹۰,۳,۱۵٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲
+۷۸,ozgol,۱۳۹۳,۲,۱۰٬۳۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۵
+۱۱۵,ozgol,۱۳۸۲,۲,۱۲٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳
+۱۱۰,ozgol,۱۳۸۰,۲,۱۲٬۷۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴
+۷۸,ozgol,۱۳۹۱,۲,۱۱٬۱۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲
+۱۱۱,ozgol,۱۳۸۶,۳,۱۱٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۷ از ۱۱
+۷۵,ozgol,۱۳۸۶,۲,۸٬۸۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۱۲
+۱۲۰,ozgol,۱۴۰۳,۲,۲۴٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳
+۱۱۰,ozgol,۱۳۹۶,۲,۱۶٬۶۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۶ از ۶
+۳۴۰,mahmoodiyeh,۱۴۰۱,۴,۱۱۰٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲
+۲۰۰,mahmoodiyeh,۱۳۹۵,۳,۵۰٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵ از ۵
+۲۳۰,mahmoodiyeh,۱۳۸۵,۴,۳۸٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۵
+۱۹۵,mahmoodiyeh,۱۳۸۹,۳,۳۵٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱
+۳۰۰,mahmoodiyeh,۱۴۰۲,۳,۱۰۹٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵ از ۵
+۱۴۰,mahmoodiyeh,۱۳۸۷,۳,۲۵٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳
+۱۴۰,mahmoodiyeh,۱۴۰۲,۳,۴۲٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۵
+۲۴۳,mahmoodiyeh,۱۳۹۵,۳,۵۸٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۷
+۳۰۰,mahmoodiyeh,۱۳۸۹,۴,۵۱٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵
+۱۴۰,mahmoodiyeh,۱۴۰۲,۳,۴۳٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱
+۱۲۵,mahmoodiyeh,۱۴۰۳,۲,۴۴٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۶
+۲۱۶,mahmoodiyeh,۱۳۸۱,۳,۳۳٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵
+۳۴۰,mahmoodiyeh,۱۳۹۶,۳,۱۳۶٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۶ از ۱۱
+۱۱۷,mahmoodiyeh,۱۴۰۳,۲,۴۰٬۹۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۵
+۲۳۰,mahmoodiyeh,۱۴۰۰,۳,۶۴٬۴۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۵
+۲۳۰,mahmoodiyeh,۱۳۹۰,۳,۴۸٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱
+۱۸۵,mahmoodiyeh,۱۳۸۲,۳,۴۶٬۲۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۴
+۳۶۰,mahmoodiyeh,۱۴۰۳,۴,۹۵٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱۰
+۲۰۰,elahiyeh,۱۴۰۲,۳,۴۵٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲
+۱۵۵,elahiyeh,۱۴۰۰,۳,۳۸٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵ از ۵
+۱۶۰,elahiyeh,۱۴۰۲,۳,۶۷٬۲۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۹
+۲۰۰,elahiyeh,۱۴۰۳,۳,۴۰٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۶ از ۱۱
+۳۸۰,elahiyeh,۱۳۸۹,۴,۸۰٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴
+۲۳۵,elahiyeh,۱۴۰۳,۳,۹۴٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵ از ۵
+۲۰۷,elahiyeh,۱۳۹۶,۳,۶۳٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱۴ از ۱۴
+۲۴۰,elahiyeh,۱۳۹۲,۳,۷۶٬۸۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۹ از ۱۰
+۱۷۵,elahiyeh,۱۴۰۰,۳,۳۵٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۶
+۱۲۵,elahiyeh,۱۳۸۷,۲,۳۳٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۶
+۱۶۰,elahiyeh,۱۴۰۲,۳,۶۷٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۶
+۴۷,aminhozour,۱۳۸۵,۱,۲٬۲۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۲
+۸۶,aminhozour,۱۳۸۰,۲,۳٬۴۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۳
+۴۰,aminhozour,۱۳۸۲,۱,۲٬۳۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۱ از ۳
+۴۸,aminhozour,۱۳۸۲,۱,۲٬۳۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۲ از ۳
+۶۱,aminhozour,۱۳۸۸,۲,۳٬۰۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,همکف از ۲
+۵۸,aminhozour,۱۳۸۴,۱,۳٬۱۲۰٬۰۰۰٬۰۰۰ تومان,true,false,false,۱ از ۵
+۴۰,aminhozour,۱۳۸۲,۱,۱٬۹۶۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۲
+۷۱,aminhozour,۱۳۸۹,۱,۵٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲
+۱۹۷,elahiyeh,۱۳۹۶,۳,۳۶٬۴۴۵٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۵
+۵۰,aminhozour,۱۳۸۵,۱,۳٬۰۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۲ از ۲
+۶۷,aminhozour,۱۳۸۶,۱,۴٬۲۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۱ از ۲
+۹۸,nezam-abad,۱۳۹۹,۲,۶٬۸۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴
+۶۷,nezam-abad,۱۳۸۸,۲,۳٬۳۵۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۱ از ۴
+۵۲,nezam-abad,۱۳۸۱,۱,۲٬۵۹۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۴ از ۴
+۵۰,nezam-abad,۱۳۹۱,۱,۲٬۹۳۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۱ از ۴
+۵۳,nezam-abad,۱۳۷۹,۱,۲٬۹۵۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۲ از ۴
+۵۷,nezam-abad,۱۳۹۰,۱,۳٬۲۵۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۲
+۱۳۵,zafar,۱۳۷۳,۳,۱۶٬۶۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۴
+۹۲,zafar,۱۳۸۸,۲,۱۲٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵
+۹۲,zafar,قبل از ۱۳۷۰,۲,۱۰٬۸۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۴
+۱۰۵,zafar,قبل از ۱۳۷۰,۲,۱۸٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۴
+۷۶,zafar,۱۴۰۳,۱,۲۰٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵ از ۵
+۱۳۰,zafar,۱۴۰۲,۲,۲۶٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۵
+۱۲۰,zafar,۱۴۰۰,۳,۲۱٬۶۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳
+۸۵,zafar,۱۳۸۳,۲,۹٬۰۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۱ از ۴
+۱۴۵,zafar,۱۴۰۳,۳,۳۰٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۵
+۱۲۵,zafar,۱۳۸۷,۳,۱۷٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵
+۸۵,zafar,۱۴۰۲,۲,۱۶٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴
+۱۴۵,zafar,۱۴۰۲,۲,۲۸٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۵
+۹۳,zafar,۱۴۰۳,۲,۱۴٬۷۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۵
+۴۸,bolursazi,۱۳۷۴,۱,۱٬۸۵۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۳ از ۴
+۶۵,bolursazi,۱۳۹۷,۲,۳٬۱۵۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۳
+۳۸,bolursazi,۱۳۹۹,۱,۲٬۲۰۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۱ از ۵
+۳۸,bolursazi,۱۳۹۶,۱,۲٬۲۰۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۱ از ۵
+۴۲,bolursazi,۱۳۸۷,۱,۲٬۰۲۰٬۰۰۰٬۰۰۰ تومان,false,false,false,۲ از ۳
+۵۰,bolursazi,۱۴۰۱,۱,۳٬۰۵۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۳ از ۴
+۷۵,bolursazi,۱۴۰۲,۲,۴٬۱۸۵٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۵
+۴۰,bolursazi,۱۳۹۶,۱,۲٬۱۶۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۲
+۴۵,bolursazi,۱۳۹۰,۱,۲٬۴۸۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۱ از ۳
+۴۸,bolursazi,۱۴۰۰,۱,۳٬۲۰۰٬۰۰۰٬۰۰۰ تومان,true,false,false,۳ از ۵
+۸۸,bolursazi,۱۴۰۰,۲,۴٬۶۸۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۵
+۱۰۴,bolursazi,۱۴۰۲,۳,۵٬۷۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۵
+۴۸,bolursazi,۱۳۷۷,۱,۱٬۸۵۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۲ از ۳
+۱۱۲,bolursazi,۱۳۹۶,۲,۶٬۹۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۵
+۴۸,bolursazi,۱۳۹۱,۱,۲٬۹۰۰٬۰۰۰٬۰۰۰ تومان,true,false,false,۴ از ۴
+۴۷,bolursazi,۱۳۸۸,۱,۲٬۴۴۵٬۰۰۰٬۰۰۰ تومان,false,false,false,۱ از ۴
+۱۲۲,bolursazi,۱۴۰۲,۳,۷٬۲۰۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۱ از ۵
+۳۸,bolursazi,۱۳۹۶,۱,۱٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۱ از ۵
+۴۸,bolursazi,۱۳۷۶,۱,۱٬۸۵۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۲ از ۳
+۴۵,bolursazi,۱۳۸۹,۱,۲٬۳۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۲ از ۳
+۸۷,bolursazi,۱۴۰۳,۲,۵۰٬۰۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۷
+۸۶,bolursazi,۱۳۸۷,۲,۳٬۹۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۲ از ۴
+۳۹,bolursazi,۱۳۹۷,۱,۲٬۲۰۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۱ از ۵
+۱۳۴,tehran-police,۱۴۰۱,۳,۱۲٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,false,false,۱ از ۴
+۷۵,bolursazi,۱۳۹۲,۲,۴٬۰۵۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۴ از ۴
+۵۵,tehran-police,۱۳۸۰,۱,۳٬۹۵۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۱ از ۴
+۴۵,tehran-police,۱۳۷۸,۱,۲٬۶۶۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۲ از ۴
+۷۰,tehran-police,۱۴۰۳,۲,۷٬۷۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۵
+۶۶,tehran-police,۱۳۸۳,۲,۴٬۵۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵ از ۵
+۵۵,tehran-police,۱۳۸۰,۱,۳٬۸۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۴ از ۴
+۸۵,tehran-police,۱۳۸۹,۲,۹٬۱۰۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۴ از ۴
+۸۳,tehran-police,قبل از ۱۳۷۰,۲,۱۰٬۲۵۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۱ از ۳
+۱۴۲,tehran-police,۱۴۰۲,۳,۱۱٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵ از ۷
+۸۵,tehran-police,۱۳۹۰,۲,۸٬۹۰۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۴ از ۴
+۹۰,tehran-police,۱۳۸۴,۲,۷٬۱۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲
+۶۹,tehran-police,۱۳۷۸,۲,۶٬۵۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۱ از ۴
+۵۳,tehran-police,۱۳۷۸,۱,۴٬۲۰۰٬۰۰۰٬۰۰۰ تومان,false,false,false,۲ از ۴
+۷۲,tehran-police,۱۳۸۳,۳,۷٬۸۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳
+۵۹,tehran-police,۱۳۸۸,۲,۶٬۲۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵ از ۵
+۵۰,tehran-police,۱۳۸۰,۱,۳٬۱۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۱ از ۴
+۵۰,tehran-police,۱۳۸۳,۱,۴٬۳۰۰٬۰۰۰٬۰۰۰ تومان,false,false,false,همکف از ۴
+۹۵,tehran-police,۱۴۰۲,۲,۱۰٬۳۰۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۳ از ۴
+۸۵,tehran-police,۱۴۰۳,۲,۱۱٬۹۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۴
+۷۷,tehran-police,۱۳۷۸,۲,۵٬۰۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۲
+۱۱۴,tehran-police,۱۴۰۲,۲,۸٬۳۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۴
+۹۲,tehran-police,۱۴۰۲,۲,۶٬۸۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۵
+۹۸,tehran-police,۱۴۰۲,۲,۷٬۹۰۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۳
+۵۱,shabiri,۱۳۸۹,۱,۲٬۸۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳
+۴۶,shabiri,۱۳۹۶,۱,۲٬۶۰۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۳ از ۴
+۴۸,shabiri,۱۳۸۲,۱,۲٬۳۵۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۲ از ۴
+۶۰,shabiri,۱۳۸۵,۱,۲٬۳۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۱ از ۴
+۶۴,shabiri,۱۴۰۱,۱,۱٬۱۱۱٬۱۱۱٬۱۱۱ تومان,true,false,true,۳ از ۵
+۷۵,shabiri,۱۳۸۹,۲,۳٬۷۵۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۴
+۷۲,tehran-police,۱۳۹۲,۲,۷٬۳۵۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۳ از ۵
+۴۶,shabiri,۱۴۰۰,۱,۳٬۰۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۴
+۵۲,shabiri,۱۳۹۷,۱,۳٬۱۵۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۳ از ۴
+۵۲,shabiri,۱۳۸۳,۱,۲٬۵۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۱ از ۴
+۴۰,shabiri,۱۳۸۸,۱,۲٬۲۵۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۱ از ۴
+۶۲,shabiri,۱۳۸۱,۱,۳٬۳۰۰٬۰۰۰ تومان,false,false,true,۲ از ۴
+۶۴,shabiri,۱۳۸۴,۱,۳٬۲۵۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۱
+۵۴,shabiri,۱۳۹۰,۱,۳٬۲۰۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۱
+۶۴,shabiri,۱۳۸۴,۲,۳٬۱۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۴
+۶۷,shabiri,۱۴۰۱,۲,۳٬۷۶۰٬۰۰۰٬۰۰۰ تومان,true,false,false,۴
+۷۴,shabiri,۱۳۸۵,۲,۳٬۷۵۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۴ از ۴
+۵۹,shabiri,۱۳۹۵,۱,۳٬۸۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳
+۵۱,dolat-abad,۱۳۹۷,۱,۳٬۱۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳
+۶۲,shabiri,۱۳۹۵,۱,۴٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴
+۴۸,dolat-abad,۱۳۸۵,۱,۲٬۳۷۰٬۰۰۰٬۰۰۰ تومان,false,true,false,۲ از ۳
+۱۱۰,dolat-abad,۱۴۰۲,۲,۴۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲
+۵۱,shabiri,۱۳۸۸,۱,۲٬۶۵۰٬۰۰۰٬۰۰۰ تومان,false,true,true,همکف از ۴
+۱۰۷,dolat-abad,۱۳۹۸,۲,۹٬۳۰۹٬۰۰۰٬۰۰۰ تومان,true,true,true,۶ از ۱۲
+۱۸۶,dolat-abad,۱۳۹۹,۳,۱۱٬۱۶۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۶ از ۱۰
+۸۶,dolat-abad,قبل از ۱۳۷۰,۲,۳٬۷۵۰٬۰۰۰٬۰۰۰ تومان,false,false,false,۴
+۷۰,dolat-abad,۱۴۰۳,۲,۴٬۲۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱
+۲۴۲,dolat-abad,۱۳۹۷,۳,۱۸٬۳۹۲٬۰۰۰٬۰۰۰ تومان,true,true,true,۱۰
+۷۵,dolat-abad,۱۳۸۷,۱,۴٬۴۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,همکف از ۴
+۵۰,dolat-abad,۱۳۸۴,۱,۲٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,false,false,۹
+۶۳,dolat-abad,۱۳۸۵,۲,۲٬۲۱۰٬۰۰۰٬۰۰۰ تومان,true,false,false,۸
+۵۰,dolat-abad,۱۳۸۶,۱,۲٬۱۲۰٬۰۰۰٬۰۰۰ تومان,true,true,true,همکف
+۱۰۵,dolat-abad,۱۴۰۱,۲,۵٬۸۰۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۵ از ۵
+۵۰,dolat-abad,۱۳۸۰,۱,۱٬۸۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۶
+۱۰۳,dolat-abad,۱۳۹۹,۲,۵٬۴۵۹٬۰۰۰٬۰۰۰ تومان,true,true,true,۵ از ۵
+۱۳۱,dolat-abad,۱۴۰۳,۳,۸٬۵۱۵٬۰۰۰٬۰۰۰ تومان,true,true,false,۴ از ۵
+۴۱,dolat-abad,۱۳۸۶,۱,۲٬۱۲۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۲ از ۳
+۱۰۷,dolat-abad,۱۴۰۲,۲,۵٬۱۹۹٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۶
+۹۹,dolat-abad,۱۳۸۳,۲,۵٬۰۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۳
+۷۳,javadiyeh-tehran-pars,۱۳۹۹,۱,۳٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۵
+۸۷,javadiyeh-tehran-pars,۱۴۰۳,۲,۲٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱۰
+۵۳,javadiyeh-tehran-pars,۱۳۸۸,۱,۳٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۵
+۸۴,dolat-abad,۱۳۹۳,۲,۵٬۱۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۵
+۹۸,javadiyeh-tehran-pars,۱۳۹۵,۲,۸٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۶ از ۶
+۶۸,javadiyeh-tehran-pars,۱۳۹۵,۲,۴٬۱۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۵
+۵۵,javadiyeh-tehran-pars,۱۳۸۶,۱,۲٬۸۸۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۴ از ۳
+۶۰,javadiyeh-tehran-pars,۱۳۹۵,۱,۲٬۱۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,همکف از ۴
+۴۴,javadiyeh-tehran-pars,۱۴۰۱,۱,۵٬۲۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵ از ۶
+۸۷,javadiyeh-tehran-pars,۱۳۹۴,۲,۵٬۱۵۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۲
+۸۵,javadiyeh-tehran-pars,۱۳۹۵,۲,۶٬۴۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۵
+۵۹,javadiyeh-tehran-pars,۱۳۸۴,۱,۴٬۰۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۱
+۷۰,javadiyeh-tehran-pars,۱۳۹۰,۱,۴٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۵
+۱۰۰,javadiyeh-tehran-pars,۱۴۰۳,۲,۶٬۷۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۴
+۵۷,javadiyeh-tehran-pars,۱۳۹۶,۱,۳٬۳۰۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۳
+۵۰,javadiyeh-tehran-pars,۱۳۹۳,۱,۳٬۸۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۵
+۲۲۲,jordan,۱۳۸۳,۴,۲۷٬۹۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵ از ۹
+۷۱,javadiyeh-tehran-pars,۱۳۹۲,۲,۵٬۶۷۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۵
+۲۱۱,jordan,۱۴۰۳,۳,۵۱٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۵
+۱۰۰,jordan,۱۴۰۱,۲,۱۷٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۶
+۱۹۷,jordan,۱۴۰۰,۳,۳۵٬۷۰۰٬۰۰۰٬۱۲۶ تومان,true,true,true,۲
+۶۱,jordan,۱۳۹۶,۱,۱۱٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳
+۱۳۰,jordan,۱۳۸۵,۳,۱۹٬۳۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۶
+۱۶۰,jordan,۱۴۰۱,۳,۲۵٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲
+۸۷,jordan,۱۴۰۳,۲,۲٬۴۸۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۸ از ۱۴
+۱۰۰,jordan,۱۴۰۰,۲,۱۷٬۹۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۵
+۱۱۲,jordan,۱۳۷۷,۲,۱۳٬۹۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۱ از ۴
+۱۹۷,jordan,۱۴۰۰,۳,۴۹٬۲۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۵
+۲۵۰,jordan,۱۴۰۲,۳,۶۰٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵ از ۵
+۱۸۵,jordan,۱۳۸۴,۳,۲۲٬۷۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۵
+۲۱۰,jordan,۱۴۰۳,۳,۵۲٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳
+۲۲۰,jordan,۱۴۰۲,۳,۴۹٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۶
+۶۰,jordan,۱۳۸۸,۱,۹٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۵
+۹۰,jordan,۱۳۸۴,۲,۱۳٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲
+۱۲۵,jordan,۱۳۸۰,۳,۱۹٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۶
+۱۵۰,jordan,۱۳۸۷,۳,۲۳٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱
+۱۰۰,jordan,۱۳۸۵,۲,۱۴٬۹۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵
+۳۱۱,jordan,۱۳۷۷,۳,۲۹٬۷۰۰٬۰۰۰٬۰۲۶ تومان,true,true,true,۳
+۱۰۲,jomhouri,۱۴۰۲,۲,۹٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۴
+۲۵۸,jordan,۱۳۸۵,۳,۳۱٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳
+۱۳۲,jordan,۱۴۰۰,۳,۲۰٬۸۹۹٬۹۹۹٬۹۹۹ تومان,true,true,true,۳ از ۵
+۳۴,jomhouri,۱۳۸۰,۱,۲٬۹۰۰٬۰۰۰٬۰۰۰ تومان,false,false,false,همکف از ۳
+۶۲,jomhouri,۱۳۹۳,۱,۵٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۴
+۶۴,jomhouri,۱۳۹۴,۱,۵٬۰۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۴
+۷۵,jomhouri,۱۳۹۴,۲,۶٬۳۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۴
+۱۰۴,jomhouri,۱۴۰۲,۲,۹٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱
+۳۹,jomhouri,۱۳۸۳,۱,۲٬۵۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۳ از ۴
+۱۰۵,jomhouri,۱۴۰۳,۲,۹٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱
+۱۳۸,jomhouri,۱۴۰۳,۳,۱۳٬۴۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۵
+۴۸,jomhouri,۱۴۰۰,۱,۲٬۴۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱
+۵۳,jomhouri,۱۳۷۸,۱,۲٬۹۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۴ از ۴
+۶۱,jomhouri,۱۳۹۴,۱,۴٬۹۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۴
+۸۱,jomhouri,۱۴۰۰,۲,۷٬۶۰۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۳
+۱۰۸,jomhouri,۱۴۰۳,۲,۸٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱
+۴۵,jomhouri,۱۳۸۴,۱,۳٬۳۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,همکف از ۴
+۶۷,shahin,۱۳۹۶,۱,۸٬۴۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴
+۷۸,jomhouri,۱۳۸۳,۲,۵٬۳۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳
+۱۳۰,shahin,۱۴۰۲,۳,۱۶٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۵
+۷۶,shahin,۱۳۹۴,۲,۹٬۴۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۵
+۷۰,shahin,۱۳۹۰,۲,۷٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۵
+۱۱۵,shahin,۱۳۸۷,۲,۱۱٬۹۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۴
+۱۲۰,shahin,۱۳۸۴,۳,۱۰٬۹۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,همکف
+۱۲۵,shahin,۱۴۰۳,۲,۱۶٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۶
+۱۵۵,shahin,۱۴۰۳,۳,۱۹٬۹۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۵
+۱۱۵,shahin,۱۴۰۳,۲,۱۴٬۳۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۶
+۱۱۰,shahin,۱۳۹۵,۲,۱۲٬۲۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲
+۷۸,shahin,۱۳۹۱,۲,۹٬۴۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۵
+۷۸,shahin,۱۳۸۲,۲,۷٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱
+۱۱۲,shahin,۱۳۸۸,۲,۱۰٬۷۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵
+۸۰,shahin,۱۳۹۵,۲,۹٬۸۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۵
+۱۱۳,shahin,۱۳۹۳,۲,۱۳٬۲۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱
+۵۰,shahin,۱۳۸۰,۱,۵٬۶۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۴
+۱۸۰,hekmat,۱۳۹۹,۳,۳۵٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۹
+۱۲۹,hekmat,۱۴۰۲,۲,۲۵٬۸۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳
+۱۲۴,shahin,۱۴۰۳,۲,۱۶٬۱۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۵
+۸۳,shahin,۱۳۸۶,۲,۷٬۰۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,همکف از ۴
+۹۰,hekmat,۱۳۹۴,۲,۱۷٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۵
+۲۰۰,hekmat,۱۴۰۳,۳,۴۰٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۶ از ۵
+۷۳,hekmat,۱۴۰۱,۱,۱۶٬۱۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۵
+۷۵,hekmat,۱۴۰۱,۲,۱۲٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳
+۱۵۰,hekmat,۱۳۹۴,۳,۲۷٬۳۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۵
+۱۲۸,hekmat,۱۴۰۳,۲,۲۶٬۸۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵ از ۶
+۱۳۶,hekmat,۱۴۰۳,۳,۳۱٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵ از ۵
+۹۰,hekmat,۱۳۹۵,۲,۱۴٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۵
+۱۶۲,hekmat,۱۴۰۱,۳,۳۲٬۴۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱
+۹۹,hekmat,۱۳۷۳,۲,۱۳٬۰۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۱ از ۴
+۱۱۰,hekmat,۱۳۸۴,۲,۱۳٬۹۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۵
+۱۸۵,hekmat,۱۳۸۷,۳,۲۷٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۶ از ۸
+۲۴۰,hekmat,۱۴۰۳,۳,۵۶٬۴۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳
+۸۵,hekmat,۱۳۸۸,۲,۱۲٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۵
+۲۰۲,hekmat,۱۳۸۰,۳,۴۰٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۹
+۱۰۷,hekmat,۱۴۰۲,۲,۱۷٬۸۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳
+۹۶,taslihat,۱۳۹۳,۲,۸٬۷۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۵
+۳۸,taslihat,۱۳۸۱,۱,۲٬۵۵۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۳ از ۳
+۵۱,taslihat,۱۳۹۲,۱,۳٬۴۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵ از ۵
+۴۸,taslihat,۱۳۹۴,۱,۳٬۰۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۱ از ۴
+۴۳,taslihat,۱۳۹۱,۱,۲٬۹۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۴ از ۴
+۶۴,taslihat,۱۳۸۴,۱,۴٬۱۶۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۳ از ۴
+۱۳۰,hekmat,۱۴۰۲,۲,۲۰٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۶
+۵۶,taslihat,۱۳۹۲,۱,۳٬۵۵۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۳ از ۴
+۷۸,taslihat,۱۳۹۴,۲,۵٬۶۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۳
+۸۱,taslihat,۱۳۹۵,۲,۵٬۶۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۵
+۷۶,taslihat,۱۳۸۹,۲,۴٬۴۹۸٬۰۰۰٬۰۰۰ تومان,false,true,true,۴ از ۴
+۵۰,taslihat,۱۳۸۴,۱,۳٬۵۵۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۳
+۴۴,taslihat,۱۳۹۶,۱,۲٬۹۵۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۱ از ۴
+۵۲,taslihat,۱۳۹۰,۱,۳٬۲۹۹٬۹۹۹٬۰۰۰ تومان,false,true,true,۴ از ۴
+۹۸,taslihat,۱۴۰۳,۲,۶٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۶ از ۶
+۶۳,taslihat,۱۳۹۷,۱,۴٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۲
+۶۱,taslihat,۱۳۹۳,۲,۴٬۱۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۴ از ۴
+۵۳,taslihat,۱۴۰۲,۱,۴٬۸۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۴
+۶۷,taslihat,۱۳۷۹,۲,۲٬۹۵۰٬۰۰۰٬۰۰۰ تومان,false,false,true,همکف
+۷۰,nemat-abad,۱۳۹۴,۱,۲٬۸۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵
+۵۵,taslihat,۱۳۹۴,۱,۴٬۲۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳
+۷۵,nemat-abad,۱۳۹۳,۱,۳٬۴۰۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۱ از ۵
+۴۹,taslihat,۱۳۹۳,۱,۴٬۷۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۵
+۵۴,taslihat,۱۴۰۰,۱,۴٬۲۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱
+۶۰,nemat-abad,۱۳۹۴,۱,۲٬۲۰۰٬۰۰۰٬۰۰۰ تومان,true,false,false,۴
+۸۰,nemat-abad,۱۴۰۲,۲,۲٬۴۷۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۲ از ۷
+۸۷,nemat-abad,۱۴۰۱,۲,۱۱۱٬۱۱۱ تومان,true,true,true,۵
+۵۲,nemat-abad,۱۴۰۳,۱,۱٬۳۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۳
+۹۲,nemat-abad,۱۴۰۳,۲,۳٬۱۰۰٬۰۰۰٬۰۰۰ تومان,true,false,false,۴ از ۸
+۶۴,nemat-abad,۱۳۹۷,۲,۳٬۵۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۲ از ۴
+۱۰۰,nemat-abad,۱۴۰۱,۲,۲٬۰۰۰٬۰۰۰٬۰۰۰ تومان,false,false,false,۲ از ۲
+۷۰,nemat-abad,۱۳۷۴,۱,۲٬۱۰۰٬۰۰۰٬۰۰۰ تومان,false,false,false,۱
+۶۰,nemat-abad,۱۳۹۳,۱,۲٬۱۰۰٬۰۰۰٬۰۰۰ تومان,false,false,false,۲ از ۵
+۱۱۶,nemat-abad,۱۳۹۳,۲,۲٬۶۶۸٬۰۰۰٬۰۰۰ تومان,false,false,false,۳ از ۴
+۸۰,nemat-abad,۱۳۹۵,۱,۱٬۴۵۰٬۰۰۰٬۰۰۰ تومان,false,false,false,۱ از ۴
+۱۳۰,nemat-abad,۱۴۰۳,۲,۴٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵
+۱۰۸,nemat-abad,۱۴۰۳,۲,۴٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵ از ۲۶
+۱۰۴,nemat-abad,۱۴۰۳,۲,۳٬۱۲۰٬۰۰۰٬۰۰۰ تومان,true,false,false,۵ از ۷
+۸۲,nemat-abad,۱۳۹۴,۲,۳٬۱۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۵
+۸۰,nemat-abad,۱۳۹۷,۲,۱٬۷۰۰٬۰۰۰٬۰۰۰ تومان,false,false,false,۲ از ۳
+۱۸۵,moniriyeh,۱۳۹۹,۳,۲۳٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۶
+۸۰,moniriyeh,۱۳۸۸,۲,۵٬۳۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۵
+۴۷,moniriyeh,۱۳۹۰,۱,۳٬۱۵۰٬۰۰۰٬۰۰۰ تومان,true,false,false,۱ از ۴
+۹۰,hekmat,۱۳۹۰,۲,۱۳٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۵
+۹۹,moniriyeh,۱۳۹۸,۲,۸٬۸۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳
+۶۰,moniriyeh,۱۳۸۴,۱,۴٬۷۵۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۲ از ۴
+۶۳,moniriyeh,۱۳۹۰,۲,۵٬۵۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۳ از ۴
+۹۵,moniriyeh,۱۴۰۲,۲,۹٬۳۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۵
+۸۸,moniriyeh,۱۳۹۲,۲,۷٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳
+۱۵۰,moniriyeh,۱۳۸۵,۳,۱۴٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳
+۵۰,moniriyeh,۱۳۹۰,۱,۳٬۶۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۱
+۶۳,moniriyeh,۱۳۸۰,۲,۳٬۲۳۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۲
+۸۰,moniriyeh,۱۴۰۱,۲,۶٬۹۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۴
+۹۰,moniriyeh,۱۳۹۱,۲,۹٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۵
+۴۷,moniriyeh,۱۳۹۵,۱,۴٬۲۳۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۵
+۱۶۵,moniriyeh,۱۴۰۱,۳,۱۴٬۶۹۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۵
+۷۶,moniriyeh,۱۳۸۷,۲,۵٬۳۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۵
+۸۲,moniriyeh,۱۴۰۳,۲,۷٬۸۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۵
+۷۱,moniriyeh,۱۳۸۳,۲,۴٬۵۵۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۳ از ۴
+۹۶,kan,۱۳۸۸,۲,۷٬۰۰۰٬۰۰۰٬۰۰۰ تومان,false,false,false,۳ از ۳
+۵۵,kan,۱۳۸۴,۱,۵٬۴۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۱ از ۴
+۱۱۰,kan,۱۴۰۲,۲,۵٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۸
+۹۲,moniriyeh,۱۴۰۱,۲,۹٬۱۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۶
+۱۰۷,kan,۱۴۰۳,۲,۱۳٬۹۱۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۷
+۶۷,kan,۱۳۸۴,۲,۴٬۷۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۳ از ۴
+۹۲,kan,۱۳۹۶,۲,۷٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۴
+۶۳,kan,۱۴۰۳,۱,۸٬۱۹۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۷
+۵۵,kan,۱۳۷۵,۱,۲٬۲۰۰٬۰۰۰٬۰۰۰ تومان,false,false,false,همکف از ۳
+۶۷,kan,۱۴۰۳,۱,۸٬۷۱۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۷
+۸۳,kan,۱۳۸۳,۲,۴٬۴۰۰٬۰۰۰٬۰۰۰ تومان,false,false,false,۱
+۵۵,kan,۱۳۸۸,۱,۵٬۹۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱
+۹۵,kan,۱۳۹۸,۲,۹٬۲۰۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۲ از ۸
+۱۰۰,kan,۱۴۰۰,۲,۶٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۲
+۱۱۱,kan,۱۳۹۶,۲,۷٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۳
+۱۰۷,kan,۱۴۰۳,۲,۱۳٬۹۱۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۷
+۱۲۷,kan,۱۴۰۳,۲,۱۶٬۵۱۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۷
+۶۸,saheb-al-zaman,۱۳۹۲,۲,۴٬۰۸۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۵
+۸۵,saheb-al-zaman,۱۴۰۲,۲,۷٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۲ از ۵
+۴۵,kan,۱۳۹۲,۱,۵٬۳۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۳ از ۳
+۳۸,saheb-al-zaman,۱۳۸۳,۱,۲٬۸۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۱ از ۴
+۷۸,saheb-al-zaman,۱۳۷۱,۱,۵٬۳۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۱ از ۲
+۶۴,saheb-al-zaman,۱۳۹۳,۱,۴٬۲۰۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۵ از ۵
+۶۸,saheb-al-zaman,۱۳۸۴,۱,۴٬۱۰۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۳ از ۵
+۴۷,saheb-al-zaman,۱۳۹۵,۱,۲٬۶۸۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۲ از ۴
+۹۴,saheb-al-zaman,۱۳۹۸,۲,۶٬۳۰۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۴ از ۵
+۵۴,saheb-al-zaman,۱۳۹۰,۱,۳٬۰۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۲ از ۴
+۱۰۰,saheb-al-zaman,۱۳۸۶,۲,۶٬۰۰۰٬۰۰۰٬۰۰۰ تومان,false,true,false,همکف از ۴
+۸۷,saheb-al-zaman,۱۴۰۳,۲,۲٬۲۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱۳
+۴۱,saheb-al-zaman,۱۳۸۲,۱,۲٬۱۸۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۴
+۵۳,saheb-al-zaman,۱۳۸۲,۲,۲٬۷۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۳ از ۴
+۶۵,saheb-al-zaman,۱۳۹۲,۱,۳٬۶۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵ از ۱۱
+۴۵,saheb-al-zaman,۱۳۸۳,۱,۲٬۶۱۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۳ از ۴
+۵۵,saheb-al-zaman,۱۳۸۰,۱,۳٬۱۹۰٬۰۰۰٬۰۰۰ تومان,false,false,false,۴ از ۴
+۶۹,saheb-al-zaman,۱۳۸۵,۱,۳٬۵۸۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۵
+۶۰,saheb-al-zaman,قبل از ۱۳۷۰,۲,۸٬۵۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۳
+۱۰۳,saheb-al-zaman,۱۳۹۵,۲,۷٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۵
+۱۷۰,dezashib,۱۳۸۸,۳,۲۷٬۳۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۷
+۱۵۰,dezashib,۱۴۰۳,۲,۶۰٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۶
+۵۰,saheb-al-zaman,۱۳۸۳,۱,۲٬۷۵۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۲ از ۴
+۱۲۹,saheb-al-zaman,۱۴۰۳,۳,۹٬۹۷۵٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۵
+۶۴,saheb-al-zaman,۱۳۹۲,۱,۳٬۹۰۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۴ از ۴
+۱۷۰,dezashib,۱۴۰۰,۳,۳۴٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۱۰
+۱۷۰,dezashib,۱۳۸۰,۳,۴۸٬۰۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۳
+۳۱,dezashib,۱۳۸۰,۱,۵٬۹۵۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۳ از ۳
+۱۹۰,dezashib,۱۳۸۶,۳,۴۰٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳
+۱۱۵,dezashib,۱۴۰۱,۲,۲۹٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۵
+۵۰,saheb-al-zaman,۱۳۹۴,۱,۲٬۹۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۴ از ۴
+۶۶,dezashib,۱۳۸۵,۱,۸٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۴
+۱۱۰,dezashib,۱۴۰۲,۲,۱۷٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱
+۲۲۰,dezashib,۱۳۹۷,۳,۵۴٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۹
+۷۵,dezashib,۱۳۹۵,۱,۱۲٬۷۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۵
+۸۴,dezashib,۱۳۹۱,۲,۱۱٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴
+۲۵۰,dezashib,۱۳۸۳,۴,۴۵٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۷ از ۷
+۱۱۰,dezashib,۱۴۰۲,۲,۳۱٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵ از ۱۰
+۱۵۷,dezashib,۱۳۹۵,۳,۲۸٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۵
+۹۰,araj,۱۳۸۷,۲,۱۲٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۵
+۲۲۰,dezashib,۱۴۰۳,۳,۶۹٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۱۰
+۱۱۵,dezashib,۱۳۹۸,۲,۲۱٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵
+۱۵۳,dezashib,۱۳۸۸,۳,۳۰٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۵
+۱۰۴,araj,۱۳۹۷,۲,۱۸٬۲۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲
+۱۴۳,araj,۱۴۰۲,۳,۲۸٬۶۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۵
+۱۹۱,araj,۱۴۰۱,۳,۳۰٬۵۶۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۵
+۵۴,araj,۱۳۸۹,۱,۷٬۲۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۲
+۸۰,araj,۱۳۹۴,۲,۱۳٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۵
+۹۵,araj,۱۳۹۶,۲,۱۴٬۷۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۵
+۱۱۰,araj,۱۳۷۵,۲,۱۲٬۰۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۱ از ۳
+۸۲,araj,۱۳۹۷,۲,۱۲٬۴۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۵
+۹۴,araj,۱۳۹۲,۲,۱۲٬۸۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۵
+۱۴۴,araj,۱۳۸۶,۳,۱۹٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳
+۲۲۵,araj,۱۳۸۶,۴,۲۵٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵ از ۵
+۸۲,araj,۱۳۹۵,۲,۱۲٬۴۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۵
+۱۶۴,araj,۱۳۸۵,۴,۱۸٬۰۰۰٬۰۰۰٬۰۰۰ تومان,false,true,false,۴ از ۶
+۱۲۳,araj,۱۴۰۲,۲,۲۴٬۶۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۷
+۱۰۵,araj,۱۳۹۳,۲,۱۴٬۸۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۵
+۱۰۰,araj,۱۳۹۴,۲,۱۴٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۶
+۶۰,araj,۱۴۰۰,۱,۸٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۴
+۱۲۳,araj,۱۴۰۲,۲,۲۱٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۷
+۱۲۸,araj,۱۳۸۲,۲,۱۶٬۹۵۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۲ از ۲
+۱۶۵,araj,۱۳۸۳,۳,۱۹٬۵۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۱
+۹۵,araj,۱۳۸۸,۲,۱۲٬۹۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱
+۱۵۰,araj,۱۳۹۸,۳,۲۶٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۴
+۱۱۰,hashem-abad,۱۴۰۳,۲,۴۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳
+۷۳,hashem-abad,۱۴۰۲,۲,۳٬۹۵۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۱ از ۵
+۷۳,hashem-abad,۱۳۹۶,۱,۲٬۷۰۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۳
+۵۲,hashem-abad,۱۳۸۵,۱,۲٬۱۵۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۴
+۲۱۰,araj,۱۴۰۳,۳,۳۰٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۶
+۶۰,hashem-abad,۱۳۸۸,۱,۲٬۴۸۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۲ از ۵
+۴۲,hashem-abad,۱۳۸۵,۱,۱٬۹۳۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۴
+۵۴,hashem-abad,۱۳۸۲,۱,۲٬۳۵۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۱ از ۴
+۷۳,hashem-abad,۱۳۸۵,۲,۲٬۸۵۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۲ از ۴
+۶۰,hashem-abad,۱۴۰۳,۱,۳٬۳۸۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۵ از ۵
+۴۹,hashem-abad,۱۳۹۵,۱,۲٬۶۲۵٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۴
+۴۸,hashem-abad,۱۳۹۴,۱,۲٬۲۳۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۴
+۴۴,hashem-abad,۱۳۸۴,۱,۲٬۰۵۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۲
+۴۲,hashem-abad,۱۳۸۵,۱,۱٬۹۵۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۲ از ۴
+۴۶,hashem-abad,۱۳۸۴,۱,۲٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲
+۶۹,hashem-abad,۱۴۰۲,۲,۳٬۹۳۳٬۰۰۰٬۰۰۰ تومان,true,true,false,۲ از ۴
+۶۵,hashem-abad,۱۳۸۹,۲,۲٬۹۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۴ از ۴
+۶۶,hashem-abad,۱۳۸۵,۲,۲٬۶۵۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۲ از ۴
+۴۷,hashem-abad,۱۳۸۴,۱,۱٬۸۸۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۳
+۴۴,hashem-abad,۱۳۸۹,۱,۱٬۹۵۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۳ از ۳
+۴۶,hashem-abad,۱۳۹۲,۱,۱٬۷۸۰٬۰۰۰٬۰۰۰ تومان,false,false,true,همکف از ۳
+۵۹,hashem-abad,۱۳۸۶,۲,۲٬۳۹۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۲ از ۴
+۴۴,hashem-abad,۱۳۹۵,۱,۲٬۶۱۵٬۰۰۰٬۰۰۰ تومان,true,false,false,۱ از ۵
+۵۹,hashem-abad,۱۳۸۵,۲,۲٬۴۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۳ از ۴
+۵۰,ahang,۱۳۸۵,۱,۳٬۳۲۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۲ از ۴
+۱۵۶,ahang,۱۳۹۹,۲,۵٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵ از ۷
+۱۴۸,ahang,۱۳۷۵,۳,۱۴٬۸۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۲ از ۴
+۵۲,ahang,۱۳۸۰,۱,۳٬۰۰۰٬۰۰۰٬۰۰۰ تومان,false,false,false,۲ از ۴
+۷۳,hashem-abad,۱۳۸۰,۲,۴٬۴۵۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۳
+۷۰,ahang,۱۴۰۱,۲,۴٬۷۰۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۱ از ۴
+۱۰۲,ahang,۱۴۰۳,۲,۹٬۴۰۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۴
+۸۹,ahang,۱۴۰۳,۲,۲٬۱۴۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۷
+۴۸,ahang,۱۳۹۲,۱,۲٬۶۳۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۳
+۵۰,ahang,۱۳۹۴,۱,۲٬۹۵۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۴ از ۴
+۴۵,ahang,۱۳۸۲,۱,۲٬۳۳۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۴ از ۴
+۲۳۵,ahang,۱۴۰۲,۳,۳۳٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱
+۱۰۰,ahang,۱۳۹۴,۲,۸٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۱ از ۵
+۶۴,ahang,۱۳۷۷,۱,۳٬۱۰۰٬۰۰۰٬۰۰۰ تومان,false,false,false,۳ از ۴
+۹۰,ahang,۱۴۰۳,۲,۸٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۵
+۱۰۳,ahang,۱۴۰۳,۲,۸٬۲۵۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۵
+۸۰,ahang,۱۴۰۲,۲,۶٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲
+۱۱۲,ahang,۱۴۰۳,۲,۹٬۹۹۵٬۰۰۰٬۰۰۰ تومان,true,true,false,۴
+۱۰۷,ahang,۱۳۹۰,۲,۱۰٬۳۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۴
+۱۰۴,behdasht,۱۳۹۴,۲,۷٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵ از ۵
+۹۷,behdasht,۱۴۰۱,۲,۷٬۷۶۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۵
+۶۰,behdasht,۱۳۹۳,۱,۴٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۱ از ۴
+۷۳,behdasht,۱۳۸۳,۲,۴٬۱۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۲ از ۴
+۱۱۹,behdasht,۱۳۹۶,۲,۷٬۷۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲
+۸۴,behdasht,۱۴۰۳,۲,۶٬۳۸۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴
+۵۲,behdasht,۱۳۸۷,۱,۲٬۵۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۳ از ۴
+۶۷,behdasht,۱۳۸۴,۲,۳٬۲۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۳ از ۴
+۶۰,behdasht,۱۳۸۲,۱,۲٬۴۹۰٬۰۰۰٬۰۰۰ تومان,false,false,false,۳ از ۴
+۶۷,behdasht,۱۴۰۳,۲,۴٬۴۰۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۲ از ۴
+۱۳۵,behdasht,۱۳۹۹,۳,۱۰٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲
+۴۰,behdasht,۱۳۸۵,۱,۲٬۶۰۰٬۰۰۰٬۰۰۰ تومان,true,false,false,۳ از ۵
+۴۱,behdasht,۱۳۸۳,۱,۲٬۰۶۰٬۰۰۰٬۰۰۰ تومان,false,false,false,۳ از ۴
+۷۸,behdasht,۱۳۹۲,۲,۵٬۲۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۵
+۷۰,behdasht,۱۳۹۰,۲,۳٬۳۰۰٬۰۰۰٬۰۰۰ تومان,false,false,false,۳
+۷۵,vardavard,۱۴۰۳,۲,۸۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲۸ از ۳۰
+۱۲۱,vardavard,۱۴۰۲,۲,۴٬۴۸۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۹ از ۱۸
+۸۵,vardavard,۱۳۹۰,۲,۲٬۴۰۰٬۰۰۰٬۰۰۰ تومان,true,false,false,۱
+۱۱۰,vardavard,۱۴۰۳,۲,۲٬۷۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۷ از ۱۱
+۹۲,vardavard,۱۴۰۳,۲,۴٬۶۰۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۵ از ۵
+۸۳,vardavard,۱۴۰۳,۲,۵٬۳۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱
+۹۴,vardavard,۱۴۰۱,۲,۵٬۸۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۴
+۶۵,vardavard,۱۳۹۴,۲,۳٬۹۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳
+۱۰۰,vardavard,۱۴۰۳,۲,۲٬۳۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱۶ از ۱۶
+۱۱۱,vardavard,۱۴۰۳,۲,۵٬۳۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳
+۷۰,vardavard,۱۴۰۳,۱,۴٬۶۸۹٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۶
+۷۵,vardavard,۱۴۰۳,۲,۴٬۹۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۴
+۹۰,vardavard,۱۴۰۲,۲,۲٬۳۴۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۸ از ۱۱
+۷۷,vardavard,۱۳۹۹,۲,۴٬۳۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۵
+۶۷,vardavard,۱۴۰۲,۱,۳٬۳۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۸ از ۱۱
+۱۲۳,vardavard,۱۴۰۲,۲,۷٬۹۹۵٬۰۰۰٬۰۰۰ تومان,true,true,true,۳
+۷۷,vardavard,۱۴۰۱,۲,۴٬۸۸۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۶
+۸۰,vardavard,۱۳۹۴,۲,۴٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۵
+۷۷,vardavard,۱۳۹۴,۲,۳٬۷۷۳٬۰۰۰٬۰۰۰ تومان,false,true,true,۳ از ۳
+۹۳,vardavard,۱۳۸۴,۲,۲٬۶۰۰٬۰۰۰٬۰۰۰ تومان,false,false,false,۱
+۱۱۷,behdasht,۱۳۹۷,۲,۸٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۱
+۱۳۵,qezel-qaleh,۱۴۰۳,۳,۲۱٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵ از ۵
+۱۲۶,qezel-qaleh,۱۳۹۷,۲,۱۲٬۱۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۳ از ۴
+۱۰۲,qezel-qaleh,۱۳۹۱,۲,۱۴٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۵
+۱۴۷,qezel-qaleh,۱۴۰۲,۳,۲۱٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۴ از ۵
+۱۴۱,qezel-qaleh,۱۳۸۰,۲,۱۴٬۴۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳
+۱۴۵,qezel-qaleh,۱۳۹۲,۳,۱۹٬۹۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱
+۸۵,qezel-qaleh,۱۳۷۵,۲,۹٬۰۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۳
+۱۳۵,qezel-qaleh,۱۴۰۳,۳,۲۱٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۵
+۱۱۰,qezel-qaleh,۱۳۹۳,۲,۱۴٬۸۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۵
+۱۰۰,qezel-qaleh,قبل از ۱۳۷۰,۲,۱۲٬۰۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۲ از ۳
+۱۴۲,qezel-qaleh,۱۳۷۸,۳,۱۰٬۶۵۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۱ از ۳
+۵۴,qasemabad,۱۳۹۳,۱,۴٬۶۳۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۱ از ۵
+۸۰,qezel-qaleh,قبل از ۱۳۷۰,۲,۸٬۵۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۳ از ۴
+۵۸,qasemabad,۱۳۹۳,۲,۴٬۸۷۲٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۴
+۷۲,qasemabad,۱۳۸۸,۲,۴٬۳۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۳
+۴۳,qasemabad,۱۳۹۰,۱,۲٬۹۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۲ از ۴
+۹۰,qasemabad,۱۳۹۶,۲,۷٬۶۲۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۴
+۷۵,qasemabad,۱۳۸۱,۲,۴٬۶۰۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۲ از ۵
+۷۵,yakhchi-abad,۱۳۹۱,۱,۵٬۳۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۴
+۸۷,yakhchi-abad,۱۴۰۳,۲,۱٬۱۱۱٬۱۱۱٬۱۱۱ تومان,true,true,false,۴ از ۵
+۶۷,yakhchi-abad,۱۳۹۰,۲,۳٬۴۸۴٬۰۰۰٬۰۰۰ تومان,false,false,false,۴ از ۴
+۶۴,yakhchi-abad,۱۳۹۴,۱,۴٬۰۳۲٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۴
+۶۸,yakhchi-abad,۱۳۹۲,۲,۴٬۲۸۵٬۰۰۰٬۰۰۰ تومان,true,true,true,۱
+۵۵,yakhchi-abad,۱۴۰۳,۱,۳٬۱۰۰٬۰۰۰٬۰۰۰ تومان,true,false,false,۱
+۱۱۵,yakhchi-abad,۱۴۰۳,۲,۵٬۹۸۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۱ از ۶
+۸۰,yakhchi-abad,قبل از ۱۳۷۰,۲,۴٬۱۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۲ از ۴
+۶۰,zargandeh,۱۳۹۲,۲,۸٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴
+۹۰,yakhchi-abad,۱۴۰۳,۲,۵٬۷۶۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۵
+۱۱۰,zargandeh,۱۳۸۱,۲,۱۴٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵ از ۵
+۱۰۲,zargandeh,۱۳۹۹,۲,۱۳٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵ از ۵
+۱۲۰,zargandeh,۱۴۰۲,۲,۲۳٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۶
+۶۴,yakhchi-abad,۱۳۸۸,۲,۳٬۳۳۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۲ از ۴
+۱۰۸,zargandeh,قبل از ۱۳۷۰,۲,۱۳٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۱۲
+۱۷۵,zargandeh,۱۳۸۰,۳,۲۰٬۸۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۵
+۱۰۲,zargandeh,۱۳۷۶,۲,۱۲٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۴
+۸۵,zargandeh,۱۳۸۲,۲,۱۰٬۴۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۵
+۱۲۰,zargandeh,۱۳۹۵,۲,۱۵٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۵
+۹۳,zargandeh,۱۴۰۳,۲,۱۴٬۷۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۲
+۱۱۰,zargandeh,قبل از ۱۳۷۰,۲,۱۳٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۶
+۱۰۱,zargandeh,۱۴۰۰,۲,۱۲٬۸۷۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۵
+۶۵,zargandeh,۱۳۸۰,۲,۶٬۸۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۱
+۱۸۳,zargandeh,۱۳۹۱,۳,۳۳٬۸۵۵٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۵
+۱۲۰,zargandeh,۱۳۸۰,۳,۱۴٬۴۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۸
+۹۵,zargandeh,۱۳۸۰,۲,۸٬۵۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۳ از ۴
+۱۰۰,zargandeh,۱۳۹۰,۲,۱۴٬۷۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵ از ۵
+۱۱۰,zargandeh,۱۳۸۵,۲,۱۴٬۷۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵
+۸۸,zargandeh,۱۴۰۱,۲,۱۱٬۸۸۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۱ از ۵
+۶۰,zargandeh,۱۳۹۲,۱,۷٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵ از ۵
+۱۱۷,aramaneh,۱۳۹۲,۲,۷٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۴
+۵۷,aramaneh,۱۴۰۰,۲,۴٬۹۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳
+۸۱,aramaneh,۱۳۸۱,۲,۴٬۳۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۴ از ۴
+۵۵,aramaneh,۱۳۸۰,۱,۳٬۱۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۲ از ۴
+۴۶,aramaneh,۱۴۰۳,۱,۳٬۳۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۵
+۷۰,aramaneh,۱۴۰۰,۲,۵٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۵
+۶۵,aramaneh,۱۳۹۶,۲,۵٬۱۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۴
+۷۸,sabalan,۱۳۹۸,۲,۵٬۶۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵ از ۵
+۴۰,sabalan,۱۳۸۴,۱,۲٬۶۶۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۱ از ۲
+۸۰,sabalan,۱۳۹۴,۲,۵٬۷۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۴
+۷۰,sabalan,قبل از ۱۳۷۰,۱,۴٬۰۰۰٬۰۰۰٬۰۰۰ تومان,false,true,false,۱
+۳۸,sabalan,۱۳۹۲,۱,۲٬۵۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۴ از ۴
+۷۵,sabalan,۱۴۰۳,۲,۵٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۴
+۴۰,sabalan,۱۳۸۹,۱,۳٬۳۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۴
+۷۰,sabalan,۱۴۰۲,۲,۵٬۲۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱
+۸۰,darakeh,۱۴۰۳,۲,۱۱٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲
+۵۰,sabalan,۱۳۹۶,۲,۳٬۳۸۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۵ از ۵
+۴۶,sabalan,۱۳۹۵,۱,۳٬۸۳۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۴
+۹۱,darakeh,۱۴۰۱,۲,۲۱٬۵۶۷٬۰۰۰٬۰۰۰ تومان,true,true,true,۷
+۱۳۲,darakeh,۱۳۹۱,۲,۱۶٬۹۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۶ از ۶
+۲۱۵,darakeh,۱۴۰۳,۳,۷۰٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲
+۱۲۳,darakeh,۱۴۰۳,۲,۱۴٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲
+۱۴۵,darakeh,۱۳۹۳,۳,۱۷٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۵
+۱۲۷,darakeh,۱۴۰۳,۲,۲۹٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱
+۷۰,darakeh,۱۳۹۲,۲,۹٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۳
+۵۰,darakeh,۱۳۷۷,۱,۲٬۵۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۲ از ۲
+۱۲۵,shahrak-naft,۱۳۹۵,۲,۱۸٬۷۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۵
+۱۲۶,shahrak-naft,۱۳۹۱,۲,۱۸٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۴
+۱۲۰,darakeh,۱۴۰۳,۲,۲۶٬۶۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵
+۱۰۰,shahrak-naft,۱۴۰۳,۲,۱۵٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۵
+۶۲,almahdi,۱۳۹۳,۱,۷٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۴
+۶۲,almahdi,۱۳۸۴,۲,۶٬۲۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۱ از ۴
+۶۲,almahdi,۱۳۸۶,۲,۵٬۵۵۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۲ از ۴
+۶۴,almahdi,۱۳۹۰,۲,۷٬۳۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۵
+۷۰,almahdi,۱۳۸۲,۲,۵٬۶۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۳ از ۴
+۷۱,almahdi,۱۳۸۳,۲,۷٬۱۰۰٬۰۰۰٬۰۰۰ تومان,false,true,false,۱ از ۴
+۶۵,almahdi,۱۳۸۷,۱,۵٬۴۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۳ از ۴
+۶۶,almahdi,۱۳۸۵,۲,۶٬۵۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,همکف از ۴
+۶۸,almahdi,۱۳۸۴,۲,۵٬۶۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۳
+۱۰۰,almahdi,۱۳۹۲,۲,۱۰٬۹۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲
+۶۸,almahdi,۱۳۸۸,۲,۶٬۵۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,همکف
+۶۳,almahdi,۱۳۸۸,۲,۵٬۸۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۴
+۸۶,tavanir,۱۴۰۱,۲,۱۳٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۵
+۵۵,tavanir,۱۳۹۳,۱,۸٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲
+۱۳۰,tavanir,۱۳۹۸,۳,۱۸٬۲۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۵
+۸۸,almahdi,۱۳۸۰,۲,۹٬۴۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۵
+۱۵۲,tavanir,قبل از ۱۳۷۰,۲,۲۲٬۰۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,زیرهمکف از ۴
+۱۴۵,tavanir,۱۳۸۳,۳,۱۵٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵ از ۵
+۱۱۰,tavanir,۱۳۸۲,۲,۱۳٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۵
+۱۶۵,tavanir,۱۴۰۳,۳,۲۶٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳
+۱۱۲,tavanir,۱۳۸۶,۲,۱۳٬۹۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۵
+۲۰۰,tavanir,۱۳۸۶,۳,۲۲٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۶ از ۶
+۷۵,almahdi,۱۳۹۳,۲,۹٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۵
+۱۱۵,tavanir,۱۴۰۰,۲,۲۰٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۵
+۱۹۴,tavanir,۱۳۹۸,۳,۳۱٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲
+۸۸,tavanir,۱۴۰۲,۲,۱۳٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲
+۱۶۵,tavanir,قبل از ۱۳۷۰,۳,۱۵٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۴
+۱۳۲,tavanir,قبل از ۱۳۷۰,۲,۱۳٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۴
+۱۴۷,tavanir,۱۳۷۵,۳,۱۸٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۵
+۱۰۶,kuy-faraz,۱۳۸۰,۲,۱۳٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,false,false,۴
+۱۰۵,tavanir,۱۳۸۷,۲,۱۲٬۷۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴
+۱۳۵,kuy-faraz,۱۳۹۵,۳,۲۱٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳
+۶۵,kuy-faraz,۱۳۸۹,۲,۸٬۲۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳
+۱۱۵,kuy-faraz,۱۳۹۵,۳,۱۷٬۵۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۲ از ۲
+۹۰,kuy-faraz,۱۳۸۹,۲,۱۰٬۷۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵ از ۱۳
+۱۱۰,kuy-faraz,۱۳۹۷,۲,۱۹٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴
+۱۶۰,kuy-faraz,۱۳۹۰,۳,۱۸٬۴۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱۱ از ۱۲
+۱۵۵,kuy-faraz,۱۳۸۹,۳,۱۸٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۵
+۱۵۶,kuy-faraz,۱۳۹۳,۳,۲۰٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱۱ از ۱۱
+۱۵۵,kuy-faraz,۱۳۸۸,۳,۱۷٬۸۶۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۶ از ۱۱
+۷۵,kuy-faraz,۱۳۸۸,۲,۱۳٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳
+۱۵۰,kuy-faraz,۱۳۹۱,۳,۲۵٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۱۰
+۱۵۵,kuy-faraz,۱۳۹۹,۳,۲۷٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۵
+۱۱۷,kuy-faraz,۱۳۷۵,۳,۱۷٬۰۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۲
+۱۱۴,kuy-faraz,۱۳۸۰,۲,۱۳٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۳ از ۵
+۸۲,kuy-faraz,۱۳۸۸,۲,۱۰٬۱۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۷
+۴۷,karevan,۱۳۸۳,۱,۱٬۹۵۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۳ از ۴
+۴۳,karevan,۱۳۸۵,۱,۲٬۰۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۲ از ۴
+۶۱,karevan,۱۳۸۳,۱,۲٬۳۹۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۳ از ۴
+۵۰,karevan,۱۳۹۵,۱,۲٬۳۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۴
+۸۱,karevan,۱۳۹۲,۲,۳٬۴۰۰٬۰۰۰٬۰۰۰ تومان,false,false,false,۳
+۵۰,karevan,۱۳۹۸,۱,۲٬۷۰۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۲ از ۵
+۴۷,karevan,۱۳۸۵,۱,۱٬۸۶۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۱ از ۴
+۴۴,karevan,۱۳۸۰,۱,۱٬۶۷۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۲ از ۴
+۴۸,karevan,۱۳۸۰,۱,۱٬۷۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۴ از ۴
+۱۲۵,kuy-faraz,۱۳۹۶,۲,۱۵٬۶۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱۱ از ۱۳
+۷۰,karevan,۱۳۹۵,۲,۳٬۱۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۴
+۴۶,karevan,۱۳۸۰,۱,۱٬۷۴۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۴
+۱۲۰,karevan,۱۴۰۲,۲,۴٬۹۸۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲
+۵۰,karevan,۱۳۸۰,۲,۲٬۳۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,همکف از ۴
+۶۸,karevan,۱۴۰۱,۲,۳٬۳۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴
+۶۶,karevan,۱۳۹۲,۲,۳٬۳۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۲ از ۴
+۱۰۰,karevan,۱۴۰۳,۲,۴٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۴ از ۶
+۸۴,karevan,۱۳۹۱,۲,۳٬۵۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۳ از ۴
+۶۰,karevan,۱۳۹۶,۱,۳٬۲۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۲
+۶۶,karevan,۱۴۰۳,۱,۳٬۶۰۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۳ از ۴
+۱۲۳,eram,۱۳۸۰,۳,۱۰٬۴۵۵٬۰۰۰٬۰۰۰ تومان,false,true,true,۱ از ۴
+۵۸,eram,۱۳۸۲,۱,۴٬۲۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۳ از ۴
+۵۴,eram,۱۳۸۷,۱,۶٬۳۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳
+۱۴۰,abbas-abad,۱۳۹۳,۳,۱۷٬۳۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۵
+۸۳,eram,۱۳۸۷,۲,۹٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۵
+۶۷,abbas-abad,۱۳۹۱,۱,۷٬۳۷۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۱ از ۵
+۷۳,abbas-abad,۱۳۸۴,۲,۷٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۴
+۹۲,abbas-abad,۱۴۰۰,۲,۱۳٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۵
+۱۲۶,abbas-abad,۱۳۹۹,۳,۱۴٬۶۹۷٬۰۰۰٬۰۰۰ تومان,true,true,true,۵ از ۵
+۹۷,abbas-abad,۱۴۰۳,۲,۱۰٬۸۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۵
+۱۳۸,abbas-abad,قبل از ۱۳۷۰,۳,۱۳٬۸۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۴
+۱۰۲,abbas-abad,۱۳۹۷,۲,۱۲٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱
+۱۰۵,abbas-abad,قبل از ۱۳۷۰,۲,۸٬۷۰۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۱ از ۵
+۱۰۰,abbas-abad,۱۴۰۲,۲,۱۳٬۸۷۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵
+۱۳۸,abbas-abad,۱۴۰۲,۳,۱۵٬۹۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۶
+۶۳,abbas-abad,۱۳۹۳,۱,۸٬۸۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵ از ۵
+۱۱۶,niloufar,۱۳۸۰,۲,۱۰٬۵۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۴
+۷۴,abbas-abad,۱۳۸۹,۲,۸٬۱۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵ از ۵
+۱۳۰,niloufar,۱۳۹۴,۳,۲۰٬۱۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵ از ۵
+۶۹,niloufar,۱۳۹۵,۲,۱۱٬۹۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲
+۹۷,niloufar,۱۳۹۷,۲,۱۲٬۲۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۵
+۱۴۲,niloufar,۱۳۸۶,۳,۲۱٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵ از ۵
+۶۰۳,niloufar,۱۴۰۰,+۴,۱۱۰٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,false,همکف
+۱۴۲,niloufar,۱۳۸۵,۳,۲۱٬۴۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵
+۹۵,niloufar,۱۳۷۸,۲,۱۱٬۴۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۶ از ۷
+۲۶۰,niloufar,۱۳۷۱,۴,۱۶٬۰۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۴ از ۴
+۱۰۰,niloufar,۱۳۸۳,۲,۱۱٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۵
+۹۸,niloufar,۱۳۸۹,۲,۱۴٬۴۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۵
+۶۰,niloufar,۱۳۸۶,۱,۷٬۱۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۴
+۵۳,majidiyeh,۱۴۰۳,۱,۵٬۳۰۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۱ از ۴
+۷۴,majidiyeh,۱۳۹۰,۲,۶٬۶۸۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵ از ۵
+۴۰,majidiyeh,۱۳۹۵,۱,۳٬۴۵۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۲ از ۴
+۶۷,majidiyeh,۱۳۸۹,۲,۴٬۴۰۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۴ از ۴
+۱۱۸,majidiyeh,۱۳۹۷,۲,۱۲٬۷۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۶ از ۶
+۴۶,majidiyeh,۱۳۸۳,۱,۳٬۵۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۳
+۵۱,majidiyeh,۱۳۸۲,۱,۴٬۱۵۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۴
+۶۴,majidiyeh,۱۳۸۲,۲,۴٬۷۸۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۱ از ۴
+۱۰۰,sattarkhan,۱۳۹۸,۲,۱۲٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۴
+۹۵,sattarkhan,۱۴۰۲,۲,۱۱٬۴۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۵
+۱۳۰,sattarkhan,۱۳۸۶,۲,۱۱٬۶۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,همکف
+۱۱۵,sattarkhan,۱۴۰۲,۳,۱۲٬۸۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳
+۱۱۵,sattarkhan,۱۴۰۲,۳,۱۲٬۶۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۴
+۷۰,sattarkhan,۱۳۹۰,۲,۷٬۳۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۴
+۸۳,sattarkhan,۱۳۹۸,۲,۹٬۹۶۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۵
+۱۳۰,sattarkhan,۱۳۷۳,۲,۷٬۷۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۳ از ۴
+۱۱۰,sattarkhan,۱۴۰۰,۲,۱۱٬۶۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۵
+۸۴,sattarkhan,قبل از ۱۳۷۰,۲,۷٬۵۰۰٬۰۰۰٬۰۰۰ تومان,false,true,false,همکف از ۴
+۶۰,sattarkhan,۱۳۷۸,۲,۴٬۷۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۳ از ۴
+۷۰,sattarkhan,۱۳۹۸,۲,۸٬۱۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۵
+۸۲,sattarkhan,۱۳۸۱,۲,۵٬۶۰۰٬۰۰۰٬۰۰۰ تومان,false,false,false,۲
+۱۳۰,sattarkhan,۱۳۹۵,۳,۱۴٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۶
+۸۵,sattarkhan,۱۴۰۳,۲,۱۱٬۹۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۵
+۸۰,sattarkhan,۱۳۷۵,۲,۶٬۴۵۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۱ از ۴
+۹۵,sattarkhan,۱۳۹۶,۲,۱۲٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۵
+۸۰,sattarkhan,۱۴۰۲,۲,۹٬۸۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۵
+۷۲,sattarkhan,۱۳۸۲,۲,۶٬۷۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۲
+۸۹,sattarkhan,۱۳۸۸,۲,۷٬۲۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۵
+۸۰,sattarkhan,۱۳۹۰,۲,۹٬۷۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵ از ۵
+۴۵,chitgar,۱۴۰۳,۱,۵۸۵٬۰۰۰٬۰۰۰ تومان,true,true,true,۵ از ۱۵
+۱۰۵,chitgar,۱۳۹۶,۲,۸٬۱۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱۳ از ۱۹
+۱۰۰,chitgar,۱۴۰۲,۲,۱٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲۲ از ۲۲
+۱۰۰,chitgar,۱۴۰۳,۲,۷۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱۷ از ۱۶
+۸۱,chitgar,۱۴۰۳,۲,۹۸۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲
+۶۰,chitgar,۱۴۰۳,۱,۱٬۸۸۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۸ از ۱۵
+۵۵,chitgar,۱۴۰۲,۱,۳۷۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱۱ از ۲۳
+۵۱,chitgar,۱۴۰۲,۱,۷۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۷ از ۱۵
+۱۰۰,chitgar,۱۴۰۲,۲,۳٬۲۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱۱
+۱۰۰,chitgar,۱۴۰۳,۲,۱٬۶۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴
+۳۰۰,chitgar,۱۴۰۳,۴,۲٬۰۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱۸ از ۲۲
+۸۰,chitgar,۱۴۰۳,۲,۱٬۸۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱۴ از ۱۸
+۱۵۰,chitgar,۱۴۰۳,۳,۱٬۵۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱۴ از ۱۵
+۱۳۰,chitgar,۱۴۰۳,۳,۲٬۸۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۹ از ۱۰
+۶۵,chitgar,۱۴۰۳,۱,۱٬۰۴۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱۳
+۱۰۰,chitgar,۱۴۰۳,۲,۲٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲۰
+۱۰۰,chitgar,۱۴۰۳,۲,۳٬۸۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱۲ از ۲۰
+۹۰,chitgar,۱۴۰۳,۲,۱٬۳۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱۵ از ۱۹
+۹۴,doolab,۱۴۰۳,۲,۶٬۶۰۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۱ از ۵
+۱۰۰,doolab,۱۳۹۴,۳,۶٬۳۰۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۱ از ۵
+۶۷,doolab,۱۳۹۵,۲,۳٬۷۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۵
+۴۰,doolab,۱۳۹۷,۱,۲٬۲۵۰٬۰۰۰٬۰۰۰ تومان,true,false,false,۳ از ۴
+۵۰,doolab,۱۳۸۹,۱,۲٬۵۵۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۲ از ۴
+۵۸,doolab,۱۳۹۵,۱,۳٬۴۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۴
+۶۴,doolab,۱۳۸۵,۱,۴٬۰۵۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۳ از ۵
+۴۰,doolab,۱۳۹۳,۱,۲٬۲۱۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۱ از ۴
+۱۰۰,chitgar,۱۴۰۲,۲,۱٬۳۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱۵ از ۱۶
+۴۵,doolab,۱۳۹۶,۱,۲٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۲ از ۴
+۶۷,doolab,۱۳۹۶,۲,۳٬۸۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۴
+۶۴,doolab,۱۴۰۲,۲,۳٬۸۴۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۲ از ۴
+۵۷,doolab,۱۳۷۹,۱,۲٬۳۰۰٬۰۰۰٬۰۰۰ تومان,false,false,false,۴
+۴۷,doolab,۱۳۹۱,۱,۲٬۷۵۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۱ از ۴
+۳۸,doolab,۱۳۹۶,۱,۲٬۴۲۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۱ از ۵
+۷۰,doolab,۱۳۷۶,۱,۲٬۵۵۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۳ از ۳
+۵۰,doolab,۱۳۹۳,۱,۲٬۶۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۴
+۸۲,narmak,۱۳۹۵,۲,۸٬۶۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۵
+۱۲۵,narmak,۱۴۰۲,۳,۳٬۷۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۵
+۴۳,doolab,۱۳۸۴,۱,۲٬۰۹۵٬۰۰۰٬۰۰۰ تومان,false,true,true,همکف از ۴
+۷۲,narmak,۱۳۷۸,۱,۴٬۸۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۱ از ۴
+۵۳,narmak,۱۳۸۳,۱,۴٬۲۴۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۲ از ۴
+۴۶,narmak,۱۳۸۳,۱,۴٬۵۵۰٬۰۰۰٬۰۰۰ تومان,false,true,true,همکف از ۴
+۷۸,narmak,۱۴۰۰,۲,۸٬۴۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۵
+۱۰۵,narmak,۱۴۰۰,۳,۱۱٬۹۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۵
+۴۵,narmak,۱۳۸۷,۱,۴٬۵۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۲ از ۴
+۹۳,narmak,۱۳۹۷,۲,۹٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵ از ۵
+۷۵,narmak,۱۳۷۵,۱,۴٬۷۵۰٬۰۰۰٬۰۰۰ تومان,false,false,false,۱ از ۵
+۸۸,narmak,۱۴۰۳,۲,۹٬۷۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۴
+۱۰۰,narmak,۱۴۰۳,۲,۱۲٬۷۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲
+۱۱۰,narmak,۱۴۰۳,۲,۱۴٬۳۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳
+۱۳۰,narmak,۱۴۰۳,۳,۱۶٬۸۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲
+۶۵,narmak,۱۴۰۰,۲,۵٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲
+۱۱۰,narmak,۱۳۹۶,۳,۱۱٬۲۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۴
+۱۴۰,narmak,۱۳۹۹,۳,۲۰٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳
+۶۰,narmak,۱۴۰۲,۲,۸٬۲۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴
+۱۳۰,narmak,۱۴۰۲,۳,۱۳٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۴
+۹۲,narmak,۱۴۰۲,۲,۱۲٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱
+۳۶,narmak,۱۳۹۹,۱,۳٬۱۸۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۱
+۹۰,narmak,۱۴۰۳,۲,۱۰٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵
+۱۰۰,narmak,۱۳۹۰,۲,۹٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۵
+۱۰۵,narmak,۱۴۰۳,۳,۱۲٬۱۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۵
+۱۱۰,nazi-abad,۱۴۰۲,۲,۴۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲
+۶۶,nazi-abad,۱۳۸۵,۲,۳٬۹۹۹٬۰۰۰٬۰۰۰ تومان,false,false,true,۳ از ۳
+۱۳۰,nazi-abad,۱۴۰۰,۳,۱۳٬۱۳۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۵
+۱۲۵,nazi-abad,۱۴۰۲,۲,۱۰٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۳
+۴۶,nazi-abad,۱۳۹۶,۱,۳٬۶۰۰٬۰۰۰٬۰۰۰ تومان,true,false,false,۲ از ۵
+۱۱۰,nazi-abad,۱۴۰۰,۲,۹٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴
+۱۱۸,nazi-abad,۱۳۹۴,۲,۹٬۴۰۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۲ از ۵
+۷۰,nazi-abad,۱۴۰۳,۲,۶٬۳۰۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۳ از ۵
+۱۱۵,nazi-abad,۱۳۹۹,۲,۹٬۱۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵ از ۵
+۸۳,nazi-abad,۱۳۸۰,۲,۴٬۱۵۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۳ از ۴
+۸۵,nazi-abad,۱۳۹۶,۲,۷٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۱ از ۵
+۷۰,nazi-abad,۱۳۹۶,۲,۸٬۸۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۴
+۵۵,nazi-abad,۱۳۹۹,۱,۲٬۷۰۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۲
+۷۵,nazi-abad,۱۳۸۵,۲,۳٬۲۰۰٬۰۰۰٬۰۰۰ تومان,false,false,false,۳ از ۴
+۷۳,nazi-abad,۱۴۰۳,۱,۴٬۳۸۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۳ از ۷
+۱۱۷,nazi-abad,۱۳۸۸,۳,۱۰٬۷۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۵
+۵۹,nazi-abad,۱۳۹۱,۱,۳٬۴۶۰٬۰۰۰٬۰۰۰ تومان,true,false,false,۲ از ۵
+۴۷,nazi-abad,۱۳۸۰,۱,۲٬۲۹۵٬۰۰۰٬۰۰۰ تومان,false,false,true,۴ از ۴
+۷۵,nazi-abad,۱۴۰۲,۲,۲٬۱۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲
+۴۴,nazi-abad,۱۳۸۳,۱,۲٬۳۷۶٬۰۰۰٬۰۰۰ تومان,false,false,false,۳ از ۴
+۷۰,amir-bahador,۱۳۹۳,۲,۵٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۴
+۴۰,nazi-abad,۱۳۹۸,۱,۲٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۱ از ۴
+۷۰,amir-bahador,۱۳۸۲,۲,۳٬۹۵۰٬۰۰۰ تومان,false,false,true,۴
+۶۹,amir-bahador,۱۳۸۳,۲,۳٬۰۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۱
+۵۰,amir-bahador,۱۳۸۳,۱,۲٬۹۵۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۲ از ۸
+۷۰,amir-bahador,۱۳۹۰,۲,۴٬۱۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۱ از ۳
+۹۲,amir-bahador,۱۳۹۵,۲,۶٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱
+۶۲,amir-bahador,۱۳۹۷,۲,۳٬۹۰۰٬۰۰۰٬۰۰۰ تومان,true,false,false,۲
+۷۰,amir-bahador,۱۳۸۰,۲,۴٬۳۸۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۲ از ۴
+۱۰۳,amir-bahador,۱۳۹۸,۳,۷٬۸۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۵
+۱۱۵,amir-bahador,۱۴۰۰,۳,۷٬۷۰۵٬۰۰۰٬۰۰۰ تومان,true,true,false,۱ از ۶
+۶۲,amir-bahador,۱۳۹۷,۲,۴٬۲۵۰٬۰۰۰٬۰۰۰ تومان,true,false,false,۲ از ۵
+۷۴,amir-bahador,۱۳۸۰,۱,۵٬۱۸۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۷ از ۷
+۱۰۱,amir-bahador,۱۴۰۱,۲,۷٬۴۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۵
+۶۲,amir-bahador,۱۳۷۸,۲,۳٬۰۹۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۴ از ۴
+۱۱۲,amir-bahador,۱۳۹۵,۲,۹٬۲۹۶٬۰۰۰٬۰۰۰ تومان,true,true,true,۵ از ۶
+۷۸,amir-bahador,۱۳۹۶,۲,۶٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳
+۴۲,amir-bahador,۱۳۸۰,۱,۲٬۹۵۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۱ از ۸
+۶۰,amir-bahador,۱۳۹۲,۲,۴٬۸۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۴
+۵۱,dolat-abad,۱۳۸۶,۱,۲٬۳۵۰٬۰۰۰٬۰۰۰ تومان,true,false,false,۹ از بیشتر از ۳۰
+۶۵,moshiriyeh,۱۳۹۳,۱,۳٬۹۰۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۲ از ۵
+۷۱,amir-bahador,۱۳۷۵,۱,۳٬۳۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۲ از ۴
+۷۰,moshiriyeh,۱۴۰۲,۲,۴٬۹۰۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۱ از ۴
+۱۰۵,moshiriyeh,۱۴۰۲,۲,۴۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲
+۴۰,moshiriyeh,۱۳۸۷,۱,۲٬۰۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۴
+۵۰,moshiriyeh,۱۳۸۲,۱,۲٬۱۰۰٬۰۰۰٬۰۰۰ تومان,false,false,false,۴
+۷۲,moshiriyeh,۱۳۹۲,۲,۳٬۷۱۵٬۰۰۰٬۰۰۰ تومان,false,true,true,۱ از ۴
+۶۵,moshiriyeh,۱۳۸۸,۲,۳٬۶۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۳
+۶۸,moshiriyeh,۱۴۰۰,۲,۴٬۳۰۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۳ از ۵
+۱۲۰,moshiriyeh,قبل از ۱۳۷۰,۲,۱۴٬۰۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۲ از ۲
+۱۴۶,moshiriyeh,۱۴۰۲,۳,۸٬۹۸۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۳ از ۵
+۵۰,moshiriyeh,۱۳۸۵,۱,۲٬۵۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۴ از ۴
+۷۰,moshiriyeh,۱۳۹۶,۲,۴٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۴
+۴۷,moshiriyeh,۱۳۸۶,۱,۲٬۲۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۲ از ۳
+۳۶,moshiriyeh,۱۳۸۷,۱,۱٬۷۸۰٬۰۰۰٬۰۰۰ تومان,false,false,false,۳ از ۴
+۷۵,moshiriyeh,۱۳۹۱,۲,۴٬۳۵۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۱ از ۵
+۵۰,moshiriyeh,۱۳۸۰,۱,۲٬۴۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۱
+۶۴,moshiriyeh,۱۳۸۹,۲,۳٬۱۵۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۴ از ۴
+۶۳,moshiriyeh,۱۳۹۲,۲,۱٬۸۶۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۱ از ۶
+۴۵,moshiriyeh,۱۳۸۵,۱,۲٬۲۵۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۳ از ۴
+۱۶۰,amaniyeh,قبل از ۱۳۷۰,۳,۲۵٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۴
+۱۶۰,amaniyeh,۱۳۸۶,۳,۱۸٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۶
+۱۷۵,amaniyeh,۱۴۰۳,۳,۳۵٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱
+۵۸,moshiriyeh,۱۳۸۴,۱,۲٬۷۵۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۴
+۸۱,amaniyeh,۱۳۸۰,۱,۱۱٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,همکف از ۷
+۱۱۵,amaniyeh,۱۳۸۰,۲,۱۵٬۴۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۵
+۱۷۰,amaniyeh,۱۳۷۱,۳,۲۱٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۴
+۱۲۰,amaniyeh,۱۴۰۳,۲,۲۶٬۴۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۵
+۸۱,amaniyeh,۱۳۸۵,۱,۱۱٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,همکف از ۸
+۸۱,amaniyeh,۱۳۸۰,۲,۱۰٬۳۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۱ از ۴
+۱۸۵,amaniyeh,۱۳۸۰,۳,۲۱٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۵
+۱۵۰,amaniyeh,۱۳۹۰,۳,۲۲٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۵
+۱۱۸,amaniyeh,۱۳۸۳,۲,۱۵٬۲۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵ از ۵
+۱۰۰,amaniyeh,۱۳۹۳,۲,۱۸٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۵
+۱۸۰,amaniyeh,۱۳۸۳,۳,۲۵٬۷۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۵
+۱۶۵,amaniyeh,۱۳۷۸,۳,۲۱٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۵
+۹۵,amaniyeh,۱۳۷۵,۱,۱۳٬۱۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۷ از ۱۲
+۱۵۷,amaniyeh,قبل از ۱۳۷۰,۲,۲۱٬۰۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,زیرهمکف از ۴
+۲۴۴,amaniyeh,۱۳۸۹,۴,۲۹٬۲۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۶
+۱۷۷,tehran-hosein-abad,۱۴۰۲,۳,۲۳٬۰۱۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱۱ از ۱۱
+۱۹۵,tehran-hosein-abad,۱۴۰۲,۳,۲۵٬۳۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۱۱
+۱۸۵,tehran-hosein-abad,۱۴۰۲,۳,۲۴٬۰۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۸ از ۱۱
+۱۹۵,tehran-hosein-abad,۱۴۰۱,۳,۲۵٬۳۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۹ از ۱۱
+۱۸۰,tehran-hosein-abad,۱۴۰۳,۳,۲۰٬۱۶۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱۰ از ۱۱
+۱۹۵,tehran-hosein-abad,۱۴۰۲,۳,۲۵٬۳۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۱۱
+۱۰۰,amaniyeh,۱۳۹۷,۲,۱۸٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۲ از ۶
+۱۹۷,tehran-hosein-abad,۱۴۰۲,۳,۲۵٬۶۱۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۱۱
+۱۷۷,tehran-hosein-abad,۱۴۰۲,۳,۲۳٬۰۱۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۱۱
+۱۷۷,tehran-hosein-abad,۱۴۰۲,۳,۲۳٬۰۱۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۱۱
+۷۳,tehran-hosein-abad,۱۳۹۴,۲,۱۰٬۷۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴
+۱۲۵,tehran-hosein-abad,۱۳۸۵,۲,۱۶٬۲۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۷ از ۸
+۱۲۲,tehran-hosein-abad,۱۴۰۲,۲,۱۶٬۶۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۷ از ۱۱
+۱۸۵,tehran-hosein-abad,۱۴۰۲,۳,۲۴٬۰۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵ از ۱۱
+۱۷۷,tehran-hosein-abad,۱۴۰۲,۳,۲۳٬۰۱۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۱۱
+۱۷۷,tehran-hosein-abad,۱۴۰۲,۳,۲۳٬۰۱۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱۱ از ۱۱
+۲۶,tehran-hosein-abad,۱۴۰۲,بدون اتاق,۲۶٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,false,همکف از ۲
+۱۸۵,tehran-hosein-abad,۱۴۰۲,۳,۲۴٬۰۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۸ از ۱۱
+۱۸۵,tehran-hosein-abad,۱۴۰۲,۳,۲۴٬۰۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۸ از ۱۱
+۱۷۸,tehran-hosein-abad,۱۴۰۱,۳,۲۳٬۱۴۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۹ از ۱۱
+۱۷۸,tehran-hosein-abad,۱۴۰۲,۳,۲۳٬۱۴۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱۱ از ۱۱
+۲۴۰,tehran-hosein-abad,۱۴۰۳,۳,۱۱۱٬۱۱۱٬۱۱۱٬۱۱۱ تومان,true,true,true,۶
+۱۷۷,tehran-hosein-abad,۱۴۰۲,۳,۲۳٬۰۱۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۹ از ۱۱
+۱۹۵,tehran-hosein-abad,۱۴۰۲,۳,۲۵٬۳۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۸ از ۱۱
+۶۰,jey,۱۳۹۵,۱,۳٬۵۳۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۵
+۶۰,jey,۱۳۸۵,۱,۳٬۰۵۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۴ از ۵
+۴۹,jey,۱۳۹۶,۱,۳٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۲ از ۵
+۴۲,jey,۱۳۹۵,۱,۲٬۸۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۴
+۵۵,jey,۱۳۸۰,۱,۲٬۳۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۱
+۴۷,jey,۱۳۸۰,۱,۲٬۶۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۱ از ۴
+۵۲,jey,۱۳۸۵,۱,۲٬۹۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۵
+۹۰,jey,۱۴۰۲,۲,۵٬۳۰۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۲ از ۵
+۱۱۳,jey,۱۳۹۳,۲,۶٬۴۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۵
+۵۲,jey,۱۳۸۴,۱,۲٬۹۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۵
+۵۲,jey,۱۳۸۴,۱,۲٬۶۵۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۱ از ۴
+۵۱,jey,۱۳۸۵,۱,۲٬۶۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۳ از ۴
+۸۷,jey,۱۴۰۲,۲,۵٬۸۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۵
+۱۱۰,jey,۱۳۹۷,۲,۶٬۰۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵ از ۵
+۵۸,jey,۱۴۰۳,۲,۳٬۸۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۴
+۵۷,jey,۱۳۹۵,۱,۳٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۴
+۵۲,jey,۱۳۹۶,۱,۲٬۶۳۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۱ از ۴
+۴۶,jey,۱۳۸۵,۱,۲٬۷۲۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۵
+۵۵,jey,۱۳۸۲,۱,۲٬۰۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۴
+۶۲,jey,۱۳۹۱,۱,۳٬۶۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۵
+۴۲,jey,۱۳۸۲,۱,۲٬۷۹۹٬۰۰۰٬۰۰۰ تومان,false,true,true,۳
+۸۶,jey,۱۴۰۲,۲,۵٬۶۷۶٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۵
+۵۴,jey,۱۴۰۰,۱,۳٬۱۵۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۳
+۹۰,tayeb,۱۴۰۳,۲,۳٬۸۷۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۵
+۵۷,tayeb,۱۳۹۲,۱,۲٬۶۵۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۱ از ۴
+۳۴,tayeb,۱۳۸۲,۱,۱٬۸۵۰٬۰۰۰٬۰۰۰ تومان,false,false,false,۴
+۸۵,tayeb,۱۴۰۳,۲,۴٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵ از ۵
+۷۰,tayeb,۱۳۹۸,۱,۵٬۸۰۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۵ از ۵
+۷۷,tayeb,۱۳۹۹,۲,۳٬۷۲۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۲ از ۴
+۸۷,tayeb,۱۴۰۱,۲,۴٬۲۰۰٬۰۰۰٬۰۰۰ تومان,true,false,false,۵ از ۵
+۳۵,tayeb,۱۴۰۰,بدون اتاق,۱٬۴۵۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۳
+۶۲,tayeb,۱۳۹۱,۱,۲٬۶۹۵٬۰۰۰٬۰۰۰ تومان,false,false,true,۳ از ۴
+۱۸۷,tehran-hosein-abad,۱۴۰۲,۳,۲۴٬۳۱۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۷ از ۱۱
+۳۸,tayeb,۱۳۸۵,۱,۱٬۹۹۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۲ از ۴
+۵۸,tayeb,۱۳۹۸,۱,۲٬۷۰۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۴ از ۵
+۴۹,tayeb,۱۳۹۳,۱,۲٬۲۳۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۴
+۳۷,tayeb,۱۳۸۶,۱,۱٬۹۷۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۲ از ۴
+۸۵,tayeb,۱۳۹۴,۲,۳٬۳۰۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۱ از ۶
+۴۵,tayeb,۱۳۹۰,۱,۲٬۳۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴
+۵۲,tayeb,۱۳۹۷,۱,۲٬۸۶۰٬۰۰۰٬۰۰۰ تومان,true,false,false,۲
+۵۴,tayeb,۱۳۹۸,۱,۲٬۴۸۴٬۰۰۰٬۰۰۰ تومان,true,false,false,۳ از ۵
+۵۵,tayeb,۱۳۹۰,۱,۲٬۸۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵ از ۵
+۵۰,tayeb,۱۳۹۰,۱,۲٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۵
+۶۷,tayeb,۱۳۷۹,۱,۲٬۷۵۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۳ از ۳
+۵۹,tayeb,۱۳۹۶,۲,۳٬۱۲۰٬۰۰۰٬۰۰۰ تومان,true,false,false,۵ از ۵
+۳۷,tayeb,۱۳۸۳,۱,۱٬۶۹۰٬۰۰۰٬۰۰۰ تومان,false,false,false,همکف
+۴۵,mina,۱۳۸۱,۱,۳٬۰۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۲ از ۴
+۵۷,mina,۱۳۹۸,۱,۴٬۹۰۲٬۰۰۰٬۰۰۰ تومان,true,true,false,۲ از ۵
+۶۸,mina,۱۳۹۳,۲,۴٬۶۰۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۶ از ۷
+۴۰,mina,۱۳۸۷,۱,۲٬۴۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۱
+۶۷,mina,۱۳۹۵,۲,۴٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۴ از ۶
+۱۱۵,mina,۱۴۰۳,۳,۱۰٬۲۰۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۱ از ۵
+۵۰,mina,۱۳۸۶,۱,۳٬۱۰۰٬۰۰۰٬۰۰۰ تومان,false,true,false,۱ از ۴
+۶۴,mina,۱۳۸۸,۲,۳٬۰۵۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۳ از ۳
+۶۵,mina,۱۴۰۲,۲,۵٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵ از ۵
+۸۷,mina,۱۳۸۱,۲,۴٬۵۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۴ از ۴
+۱۱۳,mina,۱۳۸۴,۲,۶٬۷۸۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۳ از ۳
+۷۷,mina,۱۳۸۵,۲,۵٬۲۰۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۱ از ۵
+۵۵,mina,۱۴۰۲,۱,۴٬۱۰۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۱ از ۴
+۷۰,majid-abad,۱۳۷۵,۲,۶٬۰۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۱ از ۴
+۶۲,majid-abad,۱۳۹۸,۱,۵٬۳۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۵
+۶۰,majid-abad,۱۳۸۲,۱,۴٬۲۰۰٬۰۰۰٬۰۰۰ تومان,false,false,false,۴
+۱۱۵,majid-abad,۱۴۰۰,۳,۱۱٬۳۸۵٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۵
+۱۲۰,majid-abad,۱۴۰۲,۲,۱۰٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۶
+۷۶,majid-abad,۱۳۸۸,۱,۵٬۹۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۵
+۸۴,majid-abad,۱۳۹۶,۲,۷٬۲۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۶
+۸۲,majid-abad,۱۳۸۵,۲,۵٬۵۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۱
+۵۸,majid-abad,۱۳۷۶,۱,۴٬۳۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۴ از ۴
+۶۹,majid-abad,۱۳۹۲,۱,۵٬۲۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲
+۶۱,majid-abad,۱۳۸۳,۱,۵٬۷۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۴
+۵۰,majid-abad,۱۳۹۴,۱,۴٬۸۰۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۲
+۵۷,majid-abad,۱۳۹۴,۱,۴٬۷۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵ از ۵
+۸۶,majid-abad,۱۳۹۶,۲,۸٬۶۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۴
+۶۸,majid-abad,۱۳۹۴,۱,۵٬۸۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵ از ۵
+۷۸,majid-abad,۱۳۹۵,۲,۷٬۲۵۴٬۰۰۰٬۰۰۰ تومان,true,true,true,۵
+۱۰۷,majid-abad,۱۳۸۰,۲,۸٬۱۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۷ از ۸
+۶۷,bagh-khazaneh,۱۳۹۴,۲,۴٬۱۵۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۳ از ۵
+۵۶,bagh-khazaneh,۱۳۹۶,۱,۳٬۳۰۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۴ از ۴
+۱۹۵,bagh-khazaneh,۱۴۰۱,۳,۱۳٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۶
+۶۵,bagh-khazaneh,۱۳۹۷,۲,۳٬۱۵۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۲ از ۵
+۴۷,bagh-khazaneh,۱۳۹۳,۱,۲٬۳۵۰٬۰۰۰٬۰۰۰ تومان,true,false,false,۱
+۴۳,bagh-khazaneh,۱۳۹۳,۱,۲٬۰۰۰٬۰۰۰٬۰۰۰ تومان,false,false,false,۲ از ۴
+۶۸,bagh-khazaneh,۱۳۸۹,۲,۴٬۲۱۵٬۰۰۰٬۰۰۰ تومان,true,false,false,۳ از ۴
+۷۵,bagh-khazaneh,۱۳۹۵,۲,۴٬۱۰۰٬۰۰۰٬۰۰۰ تومان,true,false,false,۲
+۱۵۶,bagh-khazaneh,۱۳۹۹,۳,۱۰٬۴۵۲٬۰۰۰٬۰۰۰ تومان,true,true,false,۳
+۵۰,bagh-khazaneh,۱۳۹۰,۲,۳٬۲۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۴
+۶۱,bagh-khazaneh,۱۳۹۷,۲,۳٬۳۵۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۱ از ۵
+۶۶,bagh-khazaneh,۱۳۹۸,۲,۳٬۱۵۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۲ از ۵
+۶۵,bagh-khazaneh,۱۳۹۷,۲,۳٬۱۵۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۲ از ۵
+۱۳۸,bagh-khazaneh,۱۴۰۱,۳,۹٬۴۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵
+۱۴۸,bagh-khazaneh,۱۴۰۰,۳,۸٬۳۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵ از ۶
+۶۵,bagh-khazaneh,۱۳۹۴,۲,۳٬۲۵۰٬۰۰۰٬۰۰۰ تومان,true,false,false,۲ از ۵
+۸۰,dabestan,۱۳۹۵,۲,۸٬۴۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۵
+۵۰,bagh-khazaneh,۱۳۸۰,۱,۱٬۳۱۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۲ از ۳
+۶۵,bagh-khazaneh,۱۴۰۲,۲,۳٬۹۵۰٬۰۰۰٬۰۰۰ تومان,true,false,false,۱ از ۵
+۱۲۵,dabestan,۱۴۰۲,۳,۱۴٬۳۷۵٬۰۰۰٬۰۰۰ تومان,true,true,true,۲
+۱۰۰,dabestan,۱۴۰۱,۲,۱۱٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴
+۶۶,dabestan,۱۴۰۱,۱,۱٬۱۱۱٬۱۱۱٬۱۱۱ تومان,true,true,true,۱ از ۵
+۶۵,dabestan,۱۳۷۹,۱,۵٬۵۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۳ از ۴
+۱۶۵,dabestan,۱۴۰۲,۳,۱۷٬۹۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵ از ۵
+۱۶۵,dabestan,۱۴۰۲,۳,۱۷٬۹۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵ از ۵
+۸۸,dabestan,۱۳۹۸,۲,۹٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳
+۱۱۲,dabestan,۱۴۰۱,۲,۱۱٬۲۰۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۴ از ۵
+۵۳,dabestan,قبل از ۱۳۷۰,۱,۴٬۴۵۰٬۰۰۰٬۰۰۰ تومان,false,false,false,۱ از ۴
+۸۹,dabestan,۱۳۹۹,۲,۹٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳
+۵۵,dabestan,۱۳۹۴,۲,۵٬۳۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۴
+۸۱,dabestan,۱۳۹۴,۲,۸٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴
+۴۹,dabestan,۱۳۸۰,۱,۴٬۸۰۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۱
+۸۰,dabestan,۱۳۸۳,۲,۸٬۴۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵ از ۵
+۸۷,dabestan,۱۳۹۰,۲,۸٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۵
+۶۴,dabestan,۱۳۹۲,۱,۶٬۴۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵ از ۵
+۷۸,dabestan,۱۳۹۹,۲,۹٬۷۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵
+۴۰,dabestan,۱۳۸۷,۱,۳٬۶۰۰٬۰۰۰٬۰۰۰ تومان,true,false,false,۳ از ۴
+۱۴۴۹,dabestan,۱۳۸۰,۲,۱۳۰٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,همکف از ۶
+۷۰,dabestan,۱۳۸۶,۲,۶٬۸۰۰٬۰۰۰٬۰۰۰ تومان,true,false,false,۱ از ۵
+۶۳,imamzadeh-hasan,۱۳۸۳,۱,۲٬۸۵۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۳
+۶۴,imamzadeh-hasan,۱۳۹۰,۲,۳٬۲۰۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۳ از ۵
+۶۳,imamzadeh-hasan,۱۳۸۴,۱,۲٬۶۵۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۳ از ۴
+۸۵,dabestan,۱۴۰۲,۲,۹٬۸۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱
+۶۵,imamzadeh-hasan,۱۳۸۴,۲,۲٬۱۸۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۳ از ۴
+۳۶,imamzadeh-hasan,۱۳۹۴,۱,۱٬۹۵۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۳ از ۳
+۶۳,imamzadeh-hasan,۱۳۸۴,۱,۲٬۶۵۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۳ از ۴
+۷۰,dabestan,۱۳۸۳,۱,۳٬۳۱۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۳
+۶۳,imamzadeh-hasan,۱۳۸۵,۱,۲٬۸۸۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۳ از ۴
+۴۵,imamzadeh-hasan,۱۳۹۳,۱,۱٬۸۵۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۳ از ۴
+۴۵,imamzadeh-hasan,۱۳۹۳,۱,۱٬۸۳۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۴ از ۴
+۶۸,imamzadeh-hasan,۱۳۹۵,۲,۳٬۱۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۴
+۶۴,imamzadeh-hasan,۱۳۸۵,۱,۲٬۸۸۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۲ از ۴
+۴۴,imamzadeh-hasan,۱۳۸۴,۱,۱٬۹۷۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۳ از ۳
+۵۰,imamzadeh-hasan,۱۳۸۴,۱,۱٬۸۷۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۲ از ۳
+۷۰,imamzadeh-hasan,۱۴۰۳,۲,۳٬۶۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۵
+۷۰,imamzadeh-hasan,۱۴۰۳,۲,۳٬۶۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۵
+۶۵,imamzadeh-hasan,۱۳۸۵,۱,۲٬۶۷۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۲ از ۴
+۴۰,imamzadeh-hasan,۱۳۸۸,۱,۲٬۰۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۳ از ۴
+۴۰,imamzadeh-hasan,۱۳۸۹,۱,۲٬۰۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۴
+۶۹,imamzadeh-hasan,۱۳۹۱,۲,۳٬۳۵۰٬۰۰۰٬۰۰۰ تومان,false,true,false,۱ از ۴
+۴۰,imamzadeh-hasan,۱۳۹۲,۱,۲٬۰۵۰٬۰۰۰٬۰۰۰ تومان,false,false,false,۱ از ۴
+۵۵,imamzadeh-hasan,۱۳۹۰,۱,۲٬۸۰۰٬۰۰۰٬۰۰۰ تومان,true,false,false,۳ از ۴
+۶۰,imamzadeh-hasan,۱۳۷۳,۱,۲٬۲۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۲ از ۳
+۴۶,imamzadeh-hasan,۱۳۸۷,۱,۲۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱
+۸۱,dolatkhah,۱۳۹۷,۲,۳٬۵۲۳٬۰۰۰٬۰۰۰ تومان,true,true,true,۵ از ۶
+۸۰,dolatkhah,۱۳۹۶,۱,۲٬۶۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵
+۴۴,dolatkhah,۱۳۹۳,۱,۲٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۵ از ۵
+۴۵,imamzadeh-hasan,۱۳۹۳,۱,۲٬۵۸۰٬۰۰۰٬۰۰۰ تومان,false,true,false,۱ از ۴
+۶۹,dolatkhah,۱۳۹۶,۲,۳٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵ از ۶
+۸۱,dolatkhah,۱۳۹۶,۱,۳٬۳۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۶ از ۶
+۷۰,dolatkhah,۱۳۸۸,۲,۲٬۶۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۴ از ۴
+۱۰۶,dolatkhah,۱۳۹۳,۲,۵٬۳۰۰٬۰۰۰٬۰۰۰ تومان,true,false,false,۵ از ۶
+۴۳,dolatkhah,۱۳۹۴,۱,۲٬۲۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴
+۸۱,dolatkhah,۱۳۹۷,۱,۳٬۲۴۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۸
+۴۳,dolatkhah,۱۳۹۴,۱,۲٬۲۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۵
+۹۰,dolatkhah,۱۳۹۹,۲,۳٬۸۰۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۵ از ۷
+۸۲,dolatkhah,۱۳۹۲,۲,۳٬۱۱۶٬۰۰۰٬۰۰۰ تومان,true,true,true,۶ از ۱۰
+۶۳,dolatkhah,۱۳۹۲,۲,۲٬۲۵۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۳
+۵۳,dolatkhah,۱۳۹۵,۱,۲٬۱۰۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۴ از ۵
+۵۲,dolatkhah,۱۳۹۳,۱,۱٬۹۵۰٬۰۰۰٬۰۰۰ تومان,true,false,false,۳ از ۸
+۱۱۹,dolatkhah,۱۴۰۳,۲,۵٬۵۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۶ از ۶
+۸۲,dolatkhah,۱۳۹۴,۲,۳٬۲۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۹ از ۱۰
+۷۰,dolatkhah,۱۴۰۳,۲,۳٬۰۸۰٬۰۰۰٬۰۰۰ تومان,true,false,false,۱ از ۶
+۷۷,dolatkhah,۱۳۹۷,۲,۳٬۳۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳
+۵۱,dolatkhah,۱۳۸۸,۱,۲٬۰۲۹٬۸۰۰٬۰۰۰ تومان,false,true,true,۱ از ۳
+۷۱,dolatkhah,۱۳۹۶,۱,۳٬۰۵۳٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۵
+۵۱,dolatkhah,۱۳۹۶,۱,۲٬۲۴۴٬۰۰۰٬۰۰۰ تومان,true,true,true,۱
+۵۳,dolatkhah,۱۳۹۳,۱,۱٬۹۷۰٬۰۰۰٬۰۰۰ تومان,true,false,false,۱ از ۵
+۱۰۳,dolatkhah,۱۴۰۲,۲,۳٬۸۶۲٬۵۰۰٬۰۰۰ تومان,true,true,true,۴ از ۵
+۴۵,yaftabad,۱۳۹۶,۱,۹۵۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۲ از ۴
+۵۰,yaftabad,۱۳۸۸,۱,۱٬۲۵۰٬۰۰۰٬۰۰۰ تومان,false,false,false,۳ از ۴
+۸۱,yaftabad,۱۳۹۸,۲,۴٬۲۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۵
+۴۳,yaftabad,۱۳۸۲,۱,۱٬۷۲۰٬۰۰۰٬۰۰۰ تومان,false,false,false,۳
+۸۸,yaftabad,۱۳۸۵,۲,۴٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵
+۸۰,yaftabad,۱۳۹۴,۲,۴٬۲۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۵
+۷۷,yaftabad,۱۴۰۳,۲,۴۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴
+۴۱۵,yaftabad,۱۴۰۳,۳,۱۶٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳
+۴۲,yaftabad,۱۳۸۵,۱,۱٬۳۸۰٬۰۰۰٬۰۰۰ تومان,false,false,false,همکف از ۴
+۸۰,yaftabad,۱۳۹۷,۲,۳٬۴۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۵
+۴۸,yaftabad,۱۳۸۸,۱,۲٬۱۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۵
+۶۴,yaftabad,۱۴۰۱,۱,۳٬۵۵۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۵ از ۶
+۷۰,yaftabad,۱۳۹۳,۲,۳٬۲۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۵
+۴۷,yaftabad,۱۳۸۶,۱,۱٬۲۵۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۳ از ۸
+۹۰,yaftabad,۱۴۰۱,۲,۳٬۶۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۶
+۵۵,yaftabad,۱۳۹۴,۱,۲٬۱۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۳
+۱۰۱,yaftabad,۱۴۰۱,۲,۵٬۶۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۵
+۵۵,yaftabad,۱۳۹۰,۱,۲٬۷۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵
+۸۵,yaftabad,۱۳۹۸,۲,۳٬۴۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۶ از ۱۱
+۴۴,yaftabad,۱۳۸۶,۱,۲٬۲۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۴ از ۴
+۱۰۵,afsariyeh,۱۴۰۳,۲,۴۵۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۳
+۷۲,afsariyeh,۱۴۰۰,۲,۴٬۲۰۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۳ از ۵
+۷۰,afsariyeh,۱۳۹۶,۲,۴٬۵۲۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۴
+۱۱۰,afsariyeh,۱۴۰۳,۲,۴۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲
+۶۵,afsariyeh,۱۳۹۳,۲,۴٬۳۵۵٬۰۰۰٬۰۰۰ تومان,true,true,false,۵
+۷۴,afsariyeh,۱۳۹۲,۲,۴٬۱۰۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۱
+۱۰۵,afsariyeh,۱۴۰۳,۲,۴۵۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۳
+۶۹,afsariyeh,۱۴۰۳,۲,۵٬۳۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴
+۶۲,afsariyeh,۱۳۹۸,۲,۴٬۹۶۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۴
+۷۳,afsariyeh,۱۴۰۲,۲,۵٬۹۰۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۱ از ۵
+۶۵,afsariyeh,۱۳۹۵,۲,۴٬۵۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۴
+۷۰,afsariyeh,۱۳۹۷,۲,۵٬۸۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۴
+۱۰۷,afsariyeh,۱۳۹۹,۲,۷٬۴۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۵
+۱۱۵,afsariyeh,۱۳۹۹,۳,۸٬۱۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۵
+۷۴,afsariyeh,۱۳۹۲,۲,۵٬۲۰۰٬۰۰۰٬۰۰۰ تومان,true,false,false,۱ از ۵
+۷۰,afsariyeh,۱۴۰۲,۲,۵٬۶۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۴
+۱۰۷,afsariyeh,۱۳۷۹,۱,۷٬۵۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۲ از ۳
+۶۳,afsariyeh,۱۳۷۵,۱,۲٬۷۰۰٬۰۰۰٬۰۰۰ تومان,false,false,false,۴
+۶۶,afsariyeh,۱۳۸۳,۲,۳٬۸۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۲ از ۴
+۶۵,afsariyeh,۱۳۹۵,۲,۳٬۴۰۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۳
+۷۲,afsariyeh,۱۴۰۲,۲,۳٬۷۵۰٬۰۰۰٬۰۰۰ تومان,true,false,false,۳ از ۵
+۷۰,afsariyeh,۱۳۸۵,۲,۳٬۰۵۰٬۰۰۰٬۰۰۰ تومان,false,false,false,۴ از ۴
+۶۳,eskandari,۱۳۹۰,۱,۴٬۴۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,همکف از ۴
+۸۰,afsariyeh,۱۳۸۸,۲,۳٬۳۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۳ از ۴
+۵۰,eskandari,۱۳۸۵,۱,۳٬۰۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۳ از ۴
+۴۶,eskandari,۱۳۸۹,۱,۳٬۶۴۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۲ از ۴
+۶۲,eskandari,۱۳۹۰۲,,۳٬۶۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۴
+۶۰,eskandari,۱۳۹۳,۲,۳٬۷۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۴
+۷۱,eskandari,۱۴۰۰,۲,۵٬۷۵۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۱
+۴۵,eskandari,۱۳۸۱,۱,۲٬۷۰۰٬۰۰۰٬۰۰۰ تومان,false,false,false,۴ از ۴
+۴۷,eskandari,۱۴۰۱,۱,۳٬۸۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۴
+۵۹,eskandari,۱۳۸۵,۲,۳٬۹۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۱۲
+۵۲,eskandari,۱۳۷۹,۲,۳٬۲۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۴ از ۴
+۵۵,eskandari,۱۳۹۶,۱,۳٬۷۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴
+۵۰,eskandari,۱۳۸۲,۱,۲٬۵۶۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۳ از ۳
+۴۸,eskandari,۱۳۹۶,۱,۳٬۷۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۴
+۵۴,eskandari,۱۳۹۲,۱,۳٬۷۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲
+۴۹,eskandari,۱۳۹۰,۱,۲٬۸۵۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۴
+۶۹,eskandari,۱۳۸۳,۲,۴٬۶۰۰٬۰۰۰ تومان,false,false,true,۴ از ۴
+۴۳,eskandari,۱۳۸۵,۱,۳٬۰۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۲
+۵۰,eskandari,۱۳۸۲,۱,۲٬۵۶۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۳
+۵۰,eskandari,۱۳۸۳,۱,۲٬۵۶۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۳ از ۳
+۸۵,eskandari,۱۳۹۶,۲,۶٬۸۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۴
+۶۴,eskandari,۱۳۷۹,۱,۳٬۷۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,همکف از ۴
+۷۸,minabi,۱۴۰۲,۲,۴٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,false,false,۳ از ۵
+۶۶,eskandari,۱۳۹۳,۲,۶٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴
+۹۳,minabi,۱۴۰۰,۲,۴٬۳۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳
+۷۸,minabi,۱۴۰۳,۲,۳٬۴۰۰٬۰۰۰٬۰۰۰ تومان,true,false,false,۱ از ۶
+۷۰,minabi,۱۳۹۰,۲,۲٬۶۶۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۲ از ۴
+۷۲,minabi,۱۴۰۳,۲,۳٬۳۰۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۳ از ۵
+۵۵,minabi,۱۳۹۹,۱,۲٬۴۷۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵ از ۵
+۵۸,minabi,۱۳۹۶,۱,۲٬۴۰۰٬۰۰۰٬۰۰۰ تومان,true,false,false,۴ از ۵
+۱۰۳,minabi,۱۴۰۲,۲,۴٬۷۰۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۵ از ۵
+۵۹,minabi,۱۳۹۸,۱,۲٬۶۵۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۳ از ۵
+۷۲,minabi,۱۴۰۳,۲,۳٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۳ از ۵
+۶۲,minabi,۱۳۹۶,۱,۲٬۸۷۵٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۵
+۴۵,minabi,۱۳۹۰,۱,۲٬۱۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۴ از ۷
+۱۰۰,minabi,۱۳۹۶,۲,۵٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۷ از ۷
+۸۷,minabi,۱۳۹۹,۲,۳٬۶۵۴٬۰۰۰٬۰۰۰ تومان,true,false,true,۲ از ۵
+۵۵,minabi,۱۴۰۳,۱,۲٬۷۵۰٬۰۰۰٬۰۰۰ تومان,true,false,false,۲
+۴۰,minabi,۱۳۹۴,۱,۲٬۱۹۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۱
+۱۰۲,minabi,۱۴۰۱,۲,۵٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۲ از ۶
+۵۰,minabi,۱۴۰۰,۱,۲٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,false,false,۱
+۷۳,minabi,۱۳۹۷,۱,۲٬۸۵۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۱ از ۵
+۷۵,minabi,۱۴۰۲,۲,۳٬۸۲۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۳ از ۵
+۸۰,fadak,۱۳۸۶,۲,۵٬۹۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۲ از ۴
+۹۵,fadak,۱۳۹۶,۲,۱۰٬۸۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱
+۶۰,minabi,۱۴۰۱,۱,۲٬۷۰۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۳ از ۵
+۵۸,fadak,۱۳۹۰,۲,۵٬۶۲۶٬۰۰۰٬۰۰۰ تومان,false,true,true,۳
+۹۰,fadak,۱۳۹۳,۲,۱۰٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۴
+۷۸,minabi,۱۴۰۳,۲,۳٬۴۹۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۲ از ۵
+۸۰,fadak,۱۳۸۳,۲,۶٬۲۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۳ از ۴
+۱۰۰,fadak,۱۳۹۶,۲,۱۰٬۲۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۵
+۵۱,fadak,۱۳۹۱,۱,۵٬۴۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۳
+۱۲۶,fadak,۱۴۰۲,۳,۱۲٬۶۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲
+۷۷,fadak,۱۳۹۸,۲,۶٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۱
+۱۱۶,fadak,۱۴۰۳,۳,۱۱٬۳۷۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲
+۱۱۵,fadak,۱۳۹۹,۳,۱۴٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵ از ۵
+۶۶,fadak,۱۳۸۸,۲,۶٬۶۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۴
+۹۰,fadak,۱۳۹۶,۲,۹٬۱۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲
+۵۴,fadak,۱۳۹۳,۱,۶٬۱۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۴
+۱۱۷,fadak,۱۳۹۸,۲,۱۲٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۴
+۱۰۲,fadak,۱۳۸۳,۲,۷٬۵۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۳ از ۴
+۶۴,fadak,۱۴۰۲,۱,۷٬۳۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵ از ۵
+۶۷,fadak,۱۳۹۵,۲,۶٬۱۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱
+۱۴۰,fadak,۱۴۰۳,۳,۲۱٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۴
+۶۳,fadak,۱۳۹۲,۲,۶٬۳۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۳ از ۴
+۳۵,fadak,۱۳۹۴,۱,۴٬۰۵۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۱ از ۴
+۱۶۰,sheykh-hadi,قبل از ۱۳۷۰,۲,۱۰٬۷۲۰٬۰۰۰٬۰۰۰ تومان,false,false,true,همکف از ۴
+۵۲۵,sheykh-hadi,۱۳۷۲,۲,۳٬۵۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۳ از ۳
+۵۱,sheykh-hadi,۱۳۸۵,۱,۳٬۲۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۲
+۱۰۲,sheykh-hadi,۱۴۰۳,۲,۹٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۴
+۸۵,sheykh-hadi,۱۳۹۴,۲,۶٬۷۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲
+۷۰,sheykh-hadi,۱۳۹۵,۲,۵٬۷۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۴
+۹۸,sheykh-hadi,۱۴۰۳,۲,۹٬۳۱۰٬۰۰۰٬۰۰۰ تومان,true,true,false,۵ از ۵
+۶۸,sheykh-hadi,۱۳۸۰,۲,۴٬۶۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۲ از ۴
+۱۱۰,sheykh-hadi,۱۳۷۷,۱,۲۹٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۴ از ۴
+۴۹,fadak,۱۳۹۲,۱,۴٬۳۵۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۲ از ۴
+۶۲,sheykh-hadi,۱۳۹۳,۱,۵٬۴۵۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۴
+۹۲,sheykh-hadi,۱۳۸۸,۲,۶٬۸۰۰٬۰۰۰٬۰۰۰ تومان,false,true,true,۳ از ۳
+۸۴,sheykh-hadi,۱۳۸۰,۲,۵٬۱۰۰٬۰۰۰٬۰۰۰ تومان,false,false,true,۳ از ۴
+۱۸۵,sheykh-hadi,۱۴۰۰,۳,۲۶٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۵
+۲۰۰,gisha,۱۳۸۳,۳,۲۶٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۴ از ۵
+۱۶۰,gisha,۱۴۰۳,۳,۱۱۱٬۱۱۱ تومان,true,true,true,۳
+۱۱۸,gisha,۱۳۹۷,۳,۲۰٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۵
+۱۰۰,gisha,۱۳۹۱,۳,۱۷٬۰۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱ از ۵
+۹۰,gisha,۱۳۹۸,۲,۱۴٬۳۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۵ از ۵
+۶۰,gisha,۱۳۹۵,۱,۹٬۸۸۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۱
+۷۵,bagh-feyz,۱۴۰۳,۱,۸٬۵۰۰٬۰۰۰٬۰۰۰ تومان,true,true,true,۲ از ۴
+۷۰,firoozabadi,۱۳۹۰,۲,۴٬۲۰۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۲ از ۴
+۷۵,shams-abad,۱۳۸۴,۲,۶٬۴۵۰٬۰۰۰٬۰۰۰ تومان,true,false,true,۴
