@@ -13,8 +13,11 @@ def persianNumber(string):
             elif i=='۷': s2+='7'
             elif i=='۸': s2+='8'
             elif i=='۹': s2+='9'
-            elif i=='۰': s2+='0'        
-    return s2
+            elif i=='۰': s2+='0'      
+    try:  
+        return int(s2)
+    except:
+        return 0
 
 def floorNumber(s):
     i=0
@@ -32,7 +35,10 @@ def floorNumber(s):
         elif s[i]=='۰': s2+='0'  
         else: break
         # bro use switch
-    return s2
+    try:
+        return int(s2)
+    except:
+        return 0
        
 def boolHandler(a):
     if a == False:
