@@ -21,6 +21,7 @@ def averagePriceValue(df):
                 average[district]=d[i]['pricePerM2']
     for i in range(len(d)):
         d[i]['averageDistrictValue']=average[d[i]['district']]
+        d[i]['test']=d[i]['meter']*average[d[i]['district']]
 
     d=pd.DataFrame(d)
     d=d.drop("pricePerM2",axis=1)
