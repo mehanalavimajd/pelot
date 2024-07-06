@@ -110,7 +110,6 @@ for (let i = 0; i < 218; i++) {
                 `${meter},${district},${buildYear},${rooms},${price},${elevator},${space},${parking},${floor}\n`,
                 (e) => {
                   if (e) console.log(e);
-                  console.log(token);
                   d(token).then(() => {
                     console.log(token);
                   });
