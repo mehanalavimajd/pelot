@@ -1,0 +1,1 @@
+jupyter nbconvert --ClearMetadataPreprocessor.enabled=True  --inplace model/train.ipynb
