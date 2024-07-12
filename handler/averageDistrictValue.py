@@ -11,14 +11,26 @@ def averagePriceValue(df):
         if(not d[i]['price'] == 0):
             d[i]['pricePerM2']=d[i]['price']/d[i]['meter']
     average={}
+    tedad={}
     for i in range(len(d)):
         if('pricePerM2' in d[i]):
+            
             district=d[i]['district']
             if(district in average):
                 average[district]+=(d[i]['pricePerM2'])
-                average[district]/=2
+                tedad[district]+=1
+
             else:
+                tedad[district]=1
                 average[district]=d[i]['pricePerM2']
+    used=[]
+    for i in range(len(d)):
+        district=d[i]['district']
+        if(district not in used):
+            used.append(district)
+            print((average[district]/tedad[district])/1e9)
+            average[district]/=tedad[district]
+
     for i in range(len(d)):
         d[i]['averageDistrictValue']=average[d[i]['district']]
         d[i]['test']=d[i]['meter']*average[d[i]['district']]
