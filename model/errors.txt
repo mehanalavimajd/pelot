@@ -8,7 +8,7 @@ parking                         0
 averageDistrictValue    72.333534
 test                     5.208014
 cat                             4
-Name: 734, dtype: object
+Name: 721, dtype: object
 
 meter                          98
 district                hakimiyeh
@@ -20,7 +20,7 @@ parking                         1
 averageDistrictValue    91.757584
 test                     8.992243
 cat                             1
-Name: 878, dtype: object
+Name: 865, dtype: object
 
 meter                              50
 district                south-shahran
@@ -32,7 +32,7 @@ parking                             1
 averageDistrictValue       108.714665
 test                         5.435733
 cat                                 5
-Name: 1387, dtype: object
+Name: 1374, dtype: object
 
 meter                           86
 district                     ozgol
@@ -44,7 +44,7 @@ parking                          1
 averageDistrictValue    144.051589
 test                     12.388437
 cat                              1
-Name: 1671, dtype: object
+Name: 1658, dtype: object
 
 meter                           87
 district                majid-abad
@@ -56,19 +56,7 @@ parking                          1
 averageDistrictValue     83.873621
 test                      7.297005
 cat                              1
-Name: 1762, dtype: object
-
-meter                         131
-district                  baharan
-buildYear                    1400
-price                    3.100009
-elevator                        1
-space                           1
-parking                         1
-averageDistrictValue    93.110032
-test                    12.197414
-cat                             2
-Name: 2652, dtype: object
+Name: 1749, dtype: object
 
 meter                             67
 district                shahrak-naft
@@ -80,7 +68,7 @@ parking                            1
 averageDistrictValue      141.911382
 test                        9.508063
 cat                                1
-Name: 2761, dtype: object
+Name: 2747, dtype: object
 
 meter                          180
 district                 kuy-faraz
@@ -92,19 +80,7 @@ parking                          1
 averageDistrictValue    143.748071
 test                     25.874653
 cat                              3
-Name: 2829, dtype: object
-
-meter                            150
-district                chitgar-lake
-buildYear                       1403
-price                          2.025
-elevator                           1
-space                              1
-parking                            1
-averageDistrictValue       46.395585
-test                        6.959338
-cat                                1
-Name: 2891, dtype: object
+Name: 2815, dtype: object
 
 meter                             89
 district                niroo-havayi
@@ -116,7 +92,7 @@ parking                            1
 averageDistrictValue       88.573962
 test                        7.883083
 cat                                1
-Name: 3322, dtype: object
+Name: 3300, dtype: object
 
 meter                           87
 district                    jordan
@@ -128,7 +104,7 @@ parking                          1
 averageDistrictValue    156.497014
 test                      13.61524
 cat                              1
-Name: 3852, dtype: object
+Name: 3830, dtype: object
 
 meter                          89
 district                    ahang
@@ -140,7 +116,7 @@ parking                         1
 averageDistrictValue    72.404904
 test                     6.444036
 cat                             1
-Name: 4036, dtype: object
+Name: 4014, dtype: object
 
 meter                           50
 district                   darakeh
@@ -152,7 +128,7 @@ parking                          1
 averageDistrictValue    150.448983
 test                      7.522449
 cat                              1
-Name: 4120, dtype: object
+Name: 4098, dtype: object
 
 meter                         125
 district                   narmak
@@ -164,7 +140,7 @@ parking                         1
 averageDistrictValue    98.792751
 test                    12.349094
 cat                             2
-Name: 4250, dtype: object
+Name: 4222, dtype: object
 
 meter                             120
 district                abshar-tehran
@@ -176,7 +152,7 @@ parking                             1
 averageDistrictValue        69.548722
 test                         8.345847
 cat                                 1
-Name: 4679, dtype: object
+Name: 4645, dtype: object
 
 meter                         118
 district                nazi-abad
@@ -188,7 +164,7 @@ parking                         1
 averageDistrictValue    70.200286
 test                     8.283634
 cat                             1
-Name: 4725, dtype: object
+Name: 4691, dtype: object
 
 meter                           72
 district                nemat-abad
@@ -200,7 +176,7 @@ parking                          1
 averageDistrictValue     40.397003
 test                      2.908584
 cat                              4
-Name: 5629, dtype: object
+Name: 5595, dtype: object
 
 meter                          70
 district                afsariyeh
@@ -212,5 +188,5 @@ parking                         1
 averageDistrictValue    67.464023
 test                     4.722482
 cat                             4
-Name: 5640, dtype: object
+Name: 5606, dtype: object
 
