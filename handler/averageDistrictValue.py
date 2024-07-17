@@ -3,6 +3,15 @@ what this code will do:
 handling the district by finding average price per m2 and adding it to row
 '''
 
+import numpy as np 
+
+def reject_outliers(data, m=3):
+    d = np.abs(data - np.median(data))
+    mdev = np.median(d)
+    s = d / (mdev if mdev else 1.)
+    return data[s < m].tolist()
+
+
 import pandas as pd
 # df = pd.read_csv('./data.csv')
 def averagePriceValue(df):
@@ -17,25 +26,29 @@ def averagePriceValue(df):
             
             district=d[i]['district']
             if(district in average):
-                average[district]+=(d[i]['pricePerM2'])
+                average[district].append(d[i]['pricePerM2'])
                 tedad[district]+=1
 
             else:
                 tedad[district]=1
-                average[district]=d[i]['pricePerM2']
+                average[district]=[]
+                average[district].append(d[i]['pricePerM2'])
     used=[]
     for i in range(len(d)):
         district=d[i]['district']
         if(district not in used):
             used.append(district)
-            print((average[district]/tedad[district])/1e9)
-            average[district]/=tedad[district]
-
+            l = np.array(average[district])
+            l = reject_outliers(l,m=3)
+            average[district] = sum(l)/len(l)
+            
+            print(len(l),tedad[district],average[district])
     for i in range(len(d)):
-        d[i]['averageDistrictValue']=average[d[i]['district']]
+        district=d[i]['district']
+        d[i]['averageDistrictValue']=average[district]
         d[i]['test']=d[i]['meter']*average[d[i]['district']]
-
+    
     d=pd.DataFrame(d)
     d=d.drop("pricePerM2",axis=1)
-    print(average)
+    d.sort_values("district")
     return d

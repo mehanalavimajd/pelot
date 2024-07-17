@@ -13,7 +13,7 @@ b=input()
 c=input()
 
 df = pd.read_csv('./'+a)
-print(df)
+# print(df)
 if(c=='1'):
     df['price'] = df['price'].map(persianNumber)
     df['rooms'] = df['rooms'].map(persianNumber)
