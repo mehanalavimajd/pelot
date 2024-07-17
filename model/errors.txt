@@ -1,0 +1,216 @@
+meter                          72
+district                shokoofeh
+buildYear                    1385
+price                        16.5
+elevator                        0
+space                           1
+parking                         0
+averageDistrictValue    72.333534
+test                     5.208014
+cat                             4
+Name: 734, dtype: object
+
+meter                          98
+district                hakimiyeh
+buildYear                    1403
+price                        2.85
+elevator                        1
+space                           1
+parking                         1
+averageDistrictValue    91.757584
+test                     8.992243
+cat                             1
+Name: 878, dtype: object
+
+meter                              50
+district                south-shahran
+buildYear                        1398
+price                            24.5
+elevator                            1
+space                               0
+parking                             1
+averageDistrictValue       108.714665
+test                         5.435733
+cat                                 5
+Name: 1387, dtype: object
+
+meter                           86
+district                     ozgol
+buildYear                     1403
+price                          3.0
+elevator                         1
+space                            1
+parking                          1
+averageDistrictValue    144.051589
+test                     12.388437
+cat                              1
+Name: 1671, dtype: object
+
+meter                           87
+district                majid-abad
+buildYear                     1403
+price                         2.25
+elevator                         1
+space                            1
+parking                          1
+averageDistrictValue     83.873621
+test                      7.297005
+cat                              1
+Name: 1762, dtype: object
+
+meter                         131
+district                  baharan
+buildYear                    1400
+price                    3.100009
+elevator                        1
+space                           1
+parking                         1
+averageDistrictValue    93.110032
+test                    12.197414
+cat                             2
+Name: 2652, dtype: object
+
+meter                             67
+district                shahrak-naft
+buildYear                       1385
+price                            2.1
+elevator                           0
+space                              0
+parking                            1
+averageDistrictValue      141.911382
+test                        9.508063
+cat                                1
+Name: 2761, dtype: object
+
+meter                          180
+district                 kuy-faraz
+buildYear                     1402
+price                      8.38125
+elevator                         1
+space                            1
+parking                          1
+averageDistrictValue    143.748071
+test                     25.874653
+cat                              3
+Name: 2829, dtype: object
+
+meter                            150
+district                chitgar-lake
+buildYear                       1403
+price                          2.025
+elevator                           1
+space                              1
+parking                            1
+averageDistrictValue       46.395585
+test                        6.959338
+cat                                1
+Name: 2891, dtype: object
+
+meter                             89
+district                niroo-havayi
+buildYear                       1403
+price                            2.3
+elevator                           1
+space                              1
+parking                            1
+averageDistrictValue       88.573962
+test                        7.883083
+cat                                1
+Name: 3322, dtype: object
+
+meter                           87
+district                    jordan
+buildYear                     1403
+price                         2.48
+elevator                         1
+space                            1
+parking                          1
+averageDistrictValue    156.497014
+test                      13.61524
+cat                              1
+Name: 3852, dtype: object
+
+meter                          89
+district                    ahang
+buildYear                    1403
+price                        2.14
+elevator                        1
+space                           1
+parking                         1
+averageDistrictValue    72.404904
+test                     6.444036
+cat                             1
+Name: 4036, dtype: object
+
+meter                           50
+district                   darakeh
+buildYear                     1377
+price                          2.5
+elevator                         0
+space                            0
+parking                          1
+averageDistrictValue    150.448983
+test                      7.522449
+cat                              1
+Name: 4120, dtype: object
+
+meter                         125
+district                   narmak
+buildYear                    1402
+price                         3.7
+elevator                        1
+space                           1
+parking                         1
+averageDistrictValue    98.792751
+test                    12.349094
+cat                             2
+Name: 4250, dtype: object
+
+meter                             120
+district                abshar-tehran
+buildYear                        1402
+price                             2.4
+elevator                            1
+space                               1
+parking                             1
+averageDistrictValue        69.548722
+test                         8.345847
+cat                                 1
+Name: 4679, dtype: object
+
+meter                         118
+district                nazi-abad
+buildYear                    1403
+price                         2.5
+elevator                        1
+space                           1
+parking                         1
+averageDistrictValue    70.200286
+test                     8.283634
+cat                             1
+Name: 4725, dtype: object
+
+meter                           72
+district                nemat-abad
+buildYear                     1393
+price                         12.0
+elevator                         0
+space                            0
+parking                          1
+averageDistrictValue     40.397003
+test                      2.908584
+cat                              4
+Name: 5629, dtype: object
+
+meter                          70
+district                afsariyeh
+buildYear                    1403
+price                        20.0
+elevator                        1
+space                           1
+parking                         1
+averageDistrictValue    67.464023
+test                     4.722482
+cat                             4
+Name: 5640, dtype: object
+
