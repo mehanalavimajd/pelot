@@ -1,192 +1,1036 @@
-meter                          72
-district                shokoofeh
-buildYear                    1385
-price                        16.5
-elevator                        0
-space                           1
-parking                         0
-averageDistrictValue    72.333534
-test                     5.208014
-cat                             4
-Name: 721, dtype: object
+meter                              64
+district                khani-abad-no
+buildYear                        1385
+rooms                               2
+price                             2.2
+elevator                            0
+space                               0
+parking                             0
+floor                               4
+averageDistrictValue         62.59238
+test                         4.005912
+age2                             5832
+Name: 80, dtype: object
 
-meter                          98
-district                hakimiyeh
+meter                              76
+district                khani-abad-no
+buildYear                        1379
+rooms                               2
+price                             2.5
+elevator                            0
+space                               0
+parking                             1
+floor                               1
+averageDistrictValue         62.59238
+test                         4.757021
+age2                            13824
+Name: 87, dtype: object
+
+meter                              70
+district                khani-abad-no
+buildYear                        1383
+rooms                               2
+price                            2.22
+elevator                            0
+space                               0
+parking                             1
+floor                               4
+averageDistrictValue         62.59238
+test                         4.381467
+age2                             8000
+Name: 94, dtype: object
+
+meter                         175
+district                   narmak
 buildYear                    1403
-price                        2.85
+rooms                           3
+price                        34.0
 elevator                        1
 space                           1
 parking                         1
-averageDistrictValue    91.757584
-test                     8.992243
-cat                             1
+floor                           3
+averageDistrictValue    98.792751
+test                    17.288732
+age2                            0
+Name: 389, dtype: object
+
+meter                              90
+district                abshar-tehran
+buildYear                        1401
+rooms                               2
+price                            3.35
+elevator                            1
+space                               1
+parking                             1
+floor                              14
+averageDistrictValue        69.548722
+test                         6.259385
+age2                                8
+Name: 559, dtype: object
+
+meter                           196
+district                zafaraniyeh
+buildYear                      1385
+rooms                             3
+price                          23.5
+elevator                          1
+space                             1
+parking                           1
+floor                             1
+averageDistrictValue     257.574509
+test                      50.484604
+age2                           5832
+Name: 805, dtype: object
+
+meter                           80
+district                sadeghiyeh
+buildYear                     1400
+rooms                            2
+price                          3.2
+elevator                         0
+space                            1
+parking                          1
+floor                            1
+averageDistrictValue     94.626888
+test                      7.570151
+age2                            27
 Name: 865, dtype: object
 
-meter                              50
-district                south-shahran
-buildYear                        1398
-price                            24.5
-elevator                            1
-space                               0
-parking                             1
-averageDistrictValue       108.714665
-test                         5.435733
-cat                                 5
-Name: 1374, dtype: object
-
-meter                           86
-district                     ozgol
-buildYear                     1403
-price                          3.0
-elevator                         1
+meter                          175
+district                   shirazi
+buildYear                     1370
+rooms                            3
+price                         15.5
+elevator                         0
 space                            1
 parking                          1
-averageDistrictValue    144.051589
-test                     12.388437
-cat                              1
-Name: 1658, dtype: object
+floor                            3
+averageDistrictValue    162.968244
+test                     28.519443
+age2                         35937
+Name: 1040, dtype: object
 
-meter                           87
-district                majid-abad
-buildYear                     1403
-price                         2.25
-elevator                         1
+meter                          100
+district                  mirdamad
+buildYear                     1378
+rooms                            2
+price                          8.3
+elevator                         0
 space                            1
 parking                          1
-averageDistrictValue     83.873621
-test                      7.297005
-cat                              1
-Name: 1749, dtype: object
+floor                            3
+averageDistrictValue    159.022487
+test                     15.902249
+age2                         15625
+Name: 1105, dtype: object
 
-meter                             67
-district                shahrak-naft
-buildYear                       1385
-price                            2.1
-elevator                           0
-space                              0
-parking                            1
-averageDistrictValue      141.911382
-test                        9.508063
-cat                                1
-Name: 2747, dtype: object
-
-meter                          180
-district                 kuy-faraz
-buildYear                     1402
-price                      8.38125
-elevator                         1
-space                            1
-parking                          1
-averageDistrictValue    143.748071
-test                     25.874653
-cat                              3
-Name: 2815, dtype: object
-
-meter                             89
-district                niroo-havayi
-buildYear                       1403
-price                            2.3
+meter                             71
+district                sorkhe-hesar
+buildYear                       1393
+rooms                              2
+price                            8.8
 elevator                           1
 space                              1
 parking                            1
-averageDistrictValue       88.573962
-test                        7.883083
-cat                                1
-Name: 3300, dtype: object
+floor                              4
+averageDistrictValue       68.545441
+test                        4.866726
+age2                            1000
+Name: 1183, dtype: object
 
-meter                           87
-district                    jordan
-buildYear                     1403
-price                         2.48
-elevator                         1
-space                            1
+meter                            105
+district                sorkhe-hesar
+buildYear                       1402
+rooms                              2
+price                            2.5
+elevator                           1
+space                              1
+parking                            1
+floor                              1
+averageDistrictValue       68.545441
+test                        7.197271
+age2                               1
+Name: 1184, dtype: object
+
+meter                            139
+district                sorkhe-hesar
+buildYear                       1402
+rooms                              2
+price                            4.9
+elevator                           1
+space                              1
+parking                            1
+floor                              5
+averageDistrictValue       68.545441
+test                        9.527816
+age2                               1
+Name: 1187, dtype: object
+
+meter                            200
+district                tehran-jolfa
+buildYear                       1370
+rooms                              2
+price                           13.6
+elevator                           1
+space                              1
+parking                            1
+floor                              1
+averageDistrictValue      128.985385
+test                       25.797077
+age2                           35937
+Name: 1209, dtype: object
+
+meter                            75
+district                saadat-abad
+buildYear                      1380
+rooms                             1
+price                           6.0
+elevator                          0
+space                             0
+parking                           0
+floor                             0
+averageDistrictValue     182.400847
+test                      13.680064
+age2                          12167
+Name: 1282, dtype: object
+
+meter                              95
+district                abshar-tehran
+buildYear                        1403
+rooms                               3
+price                            3.61
+elevator                            1
+space                               1
+parking                             1
+floor                              10
+averageDistrictValue        69.548722
+test                         6.607129
+age2                                0
+Name: 1287, dtype: object
+
+meter                          21
+district                javadiyeh
+buildYear                    1370
+rooms                           3
+price                         2.1
+elevator                        0
+space                           0
+parking                         1
+floor                           3
+averageDistrictValue    51.288575
+test                      1.07706
+age2                        35937
+Name: 1377, dtype: object
+
+meter                                   26
+district                tehran-hosein-abad
+buildYear                             1402
+rooms                                    0
+price                                 26.0
+elevator                                 1
+space                                    1
+parking                                  0
+floor                                    0
+averageDistrictValue            148.425609
+test                              3.859066
+age2                                     1
+Name: 1493, dtype: object
+
+meter                           70
+district                   ekbatan
+buildYear                     1383
+rooms                            2
+price                         3.85
+elevator                         0
+space                            0
 parking                          1
-averageDistrictValue    156.497014
-test                      13.61524
-cat                              1
-Name: 3830, dtype: object
+floor                            4
+averageDistrictValue    115.380561
+test                      8.076639
+age2                          8000
+Name: 1546, dtype: object
+
+meter                           72
+district                      evin
+buildYear                     1387
+rooms                            1
+price                         5.25
+elevator                         0
+space                            0
+parking                          1
+floor                            0
+averageDistrictValue    137.564603
+test                      9.904651
+age2                          4096
+Name: 1597, dtype: object
+
+meter                           50
+district                      evin
+buildYear                     1371
+rooms                            1
+price                          3.0
+elevator                         0
+space                            0
+parking                          1
+floor                            0
+averageDistrictValue    137.564603
+test                       6.87823
+age2                         32768
+Name: 1599, dtype: object
+
+meter                          93500
+district                        evin
+buildYear                       1397
+rooms                              2
+price                           22.7
+elevator                           1
+space                              1
+parking                            0
+floor                              3
+averageDistrictValue      137.564603
+test                    12862.290387
+age2                             216
+Name: 1602, dtype: object
+
+meter                           134
+district                tolid-daroo
+buildYear                      1401
+rooms                             3
+price                           4.0
+elevator                          1
+space                             1
+parking                           1
+floor                             2
+averageDistrictValue      56.195165
+test                       7.530152
+age2                              8
+Name: 1660, dtype: object
+
+meter                          60
+district                 elahiyeh
+buildYear                    1402
+rooms                           1
+price                        30.0
+elevator                        1
+space                           1
+parking                         1
+floor                           4
+averageDistrictValue        180.0
+test                    15.989463
+age2                            1
+Name: 1783, dtype: object
+
+meter                                     104
+district                javadiyeh-tehran-pars
+buildYear                                1401
+rooms                                       2
+price                                    3.85
+elevator                                    1
+space                                       0
+parking                                     1
+floor                                       1
+averageDistrictValue                69.933089
+test                                 7.273041
+age2                                        8
+Name: 1984, dtype: object
+
+meter                                      60
+district                javadiyeh-tehran-pars
+buildYear                                1391
+rooms                                       1
+price                                    2.05
+elevator                                    0
+space                                       0
+parking                                     1
+floor                                       0
+averageDistrictValue                69.933089
+test                                 4.195985
+age2                                     1728
+Name: 1985, dtype: object
+
+meter                               60
+district                saheb-al-zaman
+buildYear                         1370
+rooms                                2
+price                              8.5
+elevator                             0
+space                                0
+parking                              1
+floor                                3
+averageDistrictValue         65.761982
+test                          3.945719
+age2                             35937
+Name: 2270, dtype: object
 
 meter                          89
 district                    ahang
 buildYear                    1403
-price                        2.14
+rooms                           2
+price                        2.39
 elevator                        1
 space                           1
 parking                         1
+floor                          10
 averageDistrictValue    72.404904
 test                     6.444036
-cat                             1
-Name: 4014, dtype: object
+age2                            0
+Name: 2319, dtype: object
 
-meter                           50
-district                   darakeh
-buildYear                     1377
-price                          2.5
-elevator                         0
-space                            0
-parking                          1
-averageDistrictValue    150.448983
-test                      7.522449
-cat                              1
-Name: 4098, dtype: object
-
-meter                         125
-district                   narmak
+meter                         250
+district                    ahang
 buildYear                    1402
-price                         3.7
+rooms                           4
+price                        34.0
 elevator                        1
 space                           1
-parking                         1
-averageDistrictValue    98.792751
-test                    12.349094
-cat                             2
-Name: 4222, dtype: object
+parking                         0
+floor                           5
+averageDistrictValue    72.404904
+test                    18.101226
+age2                            1
+Name: 2337, dtype: object
 
-meter                             120
-district                abshar-tehran
-buildYear                        1402
-price                             2.4
-elevator                            1
-space                               1
-parking                             1
-averageDistrictValue        69.548722
-test                         8.345847
-cat                                 1
-Name: 4645, dtype: object
-
-meter                         118
-district                nazi-abad
+meter                          99
+district                vardavard
 buildYear                    1403
+rooms                           2
 price                         2.5
 elevator                        1
 space                           1
 parking                         1
-averageDistrictValue    70.200286
-test                     8.283634
-cat                             1
-Name: 4691, dtype: object
+floor                          12
+averageDistrictValue         67.0
+test                     5.176265
+age2                            0
+Name: 2431, dtype: object
 
-meter                           72
-district                nemat-abad
-buildYear                     1393
-price                         12.0
-elevator                         0
-space                            0
-parking                          1
-averageDistrictValue     40.397003
-test                      2.908584
-cat                              4
-Name: 5595, dtype: object
-
-meter                          70
-district                afsariyeh
-buildYear                    1403
-price                        20.0
+meter                          90
+district                vardavard
+buildYear                    1402
+rooms                           2
+price                        2.34
 elevator                        1
 space                           1
 parking                         1
-averageDistrictValue    67.464023
-test                     4.722482
-cat                             4
-Name: 5606, dtype: object
+floor                           8
+averageDistrictValue         67.0
+test                     4.705696
+age2                            1
+Name: 2449, dtype: object
+
+meter                          45
+district                zargandeh
+buildYear                    1371
+rooms                           1
+price                        2.85
+elevator                        0
+space                           0
+parking                         0
+floor                           1
+averageDistrictValue    128.87466
+test                      5.79936
+age2                        32768
+Name: 2533, dtype: object
+
+meter                          50
+district                  baharan
+buildYear                    1385
+rooms                           1
+price                         2.2
+elevator                        0
+space                           0
+parking                         1
+floor                           0
+averageDistrictValue    93.110032
+test                     4.655502
+age2                         5832
+Name: 2604, dtype: object
+
+meter                          105
+district                   darakeh
+buildYear                     1393
+rooms                            2
+price                          8.4
+elevator                         1
+space                            1
+parking                          1
+floor                            1
+averageDistrictValue    150.448983
+test                     15.797143
+age2                          1000
+Name: 2665, dtype: object
+
+meter                          120
+district                   tavanir
+buildYear                     1374
+rooms                            2
+price                          9.0
+elevator                         0
+space                            1
+parking                          1
+floor                            0
+averageDistrictValue    135.424867
+test                     16.250984
+age2                         24389
+Name: 2773, dtype: object
+
+meter                          76
+district                tehransar
+buildYear                    1392
+rooms                           2
+price                         2.9
+elevator                        1
+space                           1
+parking                         1
+floor                           3
+averageDistrictValue    68.808118
+test                     5.229417
+age2                         1331
+Name: 2861, dtype: object
+
+meter                              83
+district                khani-abad-no
+buildYear                        1384
+rooms                               1
+price                            10.6
+elevator                            0
+space                               0
+parking                             0
+floor                               3
+averageDistrictValue         62.59238
+test                         5.195168
+age2                             6859
+Name: 2909, dtype: object
+
+meter                              64
+district                north-shahran
+buildYear                        1392
+rooms                               1
+price                            2.88
+elevator                            1
+space                               1
+parking                             1
+floor                               2
+averageDistrictValue         99.59839
+test                         6.374297
+age2                             1331
+Name: 3189, dtype: object
+
+meter                           62
+district                sadeghiyeh
+buildYear                     1399
+rooms                            2
+price                          3.0
+elevator                         1
+space                            1
+parking                          1
+floor                            2
+averageDistrictValue     94.626888
+test                      5.866867
+age2                            64
+Name: 3316, dtype: object
+
+meter                          175
+district                   shirazi
+buildYear                     1370
+rooms                            3
+price                         15.0
+elevator                         0
+space                            1
+parking                          1
+floor                            3
+averageDistrictValue    162.968244
+test                     28.519443
+age2                         35937
+Name: 3454, dtype: object
+
+meter                           72
+district                   ekbatan
+buildYear                     1401
+rooms                            2
+price                          3.8
+elevator                         1
+space                            1
+parking                          1
+floor                            2
+averageDistrictValue    115.380561
+test                        8.3074
+age2                             8
+Name: 3591, dtype: object
+
+meter                                      60
+district                javadiyeh-tehran-pars
+buildYear                                1395
+rooms                                       1
+price                                     2.1
+elevator                                    0
+space                                       0
+parking                                     1
+floor                                       0
+averageDistrictValue                69.933089
+test                                 4.195985
+age2                                      512
+Name: 3781, dtype: object
+
+meter                          55
+district                      kan
+buildYear                    1375
+rooms                           1
+price                         2.2
+elevator                        0
+space                           0
+parking                         0
+floor                           0
+averageDistrictValue    85.567099
+test                      4.70619
+age2                        21952
+Name: 3907, dtype: object
+
+meter                               87
+district                saheb-al-zaman
+buildYear                         1403
+rooms                                2
+price                              2.2
+elevator                             1
+space                                1
+parking                              1
+floor                               13
+averageDistrictValue         65.761982
+test                          5.721292
+age2                                 0
+Name: 3924, dtype: object
+
+meter                         156
+district                    ahang
+buildYear                    1399
+rooms                           2
+price                         5.0
+elevator                        1
+space                           1
+parking                         1
+floor                           5
+averageDistrictValue    72.404904
+test                    11.295165
+age2                           64
+Name: 3975, dtype: object
+
+meter                         235
+district                    ahang
+buildYear                    1402
+rooms                           3
+price                        33.0
+elevator                        1
+space                           1
+parking                         1
+floor                           1
+averageDistrictValue    72.404904
+test                    17.015152
+age2                            1
+Name: 3984, dtype: object
+
+meter                          85
+district                vardavard
+buildYear                    1390
+rooms                           2
+price                         2.4
+elevator                        1
+space                           0
+parking                         0
+floor                           1
+averageDistrictValue         67.0
+test                     4.444268
+age2                         2197
+Name: 4006, dtype: object
+
+meter                         110
+district                vardavard
+buildYear                    1403
+rooms                           2
+price                        2.75
+elevator                        1
+space                           1
+parking                         1
+floor                           7
+averageDistrictValue         67.0
+test                     5.751406
+age2                            0
+Name: 4007, dtype: object
+
+meter                         100
+district                vardavard
+buildYear                    1403
+rooms                           2
+price                         2.3
+elevator                        1
+space                           1
+parking                         1
+floor                          16
+averageDistrictValue         67.0
+test                     5.228551
+age2                            0
+Name: 4012, dtype: object
+
+meter                          93
+district                vardavard
+buildYear                    1384
+rooms                           2
+price                         2.6
+elevator                        0
+space                           0
+parking                         0
+floor                           1
+averageDistrictValue         67.0
+test                     4.862552
+age2                         6859
+Name: 4022, dtype: object
+
+meter                           50
+district                   darakeh
+buildYear                     1377
+rooms                            1
+price                          2.5
+elevator                         0
+space                            0
+parking                          1
+floor                            2
+averageDistrictValue    150.448983
+test                      7.522449
+age2                         17576
+Name: 4064, dtype: object
+
+meter                          260
+district                  niloufar
+buildYear                     1371
+rooms                            4
+price                         16.0
+elevator                         0
+space                            0
+parking                          1
+floor                            4
+averageDistrictValue    135.895739
+test                     35.332892
+age2                         32768
+Name: 4142, dtype: object
+
+meter                          75
+district                nazi-abad
+buildYear                    1402
+rooms                           2
+price                         2.1
+elevator                        1
+space                           1
+parking                         1
+floor                           2
+averageDistrictValue    70.200286
+test                     5.265021
+age2                            1
+Name: 4225, dtype: object
+
+meter                          120
+district                moshiriyeh
+buildYear                     1370
+rooms                            2
+price                         14.0
+elevator                         0
+space                            0
+parking                          1
+floor                            2
+averageDistrictValue     54.673457
+test                      6.560815
+age2                         35937
+Name: 4252, dtype: object
+
+meter                          70
+district                 dabestan
+buildYear                    1383
+rooms                           1
+price                        3.31
+elevator                        0
+space                           0
+parking                         1
+floor                           3
+averageDistrictValue    98.088676
+test                     6.866207
+age2                         8000
+Name: 4384, dtype: object
+
+meter                           185
+district                sheykh-hadi
+buildYear                      1400
+rooms                             3
+price                          26.0
+elevator                          1
+space                             1
+parking                           1
+floor                             4
+averageDistrictValue      77.092906
+test                      14.262188
+age2                             27
+Name: 4495, dtype: object
+
+meter                             120
+district                khani-abad-no
+buildYear                        1382
+rooms                               1
+price                            15.0
+elevator                            0
+space                               1
+parking                             1
+floor                               4
+averageDistrictValue         62.59238
+test                         7.511086
+age2                             9261
+Name: 4506, dtype: object
+
+meter                              27
+district                abshar-tehran
+buildYear                        1400
+rooms                               0
+price                             4.0
+elevator                            1
+space                               1
+parking                             0
+floor                               0
+averageDistrictValue        69.548722
+test                         1.877815
+age2                               27
+Name: 4605, dtype: object
+
+meter                             110
+district                abshar-tehran
+buildYear                        1403
+rooms                               3
+price                             3.3
+elevator                            1
+space                               1
+parking                             1
+floor                               5
+averageDistrictValue        69.548722
+test                         7.650359
+age2                                0
+Name: 4609, dtype: object
+
+meter                              75
+district                abshar-tehran
+buildYear                        1403
+rooms                               2
+price                            2.15
+elevator                            1
+space                               1
+parking                             1
+floor                              10
+averageDistrictValue        69.548722
+test                         5.216154
+age2                                0
+Name: 4610, dtype: object
+
+meter                          83
+district                  salamat
+buildYear                    1383
+rooms                           2
+price                        2.55
+elevator                        0
+space                           0
+parking                         1
+floor                           0
+averageDistrictValue    56.642363
+test                     4.701316
+age2                         8000
+Name: 4813, dtype: object
+
+meter                           75
+district                     ozgol
+buildYear                     1380
+rooms                            2
+price                         20.0
+elevator                         1
+space                            1
+parking                          1
+floor                            2
+averageDistrictValue    144.051589
+test                     10.803869
+age2                         12167
+Name: 4857, dtype: object
+
+meter                          65
+district                 elahiyeh
+buildYear                    1401
+rooms                           2
+price                        32.0
+elevator                        1
+space                           1
+parking                         1
+floor                           5
+averageDistrictValue        180.0
+test                    17.321919
+age2                            8
+Name: 4902, dtype: object
+
+meter                           58
+district                     zafar
+buildYear                     1385
+rooms                            1
+price                          4.7
+elevator                         0
+space                            0
+parking                          1
+floor                            2
+averageDistrictValue    148.341618
+test                      8.603814
+age2                          5832
+Name: 4935, dtype: object
+
+meter                           135
+district                behjat-abad
+buildYear                      1398
+rooms                             3
+price                           7.3
+elevator                          0
+space                             0
+parking                           1
+floor                             4
+averageDistrictValue     101.829723
+test                      13.747013
+age2                            125
+Name: 5358, dtype: object
+
+meter                           90
+district                dolat-abad
+buildYear                     1371
+rooms                            2
+price                         13.0
+elevator                         0
+space                            1
+parking                          1
+floor                            0
+averageDistrictValue     58.095591
+test                      5.228603
+age2                         32768
+Name: 5478, dtype: object
+
+meter                          75
+district                 dabestan
+buildYear                    1379
+rooms                           2
+price                         4.0
+elevator                        0
+space                           0
+parking                         1
+floor                           4
+averageDistrictValue    98.088676
+test                     7.356651
+age2                        13824
+Name: 5516, dtype: object
+
+meter                          83
+district                      kan
+buildYear                    1383
+rooms                           2
+price                       3.901
+elevator                        0
+space                           1
+parking                         1
+floor                           3
+averageDistrictValue    85.567099
+test                     7.102069
+age2                         8000
+Name: 5538, dtype: object
+
+meter                          58
+district                      kan
+buildYear                    1395
+rooms                           1
+price                       2.146
+elevator                        1
+space                           0
+parking                         1
+floor                           5
+averageDistrictValue    85.567099
+test                     4.962892
+age2                          512
+Name: 5541, dtype: object
+
+meter                               60
+district                saheb-al-zaman
+buildYear                         1370
+rooms                                2
+price                              8.8
+elevator                             0
+space                                0
+parking                              1
+floor                                2
+averageDistrictValue         65.761982
+test                          3.945719
+age2                             35937
+Name: 5579, dtype: object
+
+meter                          97
+district                vardavard
+buildYear                    1402
+rooms                           1
+price                         2.3
+elevator                        1
+space                           1
+parking                         1
+floor                           9
+averageDistrictValue         67.0
+test                     5.071694
+age2                            1
+Name: 5596, dtype: object
+
+meter                           125
+district                qezel-qaleh
+buildYear                      1385
+rooms                             2
+price                          28.5
+elevator                          1
+space                             1
+parking                           1
+floor                             1
+averageDistrictValue      126.49834
+test                      15.812292
+age2                           5832
+Name: 5677, dtype: object
+
+meter                            82
+district                sizdah-aban
+buildYear                      1379
+rooms                             2
+price                           2.1
+elevator                          0
+space                             0
+parking                           1
+floor                             4
+averageDistrictValue      47.483209
+test                       3.893623
+age2                          13824
+Name: 5705, dtype: object
+
+meter                          55
+district                  baharan
+buildYear                    1390
+rooms                           2
+price                        2.45
+elevator                        0
+space                           0
+parking                         0
+floor                           3
+averageDistrictValue    93.110032
+test                     5.121052
+age2                         2197
+Name: 5746, dtype: object
+
+meter                          60
+district                  baharan
+buildYear                    1396
+rooms                           2
+price                        2.45
+elevator                        0
+space                           0
+parking                         0
+floor                           2
+averageDistrictValue    93.110032
+test                     5.586602
+age2                          343
+Name: 5757, dtype: object
 
