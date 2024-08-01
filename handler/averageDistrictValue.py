@@ -34,6 +34,7 @@ def averagePriceValue(df):
                 average[district]=[]
                 average[district].append(d[i]['pricePerM2'])
     used=[]
+    priceByDistrictDict={}
     for i in range(len(d)):
         district=d[i]['district']
         if(district not in used):
@@ -41,13 +42,15 @@ def averagePriceValue(df):
             l = np.array(average[district])
             l = reject_outliers(l,m=3)
             average[district] = sum(l)/len(l)
-            
+            priceByDistrictDict[district]=average[district]
             print(len(l),tedad[district],average[district])
     for i in range(len(d)):
         district=d[i]['district']
         d[i]['averageDistrictValue']=average[district]
         d[i]['test']=d[i]['meter']*average[d[i]['district']]
-    
+    with open('avgByDistrict.json','w') as f:
+        import json
+        f.write(json.dumps(str(priceByDistrictDict)))
     d=pd.DataFrame(d)
     d=d.drop("pricePerM2",axis=1)
     d.sort_values("district")
