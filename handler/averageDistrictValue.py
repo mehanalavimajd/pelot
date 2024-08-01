@@ -50,7 +50,7 @@ def averagePriceValue(df):
         d[i]['test']=d[i]['meter']*average[d[i]['district']]
     with open('avgByDistrict.json','w') as f:
         import json
-        f.write(json.dumps(str(priceByDistrictDict)))
+        f.write(json.dumps(priceByDistrictDict))
     d=pd.DataFrame(d)
     d=d.drop("pricePerM2",axis=1)
     d.sort_values("district")
