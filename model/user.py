@@ -15,12 +15,26 @@ class Log(BaseEstimator, TransformerMixin):
         return x
 final_model_reloaded = joblib.load("./model/model.pkl")
 
-req = pandas.read_csv("user.csv") # new data
+req = pandas.DataFrame({
+    'meter':78,
+    'district':'sadeghiyeh',
+    'elevator':0,
+    'space':1,
+    'rooms':2,
+    'floor':4,
+    'parking':1,
+    'buildYear':1379
+},index=[2838])
 with open('avgByDistrict.json','r') as f:
     districts=json.loads(f.read())
     print(type(districts))
-req['averageDistrictValue']=districts.req['district']
-req['test']=req['averageDistrictValue']*req['meter']
+   
+print(req['district']) 
+req['averageDistrictValue']=req['district'].map(districts)/1e6
+req['test']=req['averageDistrictValue']*req['meter']/1e3
+
+print(req['averageDistrictValue'])
+
 
 predictions = final_model_reloaded.predict(req)
 print(predictions)
