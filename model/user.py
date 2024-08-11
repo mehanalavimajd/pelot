@@ -29,10 +29,9 @@ with open('avgByDistrict.json','r') as f:
     districts=json.loads(f.read())
     print(type(districts))
 def predictor(r):
-    #print(r['district']) 
+    # print(r['district']) 
     r['averageDistrictValue']=r['district'].map(districts)/1e6
     r['test']=r['averageDistrictValue']*r['meter']/1e3
-
-    #print(r['averageDistrictValue'])
+    # print(r['averageDistrictValue'])
     predictions = final_model_reloaded.predict(r)
     return round(predictions[0],2)
