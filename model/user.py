@@ -14,7 +14,6 @@ class Log(BaseEstimator, TransformerMixin):
             x[i][0]=log10(x[i][0])
         return x
 final_model_reloaded = joblib.load("./model/model.pkl")
-
 req = pandas.DataFrame({
     'meter':78,
     'district':'sadeghiyeh',
@@ -27,7 +26,6 @@ req = pandas.DataFrame({
 },index=[2838])
 with open('avgByDistrict.json','r') as f:
     districts=json.loads(f.read())
-    print(type(districts))
 def predictor(r):
     # print(r['district']) 
     r['averageDistrictValue']=r['district'].map(districts)/1e6
@@ -35,3 +33,4 @@ def predictor(r):
     # print(r['averageDistrictValue'])
     predictions = final_model_reloaded.predict(r)
     return round(predictions[0],2)
+print(predictor(req))
