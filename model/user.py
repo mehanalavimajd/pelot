@@ -15,14 +15,14 @@ class Log(BaseEstimator, TransformerMixin):
         return x
 final_model_reloaded = joblib.load("./model/model.pkl")
 req = pandas.DataFrame({
-    'meter':78,
-    'district':'sadeghiyeh',
-    'elevator':0,
+    'meter':200,
+    'district':'bagh-feyz',
+    'elevator':1,
     'space':1,
-    'rooms':2,
-    'floor':4,
+    'rooms':1,
+    'floor':3,
     'parking':1,
-    'buildYear':1379
+    'buildYear':1390
 },index=[2838])
 with open('avgByDistrict.json','r') as f:
     districts=json.loads(f.read())
