@@ -1,6 +1,7 @@
 * {
   margin: 0;
   padding: 0;
+  position: relative;
 }
 @font-face {
   font-family: vazirmatn;
@@ -34,9 +35,20 @@ nav > img {
 }
 main{
     height: 85%;
+    display: flex;
+    flex-direction: row;
 }
 .line {
-  border-left: 6px solid #3b3d3f;
+  border-right: 6px solid #3b3d3f;
   height: 100%;
-  margin-left: 35%;
+  width: 0;
+}
+.output{
+    font-family: vazirmatnexbold;
+    width: 35%;
+    font-size: xx-large;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
