@@ -2,6 +2,7 @@
   margin: 0;
   padding: 0;
   position: relative;
+  overflow: hidden;
 }
 @font-face {
   font-family: vazirmatn;
@@ -65,21 +66,22 @@ main{
 .data{
   display: flex;
   flex-direction: column;
-  margin-left: auto;
-  margin-top: 10%;
-}
-.data > h2{
-  width:100%;
-  font-family: vazirmatn;
-  margin-right: auto;
+  align-items: flex-end;
+  margin-top: 4%;
+  flex-grow: 1;
 
 }
+h2{
+  font-family: vazirmatn;
+  font-size: xx-large;
+  margin-right: 30%;
+}
 .datarow{
-  width:100%;
   display: flex;
   flex-direction: row-reverse;
   font-family: vazirmatn;
   font-size: xx-large;
+  margin-right:2%;
 }
 input{
   background-color: #3B3D3F;
