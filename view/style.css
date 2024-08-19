@@ -53,9 +53,12 @@ main{
     align-items: center;
     color:#3B3D3F;
 }
-.info-output{
-
-}
 .price{
-    margin-bottom: 50%;
+    margin-bottom: 30%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.price-digit{
+  font-size: xxx-large;
 }
