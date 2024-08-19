@@ -15,11 +15,15 @@ nav{
     height: 15%;
     background-color: #3B3D3F;
     display: flex;
-    justify-content: center;
     align-items: center;
+    gap:30%;
 }
 nav > h1{
     font-family: vazirmatn;
     color:white;
     font-size: xxx-large;
+}
+nav > img{
+    height: 75%; 
+    margin-left: 5%;
 }
