@@ -62,3 +62,27 @@ main{
 .price-digit{
   font-size: xxx-large;
 }
+.data{
+  display: flex;
+  flex-direction: column;
+  margin-left: auto;
+  margin-top: 10%;
+}
+.data > h2{
+  width:100%;
+  font-family: vazirmatn;
+  margin-right: auto;
+
+}
+.datarow{
+  width:100%;
+  display: flex;
+  flex-direction: row-reverse;
+  font-family: vazirmatn;
+  font-size: xx-large;
+}
+input{
+  background-color: #3B3D3F;
+  border:none;
+  width:5%;
+}
