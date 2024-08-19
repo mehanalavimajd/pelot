@@ -32,12 +32,11 @@ nav > img {
   height: 75%;
   margin-left: 5%;
 }
+main{
+    height: 85%;
+}
 .line {
-  border: #3b3d3f 3px solid;
-  border-left: 6px solid green;
-  height: 500px;
-  position: absolute;
-  left: 50%;
-  margin-left: -3px;
-  top: 0;
+  border-left: 6px solid #3b3d3f;
+  height: 100%;
+  margin-left: 35%;
 }
