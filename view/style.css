@@ -74,6 +74,8 @@ h2{
   font-family: vazirmatn;
   font-size: xx-large;
   margin-right: 30%;
+  color: #3B3D3F;
+  direction:rtl;
 }
 
 .data-row-parent{
@@ -92,14 +94,19 @@ h2{
   margin-right:2%;
   gap:10%;
   direction: rtl;
+  align-items: center;
 }
 input{
   background-color: #3B3D3F;
   border:none;
-  aspect-ratio: 1/1.26;
+  width: 5%;
+  height: 100%;
 }
 .hline{
-  border: #3B3D3F solid 6px;
-  width: 4%;
+  border: #3B3D3F solid 5px;
+  width: 1.5%;
   height: 0;
+}
+.data-row > span:nth-child(1) {
+  margin-left: -8%; /* Adjusts the gap between 1st and 2nd children */
 }
