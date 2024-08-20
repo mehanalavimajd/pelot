@@ -82,7 +82,7 @@ h2{
   display: flex;
   flex-direction: column;
   justify-content: space-around;
-  height: 80%;
+  height: 85%;
   gap:2%;
   width:100%;
 }
@@ -109,4 +109,15 @@ input{
 }
 .data-row > span:nth-child(1) {
   margin-left: -8%; /* Adjusts the gap between 1st and 2nd children */
+}
+button{
+  width: 20%;
+  background: rgb(253, 115, 35);
+  height: 14%;
+  color: white;
+  font-family: vazirmatnexbold;
+  border:none;
+  font-size: xx-large;
+  margin-left: 10%;
+  margin-top: -10%;
 }
