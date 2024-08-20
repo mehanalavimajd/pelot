@@ -75,22 +75,31 @@ h2{
   font-size: xx-large;
   margin-right: 30%;
 }
-.data-row{
-  display: flex;
-  flex-direction: row-reverse;
-  font-family: vazirmatn;
-  font-size: xx-large;
-  margin-right:2%;
-}
-input{
-  background-color: #3B3D3F;
-  border:none;
-  aspect-ratio: 1/1.26;
-}
+
 .data-row-parent{
   display: flex;
   flex-direction: column;
   justify-content: space-around;
   height: 80%;
   gap:2%;
+  width:100%;
+}
+.data-row{
+  display: flex;
+  flex-direction: row;
+  font-family: vazirmatn;
+  font-size: xx-large;
+  margin-right:2%;
+  gap:10%;
+  direction: rtl;
+}
+input{
+  background-color: #3B3D3F;
+  border:none;
+  aspect-ratio: 1/1.26;
+}
+.hline{
+  border: #3B3D3F solid 6px;
+  width: 4%;
+  height: 0;
 }
