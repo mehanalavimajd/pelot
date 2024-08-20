@@ -67,9 +67,8 @@ main{
   display: flex;
   flex-direction: column;
   align-items: flex-end;
-  margin-top: 4%;
+  margin-top: 2%;
   flex-grow: 1;
-
 }
 h2{
   font-family: vazirmatn;
@@ -86,5 +85,12 @@ h2{
 input{
   background-color: #3B3D3F;
   border:none;
-  width:5%;
+  aspect-ratio: 1/1.26;
+}
+.datarow-parent{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  height: 80%;
+  gap:2%;
 }
