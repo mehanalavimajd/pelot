@@ -75,7 +75,7 @@ h2{
   font-size: xx-large;
   margin-right: 30%;
 }
-.datarow{
+.data-row{
   display: flex;
   flex-direction: row-reverse;
   font-family: vazirmatn;
@@ -87,7 +87,7 @@ input{
   border:none;
   aspect-ratio: 1/1.26;
 }
-.datarow-parent{
+.data-row-parent{
   display: flex;
   flex-direction: column;
   justify-content: space-around;
