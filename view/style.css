@@ -62,6 +62,7 @@ main{
 }
 .price-digit{
   font-size: xxx-large;
+  margin-bottom: -30%;
 }
 .data{
   display: flex;
@@ -145,4 +146,15 @@ button{
   margin-right:70%;
   transform: translateY(-80%);
   padding-bottom: 1%;
+}
+select{
+  accent-color: #3b3d3b;
+  background-color: #3B3D3F;
+  border:none;
+  width: 36%;
+  height: 100%;
+  color: white;
+  padding: 0;
+  font-size: x-large;
+  text-align: center;
 }
