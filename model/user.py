@@ -3,6 +3,13 @@ from sklearn.base import BaseEstimator, TransformerMixin
 from math import log10
 import pandas
 import json
+
+from flask import Flask, request, jsonify
+
+app = Flask(__name__)
+from flask import Flask, request, jsonify
+
+app = Flask(__name__)
 class Log(BaseEstimator, TransformerMixin):
     def __init__(self):
         return 
@@ -34,3 +41,14 @@ def predictor(r):
     predictions = final_model_reloaded.predict(r)
     return round(predictions[0],2)
 print(predictor(req))
+
+@app.route('/predict', methods=['POST'])
+def predict():
+    data = request.json
+    # Preprocess data if necessary
+    req = pandas.DataFrame(data,index=[1])
+    prediction = predictor(req)
+    return jsonify({'prediction': prediction.tolist()})
+
+if __name__ == '__main__':
+    app.run(debug=True)
