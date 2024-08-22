@@ -101,6 +101,21 @@ input{
   border:none;
   width: 5%;
   height: 100%;
+  color: white;
+  padding: 0;
+  font-size: x-large;
+  text-align: center;
+
+}
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    /* display: none; <- Crashes Chrome on hover */
+    -webkit-appearance: none;
+    margin: 0; /* <-- Apparently some margin are still there even though it's hidden */
+}
+
+input[type=number] {
+    -moz-appearance:textfield; /* Firefox */
 }
 .hline{
   border: #3B3D3F solid 5px;
