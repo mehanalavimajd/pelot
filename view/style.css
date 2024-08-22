@@ -82,9 +82,9 @@ h2{
   display: flex;
   flex-direction: column;
   justify-content: space-around;
-  height: 85%;
+  height: 100%;
   gap:2%;
-  width:100%;
+  margin-right: 2%;
 }
 .data-row{
   display: flex;
@@ -92,20 +92,30 @@ h2{
   font-family: vazirmatn;
   font-size: xx-large;
   margin-right:2%;
-  gap:10%;
   direction: rtl;
   align-items: center;
+  justify-content: space-between;
 }
 input{
+  appearance: none;
+  accent-color: #3b3d3b;
   background-color: #3B3D3F;
   border:none;
-  width: 5%;
+  width: 10%;
   height: 100%;
   color: white;
   padding: 0;
   font-size: x-large;
   text-align: center;
-
+}
+input[type="checkbox"]:checked::before {
+  content: "\2713"; /* Checkmark character */
+  color: #fff; /* Checkmark color */
+  font-size: xxx-large;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
 input::-webkit-outer-spin-button,
 input::-webkit-inner-spin-button {
@@ -126,13 +136,13 @@ input[type=number] {
   margin-left: -8%; /* Adjusts the gap between 1st and 2nd children */
 }
 button{
-  width: 20%;
+  width:20%;
   background: rgb(253, 115, 35);
-  height: 14%;
   color: white;
   font-family: vazirmatnexbold;
   border:none;
   font-size: xx-large;
-  margin-left: 10%;
-  margin-top: -10%;
+  margin-right:70%;
+  transform: translateY(-80%);
+  padding-bottom: 1%;
 }
