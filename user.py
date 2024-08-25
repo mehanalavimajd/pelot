@@ -4,12 +4,10 @@ from math import log10
 import pandas
 import json
 
-from flask import Flask, request, jsonify
 
-app = Flask(__name__)
-from flask import Flask, request, jsonify
+from flask import Flask, request, jsonify, render_template
 
-app = Flask(__name__)
+app = Flask(__name__,static_url_path='/templates/')
 class Log(BaseEstimator, TransformerMixin):
     def __init__(self):
         return 
@@ -49,6 +47,9 @@ def predict():
     req = pandas.DataFrame(data,index=[1])
     prediction = predictor(req)
     return jsonify({'prediction': prediction.tolist()})
+@app.route('/', methods=['GET'])
+def main():
+    return render_template("main.html")
 
 if __name__ == '__main__':
     app.run(debug=True)

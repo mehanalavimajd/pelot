@@ -6,11 +6,11 @@
 }
 @font-face {
   font-family: vazirmatn;
-  src: url("static/fonts/Vazirmatn-Regular.ttf");
+  src: url("./fonts/Vazirmatn-Regular.ttf");
 }
 @font-face {
   font-family: vazirmatnexbold;
-  src: url("static/fonts/Vazirmatn-ExtraBold.ttf");
+  src: url("./fonts/Vazirmatn-ExtraBold.ttf");
 }
 html,
 body {

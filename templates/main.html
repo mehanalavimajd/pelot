@@ -4,13 +4,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <link rel="stylesheet" href="./style.css">
+    <title>Pelot - پیلوت</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <link rel="shortcut icon" type = 'image/x-icon' href="{{ url_for('static', filename='pelot.jpeg') }}">
 </head>
 
 <body>
     <nav>
-        <img src="static/pelot.jpeg" alt="logo">
+        <img src="{{ url_for('static', filename='pelot.jpeg') }}" alt="logo">
         <h1>
             تخمین قیمت ملک
         </h1>
@@ -218,6 +219,7 @@
             <button>تخمین بزن</button>
         </div>
     </main>
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
 </body>
 
 </html>
