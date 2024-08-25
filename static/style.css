@@ -63,6 +63,7 @@ main{
 .price-digit{
   font-size: xxx-large;
   margin-bottom: -30%;
+  transition: all 0.4s ease;
 }
 .data{
   display: flex;
@@ -86,6 +87,7 @@ h2{
   height: 100%;
   gap:2%;
   margin-right: 2%;
+  margin-top: 1%;
 }
 .data-row{
   display: flex;
@@ -157,4 +159,14 @@ select{
   padding: 0;
   font-size: x-large;
   text-align: center;
+}
+select{
+  font-family: vazirmatn;
+}
+#year{
+  font-size: medium;
+}
+
+button:hover {
+  background-color: #3B3D3F;   
 }
